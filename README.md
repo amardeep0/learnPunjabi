@@ -7,6 +7,10 @@ Need to have sub-pages (for each folder) within main page
 <li>Level-2</li>
 <li>Level-3</li>
  </ul>
+ 
+ - [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/).
+ - [Level 2](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/).
+ - [Level 3](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/).
 
 
 
