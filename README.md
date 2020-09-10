@@ -14,7 +14,7 @@
  
  [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/)
  
- [Level 8 (WorldLanguageProficiencyAssessment_Punjabi)](https://amardeep0.github.io/learnPunjabi/WorldLanguageProficiencyAssessment_Punjabi/)
+ [Level 8 (World Language Proficiency Assessment-Punjabi)](https://amardeep0.github.io/learnPunjabi/WorldLanguageProficiencyAssessment_Punjabi/)
  
  
 
