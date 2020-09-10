@@ -4,7 +4,7 @@
 
 ### Level 1 - Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 
-[Punjabi Alphabets Sounds and how to write them](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
+[Punjabi Alphabets (Consonants and Vowels) - Sounds and how to write them](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
 
 **Trace Alphabets worksheets**
 
