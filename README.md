@@ -1,4 +1,3 @@
-# Resources to Learn Punjabi (ਪੰਜਾਬੀ) Language
 
  [Level 1 (Beginner - Punjabi Alphabets)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)
  
