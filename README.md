@@ -13,7 +13,7 @@
  
  [Level 7 (Advanced)](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/)
  
- [Level 8 (World Language Proficiency Assessment - Get Competency Credits)](https://amardeep0.github.io/learnPunjabi/WorldLanguageProficiencyAssessment_Punjabi/)
+ [Level 8 (World Language Competency Testing)](https://amardeep0.github.io/learnPunjabi/WorldLanguageProficiencyAssessment_Punjabi/)
  
  
 
