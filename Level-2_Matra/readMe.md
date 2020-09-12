@@ -12,8 +12,9 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
 #### Audio Lessons
 
-[ਮੁਹਾਰਨੀ ਸੁਣੋੀ](http://www.discoversikhism.com/punjabi/muharni.html#)
-Read and Listen to Muharni by Line or separately by hovering over each individual letters)
+[ਮੁਹਾਰਨੀ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html#)
+
+Read and Listen to Muharni by each Line or by hovering over individual letters)
 
 #### Video Lessons
 
