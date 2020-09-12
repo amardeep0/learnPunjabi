@@ -10,10 +10,10 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
 *Matra words - Dream Book 2* - [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_matra.pdf)
 
-### Audio Lessons
+#### Audio Lessons
 
-*Read and Listen to Muharni by Line or separately by hovering over each individual letters).*
-[ਮੁਹਾਰਨੀ](http://www.discoversikhism.com/punjabi/muharni.html#)
+[ਮੁਹਾਰਨੀ ਸੁਣੋੀ](http://www.discoversikhism.com/punjabi/muharni.html#)
+Read and Listen to Muharni by Line or separately by hovering over each individual letters)
 
 #### Video Lessons
 
