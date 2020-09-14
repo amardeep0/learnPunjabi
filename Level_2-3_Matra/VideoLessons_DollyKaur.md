@@ -1,8 +1,8 @@
-*Video Lessons by Dolly Kaur Ji*
+**Video Lessons by Dolly Kaur Ji**
 
 * [Mukta words](https://www.youtube.com/playlist?list=PL3LG80z1ctknWKPyEzb6s63O4Mvevc4et)
 
-* Muharni Lessons
+* *Muharni Lessons*
 
   *  [Muharni Line 1_ੳ-ਹ](https://www.youtube.com/watch?v=mGow12J5SVM)
 
