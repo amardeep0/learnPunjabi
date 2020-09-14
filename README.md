@@ -3,9 +3,7 @@ This is a list of some of the online resources to help anyone to learn Punjabi. 
 
 [Level 1 (Beginner - Punjabi Alphabets)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)
  
- [Level 2 (Beginner - Matra)](https://amardeep0.github.io/learnPunjabi/Level-2_Matra/)
- 
- [Level 3 (Beginner - Matra)](https://amardeep0.github.io/learnPunjabi/Level-3_Matra/)
+[Level 2 & 3 (Beginner - Matra)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)
  
  [Level 4 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/)
  
