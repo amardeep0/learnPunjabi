@@ -17,7 +17,7 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
 [ਮੁਹਾਰਨੀ ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html#)
 
-    Read and Listen to Muharni by each Line or by hovering over individual letters)
+  Read and Listen to Muharni by each Line or by hovering over individual letters)
     
 *Mukta and Matra words*    
 
