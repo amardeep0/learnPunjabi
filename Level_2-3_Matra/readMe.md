@@ -20,12 +20,35 @@ Read and Listen to Muharni by each Line or by hovering over individual letters)
 
 - [Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
 
-- *Lessons by other Teachers*
+- *Lessons by other Teachers* 
 
-    - [Two-Letter Mukta words (ਮੁਕਤਾ - ਦੋ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ) - 1](https://www.youtube.com/watch?v=cWVpwQQ3n24&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=11)
-    - [Three-Letter Mukta words (ਮੁਕਤਾ - ਤਿੰਨ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ) - 2](https://www.youtube.com/watch?v=NZF87N-7qHQ&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=10)
-    - [Four-Letter Mukta words (ਮੁਕਤਾ - ਚਾਰ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ) - 3](https://www.youtube.com/watch?v=a3uqqRlaomI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=9)
-    - [Mukta words Sentences (ਮੁਕਤਾ ਸ਼ਬਦ ਵਾਕ) - 4](https://www.youtube.com/watch?v=GwWEZTtmxuM&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8)
+    - Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)
+
+        - [Two-Letter Mukta words (ਮੁਕਤਾ - ਦੋ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ) - 1](https://www.youtube.com/watch?v=cWVpwQQ3n24&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=11)
+        - [Three-Letter Mukta words (ਮੁਕਤਾ - ਤਿੰਨ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ) - 2](https://www.youtube.com/watch?v=NZF87N-7qHQ&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=10)
+        - [Four-Letter Mukta words (ਮੁਕਤਾ - ਚਾਰ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ) - 3](https://www.youtube.com/watch?v=a3uqqRlaomI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=9)
+        - [Mukta words Sentences (ਮੁਕਤਾ ਸ਼ਬਦ ਵਾਕ) - 4](https://www.youtube.com/watch?v=GwWEZTtmxuM&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8)
+    
+    
+    - Matra Words (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
+
+      - [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)]
+
+  
+
+  * [Sihari & Bihari Words (ਸਿਹਾਰੀ ਅਤੇ ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=GrsQ7FAKjVs)
+ 
+  * [Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=D-x3BL3Xfi0)
+
+  * [Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=cW8x8xYyqeU)
+
+  * [Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=HqnZWvTW938)
+
+  * [Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=wM4k50hUHiA)
+
+  * [Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=ICQYHoiPibM) 
+ 
+  * [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=zmJT9Q0KjrU)
     
 
 
