@@ -15,6 +15,10 @@ This is a list of some of the online resources to help anyone to learn Punjabi. 
  
  [Level 8 (World Language Competency Testing)](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
  
+**Punjabi Dictionary**
+
+[Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)
+ 
  
 
 
