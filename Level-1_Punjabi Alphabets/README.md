@@ -6,7 +6,7 @@
 
 [Punjabi Alphabets (Consonants and Vowels) - Listen to the Alphabet Sounds and learn how to write them](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
 
-[Punjabi Alphabets - Practice by shuffling the letters](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
+[Punjabi Alphabets - Practice by shuffling the letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
 
 **Trace Alphabets worksheets**
 
