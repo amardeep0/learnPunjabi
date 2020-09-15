@@ -1,7 +1,7 @@
-**Video Lessons by Dolly Kaur Ji**
+**Video Lessons by Dolly Kaur**
 
 
-* *Muharni Lessons*
+* **Muharni Lessons**
 
   *  [Muharni Line 1_ੳ-ਹ](https://www.youtube.com/watch?v=mGow12J5SVM)
 
@@ -17,9 +17,9 @@
 
   *  [Muharni Line 7_ਯ-ੜ](https://www.youtube.com/watch?v=_0GXVGoED54)
   
-* [Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)](https://www.youtube.com/playlist?list=PL3LG80z1ctknWKPyEzb6s63O4Mvevc4et)
+* [**Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)**](https://www.youtube.com/playlist?list=PL3LG80z1ctknWKPyEzb6s63O4Mvevc4et)
 
-* *Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)*
+* **Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
 
   * [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-1)](https://www.youtube.com/watch?v=qokt6YlJHjQ)
 
