@@ -7,8 +7,11 @@
 [Punjabi Alphabets (Consonants and Vowels) - Listen to the Alphabet Sounds and learn how to write them](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
 
 [Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)](https://www.youtube.com/watch?v=TnxhNCHOq4c&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=12) - video
+
 [Punjabi Alphabets - 1st 2 lines (ੳ-ਙ)](https://www.youtube.com/watch?v=TnxhNCHOq4c&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=12) - video
+
 [Punjabi Alphabets - Lines 3-4 (ਚ-ਣ)](https://www.youtube.com/watch?v=O61yjW43dHA&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=29) - video
+
 [Punjabi Alphabets - Lines 5-8 (ਤ-ਫ਼)](https://www.youtube.com/watch?v=BSmSoAhpPWU&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=30) - video
 
 [Punjabi Alphabets - Practice by shuffling the letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
