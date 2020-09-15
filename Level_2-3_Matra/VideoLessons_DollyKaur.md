@@ -21,23 +21,23 @@
 
 * *Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)*
 
- * [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-1)](https://www.youtube.com/watch?v=qokt6YlJHjQ)
+  * [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-1)](https://www.youtube.com/watch?v=qokt6YlJHjQ)
 
- * [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-2)](https://www.youtube.com/watch?v=v3eQuqz7im8)
+  * [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-2)](https://www.youtube.com/watch?v=v3eQuqz7im8)
 
- * [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-3)](https://www.youtube.com/watch?v=4N07bYro1WM)
+  * [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-3)](https://www.youtube.com/watch?v=4N07bYro1WM)
 
- * [Sihari & Bihari Words (ਸਿਹਾਰੀ ਅਤੇ ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=GrsQ7FAKjVs)
+  * [Sihari & Bihari Words (ਸਿਹਾਰੀ ਅਤੇ ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=GrsQ7FAKjVs)
  
- * [Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=D-x3BL3Xfi0)
+  * [Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=D-x3BL3Xfi0)
 
- * [Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=cW8x8xYyqeU)
+  * [Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=cW8x8xYyqeU)
 
- * [Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=HqnZWvTW938)
+  * [Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=HqnZWvTW938)
 
- * [Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=wM4k50hUHiA)
+  * [Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=wM4k50hUHiA)
 
- * [Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=ICQYHoiPi) 
+  * [Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=ICQYHoiPibM) 
  
  * [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=zmJT9Q0KjrU)
 
