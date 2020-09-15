@@ -103,7 +103,11 @@ Read and Listen to Muharni by each Line or by hovering over individual letters)
       
 ## Listening and Speaking
 
-   - [Listen and practice speaking Basic voacabulary words](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)
+   - [Listen and practice speaking Basic voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)
+       Word categories - Prepositions, questions, Adverbs, pronouns, Verbs)
+   - [Listen and practice speaking common voacabulary words - 2](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)
+       Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes,        Travel, School, Body parts
+   
    - [Listen and practice speaking Basic Punjabi phrases that are used daily. These Punjabi phrases can be used in a variety of conversations.](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_phrases.html)
       
       
