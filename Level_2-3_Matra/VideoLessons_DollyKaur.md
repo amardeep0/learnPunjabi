@@ -39,5 +39,5 @@
 
   * [Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=ICQYHoiPibM) 
  
- * [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=zmJT9Q0KjrU)
+  * [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=zmJT9Q0KjrU)
 
