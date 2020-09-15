@@ -15,6 +15,8 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
 #### Websites
 
+*Mukta and Matra words Lists*
+
 - [Mukta Lessons (ਮੁਕਤਾ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)
 
 - [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/kanna_words.html)
@@ -34,24 +36,10 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 - [Hora Words (ਹੋੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/hora_words.html)
 
 - [Kanoura Words (ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/kanaura_words.html)
-      
-      
-      - Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)
+
+*Vocabulary Lists*
+
+
     
 
 #### Audio Lessons
@@ -77,28 +65,29 @@ Read and Listen to Muharni by each Line or by hovering over individual letters)
     
     - Matra Words (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
 
-      - Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Sihari & Bihari Words (ਸਿਹਾਰੀ ਅਤੇ ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)
-      
-      
-      - Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)
+      - [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=dcSMDUIbRYs&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8&t=0s)
+
+      - [Sihari Words (ਸਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=FDeVkq0VXdo&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=7&t=0s)
+
+      - [Bihari Words (ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=1s6cr8L-Tc8&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=6&t=0s)
+
+      - [Lavan Words (ਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=4w_HICyjUxo&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=3&t=0s)
+
+      - [Dulavan Words (ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=HtVZhvBSumg&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=2&t=0s)
+
+      - [Aunkar Words (ਔਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=ObbbCgBHZmU&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=5&t=0s)
+
+      - [Dulankar Words (ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=NxhurTbIEKw&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=3)
+
+      - [Hora Words (ਹੋੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=z0pVUTgom6g&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=15&t=0s)
+
+      - [Kanoura Words (ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=1frZq7uq4_E&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=14&t=0s)
+            
+      - [Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=yH0Mtkzt9oI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=19&t=0s)
+            
+      - [Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=RGV7CemXyq8&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=16&t=0s)
+            
+      - [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=yCrFTY0zb8o&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=18&t=0s)
       
       
 ## Listening and Speaking
@@ -109,7 +98,8 @@ Read and Listen to Muharni by each Line or by hovering over individual letters)
    - [Listen and practice speaking common voacabulary words - 2](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)
    
        - Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
-   
+       
+          
    - [Listen and practice speaking Basic Punjabi phrases](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_phrases.html)
    
        - These Punjabi phrases can be used daily in a variety of conversations.
