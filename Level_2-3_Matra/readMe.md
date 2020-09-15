@@ -13,82 +13,85 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
 *Matra words - Dream Book 2* - [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_matra.pdf)
 
-#### Websites
-
-*Mukta and Matra words Lists*
-
-- [Mukta Lessons (ਮੁਕਤਾ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)
-
-- [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/kanna_words.html)
-
-- [Sihari Words (ਸਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/sihari_words.html)
-
-- [Bihari Words (ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/bihari_words.html)
-
-- [Lavan Words (ਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/lava_words.html)
-
-- [Dulavan Words (ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/dulava_words.html)
-
-- [Aunkar Words (ਔਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/aunkar_words.html)
-
-- [Dulankar Words (ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/dulainkar_words.html)
-
-- [Hora Words (ਹੋੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/hora_words.html)
-
-- [Kanoura Words (ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/kanaura_words.html)
-
-*Vocabulary Lists*
-
-
-    
-
-#### Audio Lessons
+#### Websites and Videos
 
 [ਮੁਹਾਰਨੀ ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html#)
 
-Read and Listen to Muharni by each Line or by hovering over individual letters)
-
-
-#### Video Lessons
-
-- [Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
-
-- *Lessons by other Teachers* 
-
-    - Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)
-
-      - [Two-Letter Mukta words (ਮੁਕਤਾ - ਦੋ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ)-1](https://www.youtube.com/watch?v=cWVpwQQ3n24&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=11)
-      - [Three-Letter Mukta words (ਮੁਕਤਾ - ਤਿੰਨ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ)-2](https://www.youtube.com/watch?v=NZF87N-7qHQ&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=10)
-      - [Four-Letter Mukta words (ਮੁਕਤਾ - ਚਾਰ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ)-3](https://www.youtube.com/watch?v=a3uqqRlaomI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=9)
-      - [Mukta words Sentences (ਮੁਕਤਾ ਸ਼ਬਦ - ਵਾਕ)-4](https://www.youtube.com/watch?v=GwWEZTtmxuM&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8)
+    Read and Listen to Muharni by each Line or by hovering over individual letters)
     
-    
-    - Matra Words (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
+*Mukta and Matra words*    
 
-      - [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=dcSMDUIbRYs&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8&t=0s)
+- [Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
 
-      - [Sihari Words (ਸਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=FDeVkq0VXdo&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=7&t=0s)
+- Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)
 
-      - [Bihari Words (ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=1s6cr8L-Tc8&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=6&t=0s)
+    - [Mukta Lessons (ਮੁਕਤਾ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)
+    - [Two-Letter Mukta words (ਮੁਕਤਾ - ਦੋ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ)-1](https://www.youtube.com/watch?v=cWVpwQQ3n24&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=11) - video
+    - [Three-Letter Mukta words (ਮੁਕਤਾ - ਤਿੰਨ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ)-2](https://www.youtube.com/watch?v=NZF87N-7qHQ&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=10) - Video
+    - [Four-Letter Mukta words (ਮੁਕਤਾ - ਚਾਰ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ)-3](https://www.youtube.com/watch?v=a3uqqRlaomI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=9) - Video
+    - [Mukta words Sentences (ਮੁਕਤਾ ਸ਼ਬਦ - ਵਾਕ)-4](https://www.youtube.com/watch?v=GwWEZTtmxuM&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8) - Video
 
-      - [Lavan Words (ਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=4w_HICyjUxo&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=3&t=0s)
+- Kanna Words
 
-      - [Dulavan Words (ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=HtVZhvBSumg&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=2&t=0s)
+    - [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)-1](http://www.discoversikhism.com/punjabi/kanna_words.html)
+    - [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=dcSMDUIbRYs&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8&t=0s) - Video
 
-      - [Aunkar Words (ਔਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=ObbbCgBHZmU&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=5&t=0s)
+- Sihari Words
 
-      - [Dulankar Words (ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=NxhurTbIEKw&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=3)
+- [Sihari Words (ਸਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)-1](http://www.discoversikhism.com/punjabi/sihari_words.html)
+- [Sihari Words (ਸਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=FDeVkq0VXdo&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=7&t=0s) - Video
 
-      - [Hora Words (ਹੋੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=z0pVUTgom6g&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=15&t=0s)
+- Bihari Words
 
-      - [Kanoura Words (ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=1frZq7uq4_E&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=14&t=0s)
+- [Bihari Words (ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)-1](http://www.discoversikhism.com/punjabi/bihari_words.html)
+- [Bihari Words (ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=1s6cr8L-Tc8&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=6&t=0s) - Video
+
+- Lavan Words
+
+- [Lavan Words (ਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)-1](http://www.discoversikhism.com/punjabi/lava_words.html)
+- [Lavan Words (ਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=4w_HICyjUxo&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=3&t=0s) - Video
+ 
+ - Dulavan Words
+ 
+- [Dulavan Words (ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)-1](http://www.discoversikhism.com/punjabi/dulava_words.html)
+- [Dulavan Words (ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=HtVZhvBSumg&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=2&t=0s) - Video
+
+- Aunkar Words
+
+- [Aunkar Words (ਔਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/aunkar_words.html)
+- [Aunkar Words (ਔਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=ObbbCgBHZmU&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=5&t=0s) - Video
+
+- Dulankar Words
+
+- [Dulankar Words (ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/dulainkar_words.html)
+- [Dulankar Words (ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=NxhurTbIEKw&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=3) - Video
+
+- Hora Words
+
+- [Hora Words (ਹੋੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/hora_words.html)
+ -[Hora Words (ਹੋੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=z0pVUTgom6g&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=15&t=0s) - Video
+
+- Kanoura Words
+
+- [Kanoura Words (ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/kanaura_words.html)
+- [Kanoura Words (ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=1frZq7uq4_E&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=14&t=0s) - Video
+
+- Adhak Words
+
+- [Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=yH0Mtkzt9oI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=19&t=0s) - Video
+   
+- Tippi Words
+   
+- [Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=RGV7CemXyq8&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=16&t=0s) - Video
+   
+- Bindi Words
             
-      - [Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=yH0Mtkzt9oI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=19&t=0s)
-            
-      - [Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=RGV7CemXyq8&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=16&t=0s)
-            
-      - [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=yCrFTY0zb8o&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=18&t=0s)
-      
+- [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=yCrFTY0zb8o&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=18&t=0s) - Video
+
+*More Vocabulary Lists*
+ 
+
+          
       
 ## Listening and Speaking
 
