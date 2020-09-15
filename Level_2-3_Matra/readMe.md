@@ -4,11 +4,41 @@
 #### Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets.
 
+
 #### Books 
 
 *Mukta words - Dream Book 1* - [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf)
 
 *Matra words - Dream Book 2* - [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_matra.pdf)
+
+#### Websites
+
+- [Mukta Lessons (ਮੁਕਤਾ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)
+
+- [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/kanna_words.html)
+
+- [Sihari Words (ਸਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/sihari_words.html)
+
+- [Bihari Words (ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/bihari_words.html)
+      
+      
+      - Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
+      
+      
+      - Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
+      
+      
+      - Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)
+      
+      
+      - Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)
+      
+      
+      - Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)
+      
+      
+      - Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)
+    
 
 #### Audio Lessons
 
