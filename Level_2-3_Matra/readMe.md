@@ -7,7 +7,7 @@
 Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets.
 
 
-#### Books 
+**Books** 
 
 *Mukta words - Dream Book 1* - [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf)
 
@@ -19,13 +19,13 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
 ..............................................................................................................................
 
-*Muharni (ਮੁਹਾਰਨੀ)*
+**Muharni (ਮੁਹਾਰਨੀ)**
 
 [ਮੁਹਾਰਨੀ ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html#)
 
   Read and Listen to Muharni by each Line or by hovering over individual letters)
     
-*Mukta and Matra words*    
+**Mukta and Matra words**    
 
 - [Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
 
@@ -94,10 +94,9 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
             
 - [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=yCrFTY0zb8o&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=18&t=0s) - Video
 
-*More Vocabulary Lists*
+**More Vocabulary Lists**
  
-
-          
+      
       
 ## Listening and Speaking
 
