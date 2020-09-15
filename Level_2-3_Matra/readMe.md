@@ -18,7 +18,9 @@ Read and Listen to Muharni by each Line or by hovering over individual letters)
 
 #### Video Lessons
 
-[Video Lessons by Dolly Kaur Ji](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
+[**Video Lessons by Dolly Kaur**](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
+
+**Video Lessons by other Teachers**
 
 
 
