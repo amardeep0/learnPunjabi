@@ -5,9 +5,21 @@
 ### Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 
 [Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
-    Listen to the Alphabet Sounds and learn how to write them.
+  - Listen to the Alphabet Sounds and learn how to write them.
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
+
+**Books*** 
+
+*ਪੰਜਾਬ ਸਕੂਲ ਸਿੱਖਿਆ ਬੋਰਡ ਦੀਆਂ ਕਿਤਾਬਾਂ (PSEB text books)*
+
+[ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)
+  - Punjabi Alphabets lessons are on Pages 18-67.
+
+
+ *Books from other sources*
+  
+ 
   
 
 [Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)](https://www.youtube.com/watch?v=TnxhNCHOq4c&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=12) - video
@@ -19,6 +31,8 @@
 [Punjabi Alphabets - Lines 5-8 (ਤ-ਫ਼)](https://www.youtube.com/watch?v=BSmSoAhpPWU&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=30) - video
 
 #### **********
+
+
 
 **Trace Alphabets worksheets**
 
