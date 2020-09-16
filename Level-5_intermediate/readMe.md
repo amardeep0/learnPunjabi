@@ -4,7 +4,7 @@
  
 [Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books) - set of 8 books
 
-**Books** (Please download the ebooks on your device.)
+**Books*** 
 
 *ਪੰਜਾਬ ਸਕੂਲ ਸਿੱਖਿਆ ਬੋਰਡ ਦੀਆਂ ਕਿਤਾਬਾਂ (PSEB text books)*
 
@@ -30,3 +30,7 @@
  
  ### ਵਾਕ ਰਚਨਾ (Make Sentences)
  https://www.sikhville.org/index.php?option=com_content&view=article&id=205&Itemid=285
+ 
+ 
+ * Please download the ebooks on your device for convenience.
+
