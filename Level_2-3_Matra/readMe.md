@@ -19,7 +19,6 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
 *Books from other sources*
   
- [ਸੌਖੀ ਪੰਜਾਬੀ-2 – Panjabi Made Easy (Book 2)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_2.html)
 
 *Mukta words - Dream Book 1* - [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf)
 
