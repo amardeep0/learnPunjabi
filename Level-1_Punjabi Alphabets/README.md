@@ -14,7 +14,7 @@
 
 [Punjabi Alphabets - Lines 5-8 (ਤ-ਫ਼)](https://www.youtube.com/watch?v=BSmSoAhpPWU&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=30) - video
 
-[Punjabi Alphabets - Practice by shuffling the letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
+[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
 
 **Trace Alphabets worksheets**
 
