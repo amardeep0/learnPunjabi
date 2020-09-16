@@ -4,11 +4,11 @@
 
 ### Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 
-[Punjabi Alphabets (Consonants and Vowels) - Listen to the Alphabet Sounds and learn how to write them](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
+[Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
+   Listen to the Alphabet Sounds and learn how to write them.
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
-
-
+  
 
 [Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)](https://www.youtube.com/watch?v=TnxhNCHOq4c&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=12) - video
 
