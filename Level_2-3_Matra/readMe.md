@@ -28,11 +28,13 @@ Students will be able to:
 > There are a large number of free online resources (Books, Websites and YouTube videos) for learning Punjabi. 
 > Please see below for some of them for this level.
 ---
+
 **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
 
 Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets.
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
+
 ---
 
 **Muharni, Mukta and Matra words (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
@@ -41,9 +43,9 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
  Read and Listen to Muharni by each Line or by hovering over individual letters)
  
- *Books*
-  =====
-  Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
+ **Books**
+   
+Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
 
 - [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
 
@@ -82,7 +84,6 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 **[Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)**
     
    
-
 - Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)
 
     - [Mukta Lessons (ਮੁਕਤਾ ਸ਼ਬਦ)](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)
