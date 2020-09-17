@@ -10,13 +10,15 @@
 
 ---
 
-**Books*** 
+**Books**
+   
+Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
 
-*ਪੰਜਾਬ ਸਕੂਲ ਸਿੱਖਿਆ ਬੋਰਡ ਦੀਆਂ ਕਿਤਾਬਾਂ (PSEB text books)*
+- [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
 
-[ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)
-  - Punjabi Alphabets lessons are on Pages 18-67.
+| Books Names | Relevant Content |
 
+| 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67 |
 | --- | --- |
 | 12. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  | 
 | --- | --- |
