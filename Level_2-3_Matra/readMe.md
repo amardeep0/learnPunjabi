@@ -4,10 +4,13 @@
 
 
 **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
-Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets...
+
+Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets.
+
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
 
 =============================================
+
 | **Books** | 
 
 [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books
@@ -29,11 +32,16 @@ Punjabi Alphabets lessons - Pages 18-67 | Matra chapters lessons - Pages 68-138
 
 [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html)
 
- [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html)
+[ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html)
 
 [Amardeep Punjabi Paath Maala 1 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 1](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_1.html)
 
 [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille
+
+[Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille
+
+[Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille
+
 
 
 
