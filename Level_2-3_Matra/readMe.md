@@ -37,8 +37,8 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 ---
 **Muharni, Mukta and Matra words (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
  
- *Books*
-   Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
+ *Books*...
+ Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
 
 [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
 
@@ -52,27 +52,26 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 | --- | --- |
 | 4. [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf) - *Mukta words - Dream Book 1* |  | 
 | --- | --- |
-
-5. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_matra.pdf) - *Matra words - Dream Book 2* 
-
-6. [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html)
-
-7. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html)
-
-8. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html)
-
-9. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html)
-
-10. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html)
-
-11. [Amardeep Punjabi Paath Maala 1 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 1](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_1.html)
-
-12. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille
-
-[Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille
-
-[Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille
-
+| 5. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_matra.pdf) - *Matra words - Dream Book 2* |  | 
+| --- | --- |
+| 6. [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html) |  | 
+| --- | --- |
+| 7. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html) |  | 
+| --- | --- |
+| 8. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html) |  | 
+| --- | --- |
+| 9. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) |  | 
+| --- | --- |
+| 10. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) |  | 
+| --- | --- |
+| 11. [Amardeep Punjabi Paath Maala 1 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 1](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_1.html) |  | 
+| --- | --- |
+| 12. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille |  | 
+| --- | --- |
+| [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille |  | 
+| --- | --- |
+| [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille |  | 
+| --- | --- |
 
 ---
 
