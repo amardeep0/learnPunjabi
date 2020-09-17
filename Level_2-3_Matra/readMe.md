@@ -6,25 +6,22 @@
 **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)** .. Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets...
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
 
-**Books** 
+=============================================
+**Books** | 
 
+[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books
 
 [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) - PSEB
-- Punjabi Alphabets lessons - Pages 18-67 
-- Matra chapters lessons - Pages 68-138
+Punjabi Alphabets lessons - Pages 18-67 | Matra chapters lessons - Pages 68-138
 
-[ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf)
+[ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) - PSEB
 
-*Books from other sources*
-  
+[ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf) - *Mukta words - Dream Book 1* 
 
-*Mukta words - Dream Book 1* - [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf)
-
-*Matra words - Dream Book 2* - [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_matra.pdf)
+[ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_matra.pdf) - *Matra words - Dream Book 2* 
 
 [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html)
 
-[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books
 
 
 .........................................................................
