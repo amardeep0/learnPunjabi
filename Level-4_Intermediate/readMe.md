@@ -8,8 +8,9 @@
 | --- | --- |
 | 2. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review Pages 5-32, Vocabulary Pages 33-35, Reading comprehension Pages 37-124 |
 | --- | --- |
-| 3. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4 (2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
+| 10. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) |  | 
 | --- | --- |
+
 
 *Vocabulary Lists*
 
