@@ -36,11 +36,16 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 ---
 
 **Muharni, Mukta and Matra words (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
- 
- *Books*...
-   Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
 
-[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
+[ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html#)
+
+ Read and Listen to Muharni by each Line or by hovering over individual letters)
+ 
+ *Books*
+  =====
+  Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
+
+- [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
 
 | Books Names | Relevant Content |
 | --- | --- |
@@ -73,17 +78,10 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 | [Punjabi Ginti Likhan Abhiaas (ਪੰਜਾਬੀ ਗਿਣਤੀ ਲਿਖਣ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  | 
 | --- | --- |
 
----
 
-**Muharni (ਮੁਹਾਰਨੀ)**
-
-[ਮੁਹਾਰਨੀ ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html#)
-
-  Read and Listen to Muharni by each Line or by hovering over individual letters)
+**[Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)**
     
-**Mukta and Matra words**    
-
-- [Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
+   
 
 - Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)
 
