@@ -20,6 +20,9 @@ This is a list of some of the online resources to help anyone to learn Punjabi. 
 [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)
  
  
+Abbreviations
+
+*PSEB - ਪੰਜਾਬ ਸਕੂਲ ਸਿੱਖਿਆ ਬੋਰਡ ਦੀਆਂ ਕਿਤਾਬਾਂ (PSEB text books)*
 
 
 
