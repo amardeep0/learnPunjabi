@@ -9,6 +9,8 @@
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
 
+---
+
 **Books*** 
 
 *ਪੰਜਾਬ ਸਕੂਲ ਸਿੱਖਿਆ ਬੋਰਡ ਦੀਆਂ ਕਿਤਾਬਾਂ (PSEB text books)*
@@ -19,7 +21,7 @@
 
  *Books from other sources*
   
- 
+ ***
   
 
 [Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)](https://www.youtube.com/watch?v=TnxhNCHOq4c&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=12) - video
@@ -42,7 +44,7 @@ NOTE DESCRIPTION
 </div>
 </div>
 
-
+___
 **Trace Alphabets worksheets**
 
 - [sikhville_Trace-Alphabet_Page_ੳ-ਹ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/1.pdf)
