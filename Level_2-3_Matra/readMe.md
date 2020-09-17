@@ -2,7 +2,7 @@
 
 # Level 2
 ## Reading and Writing
-  Students will be able to:
+Students will be able to:
 - Master the skills learned in Gurmukhi Level 1 and begin to use them with ease.
   - Recognize and produce the sound of all 35 letters of Gurmukhi.
   - Write all 35 letters. 
@@ -15,6 +15,7 @@
 - Match pictures and English words to Punjabi Mukta and Kanna words
 - Read & write up to 25 in Gurmukhi numbers (੧, ੨, .... ੨੪, ੨੫)
 - Write their own name in Punjabi
+
 ## Listening and Speaking
 - Match pictures or printed words to spoken texts.
 - Develop Punjabi vocabulary pertaining to the topics covered in the class
@@ -24,6 +25,7 @@
 - Retell 1-2 lines from a story.
 
 ---
+There are a large number of free online resources (Books, Websites and YouTube videos) for learning Punjabi. Please see below for some of them for this level.
 
 **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
 
@@ -32,10 +34,12 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
 
 ---
+**Muharni, Mukta and Matra words (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
+ 
+ *Books*
+   Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
 
-| **Books** | 
-
-[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books
+[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
 
 | Books Names | Relevant Content |
 | --- | --- |
