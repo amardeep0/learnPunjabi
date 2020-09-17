@@ -24,10 +24,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TnxhNCHOq4c
 " target="_blank"><img src="http://img.youtube.com/vi/TnxhNCHOq4c/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-[![Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)](http://img.youtube.com/vi/TnxhNCHOq4c/0.jpg)](http://www.youtube.com/watch?v=TnxhNCHOq4c)
+alt="Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)" width="120" height="90" border="10" /></a>
 
 [Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)](https://www.youtube.com/watch?v=TnxhNCHOq4c&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=12) - video
 
