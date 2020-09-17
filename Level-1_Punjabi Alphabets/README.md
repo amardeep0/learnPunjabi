@@ -6,6 +6,8 @@
 [Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
   - Listen to the Alphabet Sounds and learn how to write them.
 
+**[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)**
+
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
 
 ---
