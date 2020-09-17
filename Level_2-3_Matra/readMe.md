@@ -1,7 +1,28 @@
 [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
 
+# Level 2 Goals
 ## Reading and Writing
+- Master the skills learned in Gurmukhi Level 1 and begin to use them with ease.
+  - Recognize and produce the sound of all 35 letters of Gurmukhi.
+  - Write all 35 letters. 
+  - Match pictures to Punjabi letters (For example ਅ 🡪 picture of ਐਨਕ)
+  - Say matching words starting with any Gurmukhi letter ((For example ਅ 🡪 ਐਨਕ)
+- Speak the Muharni (Lagaan Matra sounds: For example ਸ, ਸਾ, ਸਿ, ਸੀ, ਸੁ, ਸੂ, ਸੇ, ਸੈ, ਸੋ, ਸੌ, ਸੰ, ਸਾਂ)
+- Read Mukta, Kanna, Sihari & Bihari words fluently. 
+- Write  Mukta, Kanna, Sihari & Bihari words.
+- Use Mukta, Kanna, Sihari & Bihari words to make sentences.
+- Match pictures and English words to Punjabi Mukta and Kanna words
+- Read & write up to 25 in Gurmukhi numbers (੧, ੨, .... ੨੪, ੨੫)
+- Write their own name in Punjabi
+## Listening and Speaking
+- Match pictures or printed words to spoken texts.
+- Develop Punjabi vocabulary pertaining to the topics covered in the class
+- Recognize and say the names of colors in Punjabi
+- Understand a range of familiar words and sentences in Punjabi
+- Answer simple questions and give basic information.
+- Retell 1-2 lines from a story.
 
+---
 
 **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
 
@@ -9,13 +30,13 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
 
-=============================================
+---
 
 | **Books** | 
 
 [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books
 
-| Book Names | Content |
+| Books Names | Relevant Content |
 | --- | --- |
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Punjabi Alphabets - Pages 18-67, Matra lessons - Pages 68-138 |
 | --- | --- |
@@ -47,11 +68,7 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille
 
 
-
-
-
-
-.........................................................................
+---
 
 **Muharni (ਮੁਹਾਰਨੀ)**
 
