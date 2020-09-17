@@ -22,8 +22,7 @@
   
  ***
 
-<a>Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲ</a>
-
+- *Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)*
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TnxhNCHOq4c
 " target="_blank"><img src="http://img.youtube.com/vi/TnxhNCHOq4c/0.jpg" 
 alt="Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)" width="120" height="90" border="10" /></a>
