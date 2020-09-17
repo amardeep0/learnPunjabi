@@ -23,6 +23,20 @@ Punjabi Alphabets lessons - Pages 18-67 | Matra chapters lessons - Pages 68-138
 
 [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html)
 
+[Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html)
+
+[Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html)
+
+[Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html)
+
+ [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html)
+
+[Amardeep Punjabi Paath Maala 1 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 1](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_1.html)
+
+[Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille
+
+
+
 
 
 .........................................................................
