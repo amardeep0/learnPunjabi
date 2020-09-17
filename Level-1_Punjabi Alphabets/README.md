@@ -18,11 +18,14 @@
   - Punjabi Alphabets lessons are on Pages 18-67.
 
 | --- | --- |
-| 12. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille |  | 
+| 12. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  | 
 | --- | --- |
-| [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) - SikhVille |  | 
+| 12. [Punjabi Varanmala Abhiaas (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  | 
+| --- | --- |
+| [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  | 
 | --- | --- |
 
+Punjabi Varanmala Abhiaas
 
  *Books from other sources*
   
