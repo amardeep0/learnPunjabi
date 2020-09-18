@@ -16,7 +16,7 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets
 /VideoLessonsInEnglish_88diljam)**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=TnxhNCHOq4c
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DihgCBZ60RA
 " target="_blank"><img src="http://img.youtube.com/vi/DihgCBZ60RA/0.jpg" 
 alt="Punjabi Alphabets (1A Haahaa (ਹ) Punjabi Words Listen)" width="150" height="120" /></a>
 
