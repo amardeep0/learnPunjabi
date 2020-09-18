@@ -6,8 +6,8 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 ---
 
-**[Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html) (ਪੈਂਤੀ ਅੱਖਰ)**
-  - Listen to the Alphabet Sounds and learn how to write them.
+**[Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html) (ਪੈਂਤੀ ਅੱਖਰ)**  
+Listen to the Alphabet Sounds and learn how to write them.
   
 **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)**  
 Click Shuffle and practice recognizing the Punjabi Alphabets.
@@ -23,10 +23,11 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
    
-Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
+> Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
 
+
+| --- | --- |
 | Books Names | Relevant Content |
-
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67 |
 | --- | --- |
 | 12. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  | 
