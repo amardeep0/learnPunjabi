@@ -1,6 +1,7 @@
-### Level 2 
----
-| Reading and Writing |
+### Level 2 Goals
+
+**Reading and Writing**
+
 Students will be able to:
 - Master the skills learned in Gurmukhi Level 1 and begin to use them with ease.
   - Recognize and produce the sound of all 35 letters of Gurmukhi.
@@ -15,7 +16,8 @@ Students will be able to:
 - Read & write up to 25 in Gurmukhi numbers (੧, ੨, .... ੨੪, ੨੫)
 - Write their own name in Punjabi
 
-| Listening and Speaking |
+**Listening and Speaking**
+
 - Match pictures or printed words to spoken texts.
 - Develop Punjabi vocabulary pertaining to the topics covered in the class
 - Recognize and say the names of colors in Punjabi
