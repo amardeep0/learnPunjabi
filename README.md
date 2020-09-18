@@ -5,9 +5,9 @@ There are a large number of free online resources (Books, Websites and YouTube v
  
 [Level 2 & 3 (Beginner - Matra)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)
  
- [Level 4 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/)
+[Level 4 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/)
  
- [Level 5 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/)
+[Level 5 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/)
  
  [Level 6 (Advanced)](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/)
  
