@@ -1,6 +1,6 @@
 [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)
 
-### Level 2  - *Learning Objectives*
+### Level 2
 
 **Reading and Writing**
 
@@ -29,5 +29,5 @@ Students will be able to:
 
 ---
 
-### Level 3 -  - Learning Objectives
+### Level 3
 
