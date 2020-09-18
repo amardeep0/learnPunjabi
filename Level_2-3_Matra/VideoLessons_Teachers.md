@@ -10,7 +10,7 @@
 
 - Kanna Words
 
-       - [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=dcSMDUIbRYs&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8&t=0s) - Video
+- [Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=dcSMDUIbRYs&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=8&t=0s) - Video
 
 - Sihari Words
 
