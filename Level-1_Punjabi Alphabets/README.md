@@ -3,26 +3,26 @@
 ### Level 1 Goals
 
 Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/Level_1_Goals) here.
- 
-### Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 
-[Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
+---
+
+**[Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html) (ਪੈਂਤੀ ਅੱਖਰ)**
   - Listen to the Alphabet Sounds and learn how to write them.
+  
+**[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)**
+
+    Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets
 /VideoLessonsInEnglish_88diljam)**
 
-[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)...
-
-Click Shuffle and practice recognizing the Punjabi Alphabets.
-
 ---
 
 **Books**
+
+[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
    
 Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
-
-- [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
 
 | Books Names | Relevant Content |
 
@@ -35,12 +35,7 @@ Following is a list of some of the books. You can choose the books based on rele
 | [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  | 
 | --- | --- |
 
-Punjabi Varanmala Abhiaas
-
- *Books from other sources*
   
- ***
-
  *Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)*
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TnxhNCHOq4c
