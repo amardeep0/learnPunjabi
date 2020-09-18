@@ -4,10 +4,6 @@
 
 Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/Levels_2_and_3_Goals) here.
  
----
-> There are a large number of free online resources (Books, Websites and YouTube videos) for learning Punjabi. 
-> Please see below for some of them for this level.
----
 
 **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
 
