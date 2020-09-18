@@ -9,7 +9,8 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets.
 
-[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
+[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html) ...
+Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ---
 
