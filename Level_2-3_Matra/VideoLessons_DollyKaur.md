@@ -1,7 +1,7 @@
 **Video Lessons by Dolly Kaur**
 
 
-| **[Level 1]**(https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) | 
+**[Level 2 & 3]**(https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra)
 
 
 | --- | --- |
