@@ -1,7 +1,11 @@
-**Video Lessons by Dolly Kaur**
-
 
 ### [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra)
+
+Video Lessons by Dolly Kaur 
+
+![Dolly Kaur][logo]
+
+[logo]: https://amardeep0.github.io/learnPunjabi/assets/images/DollyKaur.jpg
 
 **Muharni Lessons**
 
@@ -37,21 +41,6 @@
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=GrsQ7FAKjVs " target="_blank"><img src="http://img.youtube.com/vi/GrsQ7FAKjVs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=D-x3BL3Xfi0 " target="_blank"><img src="http://img.youtube.com/vi/D-x3BL3Xfi0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=cW8x8xYyqeU " target="_blank"><img src="http://img.youtube.com/vi/cW8x8xYyqeU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=HqnZWvTW938 " target="_blank"><img src="http://img.youtube.com/vi/HqnZWvTW938/0.jpg" width="120" height="90" /></a> | 
 | --- | --- | --- | --- |
 
-
-
-  * [Sihari & Bihari Words (ਸਿਹਾਰੀ ਅਤੇ ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=GrsQ7FAKjVs)
- 
-  * [Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=D-x3BL3Xfi0)
-
-  * [Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=cW8x8xYyqeU)
-
-  * [Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=HqnZWvTW938)
-
-  * [Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=wM4k50hUHiA)
-
-  * [Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=ICQYHoiPibM) 
- 
-  * [Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ)](https://www.youtube.com/watch?v=zmJT9Q0KjrU)
 
 |Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ) | Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ) | Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ) |
 | --- | --- | --- | 
