@@ -5,7 +5,7 @@
 Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/Levels_2_and_3_Goals) here.
  
 
-**Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
+**Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review**
 
 Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets.
 
@@ -21,13 +21,21 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
  Read and Listen to Muharni by each Line or by hovering over individual letters)
  
+ ---
+ 
+ **Video Lessons**
+ 
+ [Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunja---ssons_DollyKaur)
+ 
+ ---
+ 
  **Books**
    
-Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
+Following is a list of some of the books. You can choose the books based on relevant content and your preference. 
 
 - [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
 
-| Books Names | Relevant Content |
+| Books Names | Relevant Content for Level 2 & 3 |
 | --- | --- |
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Punjabi Alphabets - Pages 18-67, Matra lessons - Pages 68-138 |
 | --- | --- |
@@ -59,7 +67,7 @@ Following is a list of some of the books. You can choose the books based on rele
 | --- | --- |
 
 
-**[Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)**
+
 
 **[Video Lessons by other Teachers (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_Teachers)**
 
