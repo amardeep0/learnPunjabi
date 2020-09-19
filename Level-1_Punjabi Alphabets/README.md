@@ -23,8 +23,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
    
-> Following is a list of some of the books. You can choose the books based on relevant content and your preference. Please download the selected books to your device for convenience.
-
+> Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
 
 | --- | --- |
 | Books Names | Relevant Content |
