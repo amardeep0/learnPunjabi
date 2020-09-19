@@ -16,7 +16,6 @@
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_N8rKr2DqA " target="_blank"><img src="http://img.youtube.com/vi/Y_N8rKr2DqA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qUMB-Z27rxY " target="_blank"><img src="http://img.youtube.com/vi/qUMB-Z27rxY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_0GXVGoED54 " target="_blank"><img src="http://img.youtube.com/vi/_0GXVGoED54/0.jpg" width="120" height="90" /></a> | | 
 | --- | --- | --- | --- |
 
----
   
 **Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)**
 
@@ -25,7 +24,7 @@
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=FBltAweNd_k " target="_blank"><img src="http://img.youtube.com/vi/FBltAweNd_k/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=tCiImR-XKm0 " target="_blank"><img src="http://img.youtube.com/vi/tCiImR-XKm0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qD3w-RJ0DJs " target="_blank"><img src="http://img.youtube.com/vi/qD3w-RJ0DJs/0.jpg" width="120" height="90" /></a> | 
 | --- | --- | --- | 
 
----
+
 
 **Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
 
