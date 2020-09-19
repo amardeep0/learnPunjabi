@@ -13,9 +13,10 @@ Listen to the Alphabet Sounds and learn how to write them.
 Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets
-/VideoLessonsInEnglish_88diljam)** - *By 88diljam channel* 
-Video Lessons (2-5 min) are in English and organised into 3 different basic videos: A-Listen words, B-How to Write a letter & C-Speak words categories for each letter. Each Letter has about 8 voabulary words.
+/VideoLessonsInEnglish_88diljam)** - *By 88diljam channel*  
+Video Lessons (2-5 min) are in English and organised into 3 different basic videos: A-Listen words, B-How to Write a letter & C-Speak words categories for each letter. Each Letter has about 8 voabulary words. Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but with easy to difficult letter sounds.
 
+**[Video Lessons by other Teachers]**(https://amardeep0.github.io/learnPunjabi/VideoLessons_L1)
 
 
 ---
@@ -38,25 +39,7 @@ Video Lessons (2-5 min) are in English and organised into 3 different basic vide
 | --- | --- |
 
   
- *Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)*
- 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=TnxhNCHOq4c
-" target="_blank"><img src="http://img.youtube.com/vi/TnxhNCHOq4c/0.jpg" 
-alt="Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)" width="120" height="90" border="10" /></a>
 
-[Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)](https://www.youtube.com/watch?v=TnxhNCHOq4c&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=12) - video
-
-[Punjabi Alphabets - 1st 2 lines (ੳ-ਙ)](https://www.youtube.com/watch?v=TnxhNCHOq4c&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=12) - video
-
-[Punjabi Alphabets - Lines 3-4 (ਚ-ਣ)](https://www.youtube.com/watch?v=O61yjW43dHA&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=29) - video
-
-[Punjabi Alphabets - Lines 5-8 (ਤ-ਫ਼)](https://www.youtube.com/watch?v=BSmSoAhpPWU&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=30) - video
-
-#### **********
-
-
-
-___
 **Trace Alphabets worksheets**
 
 - [sikhville_Trace-Alphabet_Page_ੳ-ਹ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/1.pdf)
@@ -75,23 +58,6 @@ ___
 - [sikhville_Trace-Alphabet-Line_Page_ਯ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-7/Trace-alphabets_page7.pdf)
 - [sikhville_practiceTracing-All_Lines_ੳ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Varanmala-Ahiyaas/Varanmala-Ahiyaas.pdf)
 - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf)
-
-
-### Vocabulary words
-
-**Vocabulary Video Lessons**
-
-- [Colors Names (ਰੰਗਾਂ ਦੇ ਨਾਮ)](https://www.youtube.com/watch?v=45L9V6DgRCI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=22)
-
-- [Animals Names (ਜਾਨਵਰਾ ਦੇ ਨਾਮ)](https://www.youtube.com/watch?v=WuBDW9RxLik)
-
-- [Fruits Names (ਫਲਾਂ ਦੇ ਨਾਮ)](https://www.youtube.com/watch?v=QcU8JRBW_9s&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=21&t=0s)
-
-- [Vegetables Names (ਸਬਜ਼ੀਆਂ ਦੇ ਨਾਮ)](https://www.youtube.com/watch?v=zqnd_NsJ0oY&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=21)
-
-- [Birds Names (ਪੰਛੀਆਂ ਦੇ ਨਾਮ)](https://www.youtube.com/watch?v=poKPUJCjuNk)
-
-- [Body Parts Names (ਸਰੀਰ ਦੇ ਅੰਗਾਂ ਦੇ ਨਾਮ)](https://www.youtube.com/watch?v=7uDoCks7NLk&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=26&t=0s)
 
 
 
