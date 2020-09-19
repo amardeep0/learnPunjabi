@@ -5,8 +5,7 @@
 Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/Levels_2_and_3_Goals) here.
  
 
-**Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review**
-
+**Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review**  
 Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including tracing worksheets.
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)  
