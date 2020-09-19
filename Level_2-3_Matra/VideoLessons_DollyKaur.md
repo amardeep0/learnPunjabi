@@ -1,13 +1,19 @@
 **Video Lessons by Dolly Kaur**
 
 
-[**Level 2 & 3**](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra)
+### [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra)
 
 
 | --- | --- |
-| Muharni Line 1_ੳ-ਹ | Muharni Line 2_ਕ-ਙ | Muharni Line 3_ਚ-ਞ | Muharni Line 4_ਟ-ਣ |
+| Muharni Line-1 ੳ-ਹ | Muharni Line-2 ਕ-ਙ | Muharni Line-3 ਚ-ਞ | Muharni Line-4 ਟ-ਣ |
 | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mGow12J5SVM " target="_blank"><img src="http://img.youtube.com/vi/mGow12J5SVM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4CglLjEIaq8 " target="_blank"><img src="http://img.youtube.com/vi/4CglLjEIaq8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6lfVY33_U4 " target="_blank"><img src="http://img.youtube.com/vi/o6lfVY33_U4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=EHuwummorc8 " target="_blank"><img src="http://img.youtube.com/vi/EHuwummorc8/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+
+| --- | --- |
+| Muharni Line-5 ਤ-ਨ | Muharni Line-6 ਪ-ਮ | Muharni Line-7 ਯ-ੜ |  |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_N8rKr2DqA " target="_blank"><img src="http://img.youtube.com/vi/Y_N8rKr2DqA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qUMB-Z27rxY " target="_blank"><img src="http://img.youtube.com/vi/qUMB-Z27rxY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0GXVGoED54 " target="_blank"><img src="http://img.youtube.com/vi/0GXVGoED54/0.jpg" width="120" height="90" /></a> | | 
 | --- | --- | --- | --- |
 
 * **Muharni Lessons**
@@ -22,7 +28,7 @@
 
   *  [Muharni Line 5_ਤ-ਨ](https://www.youtube.com/watch?v=Y_N8rKr2DqA)
 
-  *  [Muharni Line 6_ਪ-ਮ](https://www.youtube.com/watch?v=qUMB-Z27rxY&t=14s)
+  *  [Muharni Line 6_ਪ-ਮ](https://www.youtube.com/watch?v=qUMB-Z27rxY)
 
   *  [Muharni Line 7_ਯ-ੜ](https://www.youtube.com/watch?v=_0GXVGoED54)
   
