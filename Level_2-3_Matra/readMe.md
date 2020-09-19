@@ -21,12 +21,12 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  
  **Video Lessons**
  
- [Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
+ [Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
  
  [Video Lessons for Matra (ਮਾਤਰਾ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/MatraLessonsBy-88diljam)** - *By 88diljam channel*  
-Video Lessons (2-5 min) are in English. 
+ Matra Lessons (2-5 min) are in English. 
  
- [Video Lessons by other Teachers (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_Teachers)
+ [Video Lessons by other Teachers (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_Teachers)
 
  
  ---
@@ -69,8 +69,7 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 
 
-
- **Muharni, Mukta and Matra words (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)** - *Additional Resources*
+ **Muharni, Mukta and Matra words (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**-*Additional Resources*
    
 - Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)
 
@@ -131,10 +130,6 @@ Following is a list of some of the online books for reading. You can choose the 
 - Bindi Words
             
 
-**Vocabulary**
- 
-      
-      
 ## Listening and Speaking
 
    - [Listen and practice speaking Basic voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)
