@@ -1,7 +1,8 @@
-| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
+| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)     
+
 
 | --- | --- |
-| Alphabet Names | Video-A (Listen) | Video-B (Write) | Video-C (Speak) |
+| Alphabet Names | Video-A (Listen Words) | Video-B (Write Alphabet) | Video-C (Speak Words) |
 | --- | --- | --- | --- |
 | **1. Haahaa (ਹ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=DihgCBZ60RA " target="_blank"><img src="http://img.youtube.com/vi/DihgCBZ60RA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=uMgLC3ed98E " target="_blank"><img src="http://img.youtube.com/vi/uMgLC3ed98E/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mUzQ_GLBr6U " target="_blank"><img src="http://img.youtube.com/vi/mUzQ_GLBr6U/0.jpg" width="120" height="90" /></a> | 
 | --- | --- | --- | --- |
