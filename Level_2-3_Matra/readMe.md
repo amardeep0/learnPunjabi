@@ -13,7 +13,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ---
 
-[ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html#)
+[ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html)
 
  Read and Listen to Muharni by each Line or by hovering over individual letters)
  
@@ -22,6 +22,9 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  **Video Lessons**
  
  [Video Lessons by Dolly Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)
+ 
+ [Video Lessons for Matra (ਮਾਤਰਾ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/MatraLessonsBy-88diljam)** - *By 88diljam channel*  
+Video Lessons (2-5 min) are in English. 
  
  [Video Lessons by other Teachers (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_Teachers)
 
