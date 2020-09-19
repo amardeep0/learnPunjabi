@@ -15,8 +15,6 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ---
 
-**Muharni, Mukta and Matra words (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
-
 [ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html#)
 
  Read and Listen to Muharni by each Line or by hovering over individual letters)
@@ -30,10 +28,10 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  ---
  
  **Books**
-   
-Following is a list of some of the books. You can choose the books based on relevant content and your preference. 
 
 - [Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/) - set of 5 books for Levels 1-4
+
+Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
 
 | Books Names | Relevant Content for Level 2 & 3 |
 | --- | --- |
@@ -71,7 +69,7 @@ Following is a list of some of the books. You can choose the books based on rele
 
 **[Video Lessons by other Teachers (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_Teachers)**
 
- 
+ **Muharni, Mukta and Matra words (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)** - websites
    
 - Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)
 
