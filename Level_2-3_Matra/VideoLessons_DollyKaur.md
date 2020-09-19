@@ -13,7 +13,7 @@
 | --- | --- |
 | Muharni Line-5 ਤ-ਨ | Muharni Line-6 ਪ-ਮ | Muharni Line-7 ਯ-ੜ |  |
 | --- | --- | --- | --- |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_N8rKr2DqA " target="_blank"><img src="http://img.youtube.com/vi/Y_N8rKr2DqA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qUMB-Z27rxY " target="_blank"><img src="http://img.youtube.com/vi/qUMB-Z27rxY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0GXVGoED54 " target="_blank"><img src="http://img.youtube.com/vi/0GXVGoED54/0.jpg" width="120" height="90" /></a> | | 
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_N8rKr2DqA " target="_blank"><img src="http://img.youtube.com/vi/Y_N8rKr2DqA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qUMB-Z27rxY " target="_blank"><img src="http://img.youtube.com/vi/qUMB-Z27rxY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_0GXVGoED54 " target="_blank"><img src="http://img.youtube.com/vi/_0GXVGoED54/0.jpg" width="120" height="90" /></a> | | 
 | --- | --- | --- | --- |
 
 * **Muharni Lessons**
