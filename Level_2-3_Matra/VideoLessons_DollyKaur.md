@@ -1,6 +1,15 @@
 **Video Lessons by Dolly Kaur**
 
 
+| **[Level 1]**(https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) | 
+
+
+| --- | --- |
+| Muharni Line 1_ੳ-ਹ | Muharni Line 2_ਕ-ਙ | Muharni Line 3_ਚ-ਞ | Muharni Line 4_ਟ-ਣ |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=mGow12J5SVM " target="_blank"><img src="http://img.youtube.com/vi/mGow12J5SVM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4CglLjEIaq8 " target="_blank"><img src="http://img.youtube.com/vi/4CglLjEIaq8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6lfVY33_U4 " target="_blank"><img src="http://img.youtube.com/vi/o6lfVY33_U4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=EHuwummorc8 " target="_blank"><img src="http://img.youtube.com/vi/EHuwummorc8/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+
 * **Muharni Lessons**
 
   *  [Muharni Line 1_ੳ-ਹ](https://www.youtube.com/watch?v=mGow12J5SVM)
