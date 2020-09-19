@@ -13,7 +13,8 @@ Listen to the Alphabet Sounds and learn how to write them.
 Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets
-/VideoLessonsInEnglish_88diljam)**
+/VideoLessonsInEnglish_88diljam)** - *By 88diljam channel* 
+Video Lessons (2-5 min) are in English and organised into 3 different basic videos: A-Listen words, B-How to Write a letter & C-Speak words categories for each letter. Each Letter has about 8 voabulary words.
 
 
 
@@ -78,7 +79,7 @@ ___
 
 ### Vocabulary words
 
-**Video Lessons**
+**Vocabulary Video Lessons**
 
 - [Colors Names (ਰੰਗਾਂ ਦੇ ਨਾਮ)](https://www.youtube.com/watch?v=45L9V6DgRCI&list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp&index=22)
 
