@@ -1,4 +1,6 @@
-[**Level 1**](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)
+| [Home](https://amardeep0.github.io/learnPunjabi/) | 
+
+[Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) | 
 
 Students will be able to
  
