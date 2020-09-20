@@ -1,4 +1,4 @@
-## Kannaa Laga Matra
+## Kanna Matra (ਕੰਨਾ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -7,3 +7,25 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=xYuhe_omvpw " target="_blank"><img src="http://img.youtube.com/vi/xYuhe_omvpw/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Zni4rr7vmYI " target="_blank"><img src="http://img.youtube.com/vi/Zni4rr7vmYI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=gDOxnLSKZ1c " target="_blank"><img src="http://img.youtube.com/vi/gDOxnLSKZ1c/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=KjSpHX5e2vY " target="_blank"><img src="http://img.youtube.com/vi/KjSpHX5e2vY/0.jpg" width="120" height="90" /></a> | 
 | --- | --- | --- | --- |
+
+
+## Sihari Matra (ਸਿਹਾਰੀ ਮਾਤਰਾ)
+
+## Bihari Matra (ਬਿਹਾਰੀ ਮਾਤਰਾ)
+
+## Lavan Matra (ਲਾਂਵਾਂ ਮਾਤਰਾ)
+
+## DuLavan Matra (ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ)
+
+## Aunkar Matra (ਔਂਕੜ ਮਾਤਰਾ)
+
+## Dulankar Matra (ਦੁਲੈਂਕੜ  ਮਾਤਰਾ)
+
+## Hora Matra (ਹੋੜਾ ਮਾਤਰਾ)
+
+## Kanoura Matra (ਕਨੌੜਾ ਮਾਤਰਾ)
+
+
+
+
+
