@@ -1,4 +1,6 @@
 
+| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) | 
+
 *Punjabi Alphabets (ਓ ਅ ੲ - ਵਰਨਮਾਲਾ)*
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TnxhNCHOq4c
