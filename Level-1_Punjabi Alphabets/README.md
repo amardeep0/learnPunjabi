@@ -14,7 +14,9 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets
 /VideoLessonsInEnglish_88diljam)** - *By 88diljam channel*  
-Video Lessons (2-5 min) are in English and organised into 3 different basic videos: A-Listen words, B-How to Write a letter & C-Speak words categories for each letter. Each Letter has about 8 voabulary words. Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds.
+Video Lessons (2-5 min) are in English and organised into 3 different basic videos for each letter:  
+A-Listen words, B-How to Write a letter & C-Speak words  
+Video for each Letter has about 8 voabulary words. Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds.
 
 **[Video Lessons by other Teachers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessons_L1)**
 
