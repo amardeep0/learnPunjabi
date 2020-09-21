@@ -135,7 +135,7 @@ Following is a list of some of the online books for reading. You can choose the 
    - [Listen and practice speaking Basic voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)
    
        - Word categories - Prepositions, questions, Adverbs, pronouns, Verbs)
-   - [Listen and practice speaking common voacabulary words - 2](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)
+   - [Listen and practice speaking common voacabulary words - 2](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)
    
        - Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
        
@@ -143,8 +143,7 @@ Following is a list of some of the online books for reading. You can choose the 
    - [Listen and practice speaking Basic Punjabi phrases](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_phrases.html)
    
        - These Punjabi phrases can be used daily in a variety of conversations.
-      
-      
+       
 
 
 
