@@ -19,7 +19,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
  
  **Vocabulary**
  
- [Punjabi vocabulary_words (from_AQA_GCSE)](https://amardeep0.github.io/learnPunjabi/Panjabi_VocabularyList_From_AQA_GCSE.pdf)
+ [Punjabi vocabulary_words (from_AQA_GCSE)](//files/Panjabi_VocabularyList_From_AQA_GCSE.pdf)
  
 **Punjabi Dictionary**
 
