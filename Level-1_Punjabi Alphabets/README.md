@@ -59,9 +59,10 @@ Video for each Letter has about 8 voabulary words. Video lessons are not taught 
 - [sikhville_practiceTracing-All_Lines_ੳ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Varanmala-Ahiyaas/Varanmala-Ahiyaas.pdf)
 - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf)
 
-**Vocabulary Words**
+## Listening and Speaking
 
-[Punjabi Common Words - Listen and Speak](http://ilanguages.org/punjabi_vocabulary.php)
+ - [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
+          Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
 
 
 
