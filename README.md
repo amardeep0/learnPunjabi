@@ -16,6 +16,11 @@ There are a large number of free online resources (Books, Websites and YouTube v
  
  [Level 8 (World Language Competency Testing)](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
  
+ 
+ **Vocabulary**
+ 
+ [vocabulary_list-1 (*from_AQA_GCSE)](https://amardeep0.github.io/learnPunjabi/Panjabi_VocabularyList_From_AQA_GCSE.pdf)
+ 
 **Punjabi Dictionary**
 
 [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)
