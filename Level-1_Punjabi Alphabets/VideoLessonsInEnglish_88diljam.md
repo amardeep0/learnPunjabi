@@ -1,4 +1,8 @@
-[Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) |  |  |  |  | 
+**[Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)** 
+
+Punjabi Albhabet videos are organised into 3 different categories for each letter:
+
+A-Listen words, B-How to Write a letter & C-Speak words.
 
 | --- | --- |
 | Alphabet Names | Listen Words (Video-A) | Write Alphabet (Video-B) | Speak Words (Video-C) |
