@@ -1,6 +1,7 @@
 
 | [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) 
 
+---
 ### Kanna Matra (ਕੰਨਾ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
@@ -9,7 +10,7 @@
 | --- | --- | --- | --- |
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=xYuhe_omvpw " target="_blank"><img src="http://img.youtube.com/vi/xYuhe_omvpw/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Zni4rr7vmYI " target="_blank"><img src="http://img.youtube.com/vi/Zni4rr7vmYI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=gDOxnLSKZ1c " target="_blank"><img src="http://img.youtube.com/vi/gDOxnLSKZ1c/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=KjSpHX5e2vY " target="_blank"><img src="http://img.youtube.com/vi/KjSpHX5e2vY/0.jpg" width="120" height="90" /></a> | 
-
+---
 ### Sihari Matra (ਸਿਹਾਰੀ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
@@ -18,7 +19,7 @@
 | --- | --- | --- | --- |
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=LAw_-UJa_LY " target="_blank"><img src="http://img.youtube.com/vi/LAw_-UJa_LY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=V5O3AJ2WAVU " target="_blank"><img src="http://img.youtube.com/vi/V5O3AJ2WAVU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=p-HgKuyz7vs " target="_blank"><img src="http://img.youtube.com/vi/p-HgKuyz7vs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Deg9o_epBns " target="_blank"><img src="http://img.youtube.com/vi/Deg9o_epBns/0.jpg" width="120" height="90" /></a> | 
-
+---
 ### Bihari Matra (ਬਿਹਾਰੀ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
