@@ -19,12 +19,22 @@ There are a large number of free online resources (Books, Websites and YouTube v
  
  **Vocabulary**
  
- [Punjabi vocabulary_words (from_AQA_GCSE)](https://amardeep0.github.io/learnPunjabi/files/Panjabi_VocabularyList_From_AQA_GCSE.pdf)
+[Vocabulary of more than 3,000 words with pictures from 80 topics](http://www.learnpunjabi.org/vocabulary/vocabulary1.asp?id=23)
+ 
+[Punjabi vocabulary_words (from_AQA_GCSE)](https://amardeep0.github.io/learnPunjabi/files/Panjabi_VocabularyList_From_AQA_GCSE.pdf)
  
 **Punjabi Dictionary**
 
 [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)
- 
+
+**[Punjabi Grammar](http://www.learnpunjabi.org/Noun.html)**  
+  Learn Punjabi Grammar (Noun, Pronoun, Adjective, Verb, Adverb, Postposition, Conjunction and Interjection) 
+i
+  **[Read, Listen & Speak about various topics](http://pt.learnpunjabi.org/contents.aspx)**  
+  Lessons are from book 'A Start in Punjabi' by Dr. Harjit Singh Gill
+  
+  **[eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free course    (sign up required for getting access to the content.)  
+  Course includes teaching Punjabi Alphabet, Matra, Voabulary and every day conversions with videos - lot of good content)
  
 
 
