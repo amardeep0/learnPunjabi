@@ -28,13 +28,13 @@ There are a large number of free online resources (Books, Websites and YouTube v
 [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)
 
 **[Punjabi Grammar](http://www.learnpunjabi.org/Noun.html)**  
-  Learn Punjabi Grammar (Noun, Pronoun, Adjective, Verb, Adverb, Postposition, Conjunction and Interjection) 
-i
-  **[Read, Listen & Speak about various topics](http://pt.learnpunjabi.org/contents.aspx)**  
+  Learn Punjabi Grammar (Noun, Pronoun, Adjective, Verb, Adverb, Postposition, Conjunction and Interjection)  
+  
+**[Read, Listen & Speak about various topics](http://pt.learnpunjabi.org/contents.aspx)**  
   Lessons are from book 'A Start in Punjabi' by Dr. Harjit Singh Gill
   
-  **[eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free course    (sign up required for getting access to the content.)  
-  Course includes teaching Punjabi Alphabet, Matra, Voabulary and every day conversions with videos - lot of good content)
+  **[eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free (lot of good content, sign up required for getting access to the content.)  
+  Course includes teaching Punjabi Alphabet, Matra, Voabulary and every day conversions with videos)
  
 
 
