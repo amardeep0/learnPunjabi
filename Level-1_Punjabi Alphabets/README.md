@@ -64,7 +64,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  - [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
           Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
           
-  - [Punjabi Rhymes](http://www.learnpunjabi.org/rhymes_title_step.html)
+  - [Punjabi Rhymes](http://www.learnpunjabi.org/rhymes_title.html)
 
 
 
