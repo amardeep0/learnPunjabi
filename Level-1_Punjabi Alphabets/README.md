@@ -8,14 +8,14 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 **[Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html) (ਪੈਂਤੀ ਅੱਖਰ)**  
 Listen to the Alphabet Sounds and learn how to write them.
-  
-**[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)**  
-Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets
 /VideoLessonsInEnglish_88diljam)** - *By 88diljam channel*  
-Video Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter:  
-Video for each Letter has about 8 voabulary words. Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds.
+Video Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter.  
+Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ).
+  
+**[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)** 
+Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 **[Video Lessons by other Teachers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessons_L1)**
 
@@ -63,6 +63,8 @@ Video for each Letter has about 8 voabulary words. Video lessons are not taught 
 
  - [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
           Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
+          
+  - [Punjabi Rhymes](http://www.learnpunjabi.org/rhymes_title_step.html)
 
 
 
