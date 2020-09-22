@@ -53,7 +53,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 - [sikhville_Trace-Alphabet_Page_ਤ-ਨ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/5.pdf)
 - [sikhville_Trace-Alphabet-Line_Page_ਤ-ਨ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-5/Trace-alphabets_page5.pdf)
 - [sikhville_Trace-Alphabet_Page_ਪ-ਮ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/6.pdf)
-- [sikhville_Trace-Alphabet-Line_Page_ਪ-ਮ](htt)p://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-6/Trace-alphabets_page6.pdf)
+- [sikhville_Trace-Alphabet-Line_Page_ਪ-ਮ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-6/Trace-alphabets_page6.pdf)
 - [sikhville_Trace-Alphabet_Page_ਯ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/7.pdf)
 - [sikhville_Trace-Alphabet-Line_Page_ਯ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-7/Trace-alphabets_page7.pdf)
 - [sikhville_practiceTracing-All_Lines_ੳ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Varanmala-Ahiyaas/Varanmala-Ahiyaas.pdf)
