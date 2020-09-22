@@ -111,6 +111,22 @@
 | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Yedx64TPB-g " target="_blank"><img src="http://img.youtube.com/vi/Yedx64TPB-g/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=q5CTZv1cdyU " target="_blank"><img src="http://img.youtube.com/vi/q5CTZv1cdyU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=JoBPsd8WgvI " target="_blank"><img src="http://img.youtube.com/vi/JoBPsd8WgvI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=GFbXozrqiEw" target="_blank"><img src="http://img.youtube.com/vi/GFbXozrqiEw/0.jpg" width="120" height="90" /></a> | 
 
+### *Basic Words*
 
-
+| **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=ohUwgJ_0zU4 " target="_blank"><img src="http://img.youtube.com/vi/ohUwgJ_0zU4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=sGrI2TjWCeM " target="_blank"><img src="http://img.youtube.com/vi/sGrI2TjWCeM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=vvRHtZJFTEU " target="_blank"><img src="http://img.youtube.com/vi/vvRHtZJFTEU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4YoueZBwaFA " target="_blank"><img src="http://img.youtube.com/vi/4YoueZBwaFA/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **Gaggaa (ਗ)** | **Mammaa (ਮ)** | **Mammaa (ਮ)** | **Sassaa (ਸ)** |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=GPGZ_sMwREY " target="_blank"><img src="http://img.youtube.com/vi/GPGZ_sMwREY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=B_POls3igA8 " target="_blank"><img src="http://img.youtube.com/vi/B_POls3igA8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=B07JMdn5Kew " target="_blank"><img src="http://img.youtube.com/vi/B07JMdn5Kew/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=GI8tx9TBMfg " target="_blank"><img src="http://img.youtube.com/vi/GI8tx9TBMfg/0.jpg" width="120" height="90" /></a> |
+| --- | --- | --- | --- |
+| **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Kakkaa (ਕ)** | **Kakkaa (ਕ)** |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=VGWLlQkmQJY " target="_blank"><img src="http://img.youtube.com/vi/VGWLlQkmQJY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=DOEz8gEyyHM " target="_blank"><img src="http://img.youtube.com/vi/DOEz8gEyyHM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZoP4lK-JT7A " target="_blank"><img src="http://img.youtube.com/vi/ZoP4lK-JT7A/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=v-ZyuHISe0g " target="_blank"><img src="http://img.youtube.com/vi/v-ZyuHISe0g/0.jpg" width="120" height="90" /></a> |
+| --- | --- | --- | --- |
+| **Nannaa (ਨ)** | **Nannaa (ਨ)** | **Nannaa (ਨ)** | ** ** |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=yULJAD8bqpw " target="_blank"><img src="http://img.youtube.com/vi/yULJAD8bqpw/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=wG94iRJV31k " target="_blank"><img src="http://img.youtube.com/vi/wG94iRJV31k/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=6ihRhR37Es4 " target="_blank"><img src="http://img.youtube.com/vi/6ihRhR37Es4/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **Tainkaa (ਟ)** | **Tainkaa (ਟ)** | **Tainkaa (ਟ) ** | ** ** |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=0-MuCe2rkDo " target="_blank"><img src="http://img.youtube.com/vi/0-MuCe2rkDo/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=BeQiBJM_U-o " target="_blank"><img src="http://img.youtube.com/vi/BeQiBJM_U-o/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I5TbOJVvM64 " target="_blank"><img src="http://img.youtube.com/vi/I5TbOJVvM64/0.jpg" width="120" height="90" /></a> |
+| --- | --- | --- | --- |
 
