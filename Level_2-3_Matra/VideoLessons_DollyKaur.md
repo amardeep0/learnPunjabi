@@ -8,7 +8,7 @@
 | Muharni Line-1 ੳ-ਹ | Muharni Line-2 ਕ-ਙ | Muharni Line-3 ਚ-ਞ | Muharni Line-4 ਟ-ਣ |
 | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mGow12J5SVM " target="_blank"><img src="http://img.youtube.com/vi/mGow12J5SVM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4CglLjEIaq8 " target="_blank"><img src="http://img.youtube.com/vi/4CglLjEIaq8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6lfVY33_U4 " target="_blank"><img src="http://img.youtube.com/vi/o6lfVY33_U4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=EHuwummorc8 " target="_blank"><img src="http://img.youtube.com/vi/EHuwummorc8/0.jpg" width="120" height="90" /></a> | 
-| --- | --- | --- | --- |
+
 
 | --- | --- | --- | --- |
 | Muharni Line-5 ਤ-ਨ | Muharni Line-6 ਪ-ਮ | Muharni Line-7 ਯ-ੜ |  |
