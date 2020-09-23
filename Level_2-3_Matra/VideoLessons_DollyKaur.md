@@ -1,9 +1,16 @@
 
-| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra) |
+| [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra) |
 
 *Video Lessons by Dolly Kaur*
 
-**Muharni Lessons**
+[TOC]
+
+[Muharni Lessons](#Muharni-Lessons)  
+[Mukta words](#Mukta-words)  
+[Matra](#Matra)
+
+
+**[Muharni Lessons](#Muharni-Lessons)**
 
 | Muharni Line-1 ੳ-ਹ | Muharni Line-2 ਕ-ਙ | Muharni Line-3 ਚ-ਞ | Muharni Line-4 ਟ-ਣ |
 | --- | --- | --- | --- |
@@ -17,7 +24,7 @@
 | --- | --- | --- | --- |
 
   
-**Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)**
+**[Mukta words](#Mukta-words) (ਮੁਕਤਾ ਸ਼ਬਦ)**
 
 | ਮੁਕਤਾ ਸ਼ਬਦ-1 | ਮੁਕਤਾ ਸ਼ਬਦ-2 | ਮੁਕਤਾ ਸ਼ਬਦ-3 |
 | --- | --- | --- | 
@@ -26,7 +33,7 @@
 
 
 
-**Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
+**[Matra](#Matra) (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
 
 | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-1) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-2) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-3) |
 | --- | --- | --- | 
