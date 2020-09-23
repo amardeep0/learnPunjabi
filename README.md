@@ -8,38 +8,34 @@ There are a large number of free online resources (Books, Websites and YouTube v
 ### [Resources (Level based](#Resources-Level-based)  
 (based on Learning Objectives)
 
-[Level 1 (Beginner - Punjabi Alphabets)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)
+    [Level 1 (Beginner - Punjabi Alphabets)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)
  
-[Level 2 & 3 (Beginner - Matra)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)
+    [Level 2 & 3 (Beginner - Matra)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)
  
-[Level 4 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/)
+    [Level 4 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/)
  
-[Level 5 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/)
+    [Level 5 (Intermediate)](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/)
  
- [Level 6 (Advanced)](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/)
+    [Level 6 (Advanced)](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/)
  
- [Level 7 (Advanced)](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/)
+    [Level 7 (Advanced)](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/)
  
- [Level 8 (World Language Competency Testing)](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
+    [Level 8 (World Language Competency Testing)](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
  
 
- ### [Resources - all Levels](#Resources-all-Levels)
- 
-   **Vocabulary**  
-   [Vocabulary of more than 3,000 words with pictures from 80 topics](http://www.learnpunjabi.org/vocabulary/vocabulary1.asp?id=23)  
-   [Punjabi vocabulary_words (from_AQA_GCSE)](https://amardeep0.github.io/learnPunjabi/files/Panjabi_VocabularyList_From_AQA_GCSE.pdf)
- 
-   **Punjabi Dictionary**  
-   [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)
+### [Resources - all Levels](#Resources-all-Levels)
 
-   **[Punjabi Grammar](http://www.learnpunjabi.org/Noun.html)**  
-   Learn Punjabi Grammar (Noun, Pronoun, Adjective, Verb, Adverb, Postposition, Conjunction and Interjection)  
-  
-   **[Read, Listen & Speak about various topics](http://pt.learnpunjabi.org/contents.aspx)**  
-   Lessons are from book 'A Start in Punjabi' by Dr. Harjit Singh Gill
-  
-   **[eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free (sign up required for getting access to the content).  
-   Videos of every day conversions from this course may provide experience of Punjab culture (Recommneded for students of Levels 5-8).
+    **Punjabi Dictionary**  
+    [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)
+ 
+    **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)**  
+ 
+    **[Punjabi Grammar](https://amardeep0.github.io/learnPunjabi/Punjabi_Grammar)**  
+
+    **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics)**  
+
+     **[eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free (sign up required for getting access to the content).  
+     Videos of every day conversions from this course may provide experience of Punjab culture.
  
 
 
