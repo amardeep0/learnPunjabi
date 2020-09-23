@@ -3,7 +3,7 @@
 
 *Video Lessons by Dolly Kaur*
 
-<!-- TOC -->
+
 
 [Muharni Lessons](#Muharni-Lessons)  
 [Mukta words](#Mukta-words)  
@@ -12,6 +12,7 @@
 
 
 [Muharni Lessons](#Muharni-Lessons)
+{:toc}
 
 | Muharni Line-1 ੳ-ਹ | Muharni Line-2 ਕ-ਙ | Muharni Line-3 ਚ-ਞ | Muharni Line-4 ਟ-ਣ |
 | --- | --- | --- | --- |
@@ -26,6 +27,7 @@
 
   
 **[Mukta words](#Mukta-words) (ਮੁਕਤਾ ਸ਼ਬਦ)**
+{:.no_toc}
 
 | ਮੁਕਤਾ ਸ਼ਬਦ-1 | ਮੁਕਤਾ ਸ਼ਬਦ-2 | ਮੁਕਤਾ ਸ਼ਬਦ-3 |
 | --- | --- | --- | 
