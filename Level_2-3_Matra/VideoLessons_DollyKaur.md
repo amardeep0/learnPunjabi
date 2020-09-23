@@ -3,11 +3,13 @@
 
 *Video Lessons by Dolly Kaur*
 
+<!-- TOC -->
+
 [Muharni Lessons](#Muharni-Lessons)  
 [Mukta words](#Mukta-words)  
 [Matra](#Matra)
 
-<!-- TOC -->
+
 
 [Muharni Lessons](#Muharni-Lessons)
 
