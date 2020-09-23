@@ -4,14 +4,7 @@
 *Video Lessons by Dolly Kaur*
 
 
-
-[Muharni Lessons](#Muharni-Lessons)  
-[Mukta words](#Mukta-words)  
-[Matra](#Matra)
-
-
-
-### [Muharni Lessons](#Muharni-Lessons)
+### Muharni Lessons
 {:toc}
 
 | Muharni Line-1 ੳ-ਹ | Muharni Line-2 ਕ-ਙ | Muharni Line-3 ਚ-ਞ | Muharni Line-4 ਟ-ਣ |
@@ -26,7 +19,7 @@
 | --- | --- | --- | --- |
 
   
-### **[Mukta words](#Mukta-words) (ਮੁਕਤਾ ਸ਼ਬਦ)**
+### **Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)**
 {:.no_toc}
 
 | ਮੁਕਤਾ ਸ਼ਬਦ-1 | ਮੁਕਤਾ ਸ਼ਬਦ-2 | ਮੁਕਤਾ ਸ਼ਬਦ-3 |
@@ -36,7 +29,7 @@
 
 
 
-### **[Matra](#Matra) (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
+### **Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
 {:toc}
 
 | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-1) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-2) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-3) |
