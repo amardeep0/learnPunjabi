@@ -3,14 +3,13 @@
 
 *Video Lessons by Dolly Kaur*
 
-[TOC]
-
 [Muharni Lessons](#Muharni-Lessons)  
 [Mukta words](#Mukta-words)  
 [Matra](#Matra)
 
+<!-- TOC -->
 
-**[Muharni Lessons](#Muharni-Lessons)**
+[Muharni Lessons](#Muharni-Lessons)
 
 | Muharni Line-1 ੳ-ਹ | Muharni Line-2 ਕ-ਙ | Muharni Line-3 ਚ-ਞ | Muharni Line-4 ਟ-ਣ |
 | --- | --- | --- | --- |
