@@ -24,7 +24,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
 ### [Resources - all Levels](#Resources-all-Levels)
 
   - **Dictionaries**  
-    [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)  
+    [Online Punjabi-English Dictionary](http://dic.learnpunjabi.org/default.aspx)  
     [English-Punjabi Dictionary](http://www.discoversikhism.com/sikh_library/english/english_punjabi_dictionary.html)
  
   - **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)**  
