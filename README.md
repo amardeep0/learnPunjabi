@@ -4,7 +4,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
 
 
 ### [Resources](#Resources-Level-based)  
-(based on various Level's Goals)
+(based on various Levels' Goals)
 
   - [Level 1 (Beginner - Punjabi Alphabets)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)
  
@@ -23,8 +23,9 @@ There are a large number of free online resources (Books, Websites and YouTube v
 
 ### [Resources - all Levels](#Resources-all-Levels)
 
-  - **Punjabi Dictionary**  
-    [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)
+  - **Dictionaries**  
+    [Online Punjabi Dictionary](http://dic.learnpunjabi.org/default.aspx)  
+    [English-Punjabi Dictionary](http://www.discoversikhism.com/sikh_library/english/english_punjabi_dictionary.html)
  
   - **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)**  
  
