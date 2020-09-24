@@ -3,7 +3,9 @@
 Punjabi Albhabet videos are organised into 3 different categories for each letter:  
 A - Listen words  
 B - How to Write a letter  
-C - Speak words.
+C - Speak words.  
+Video lessons are taught in the following sequence of letters:  
+(ਹ, ਰ, ਗ, ਮ, ਸ, ਕ, ਨ, ਟ, ਪ, ਫ, ਬ, ਤ, ਡ, ਲ, ਚ, ਜ, ਯ, ਠ, ਵ, ਥ, ਦ, ੳ, ਅ, ੲ, ਘ, ਭ, ੜ, ਝ, ਣ, ਛ, ਖ, ਧ, ਢ, ਙ, ਞ).
 
 | --- | --- |
 | Alphabet Names | Listen Words (Video-A) | Write Alphabet (Video-B) | Speak Words (Video-C) |
