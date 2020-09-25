@@ -15,8 +15,8 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ---
 
-### **[ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ](http://www.discoversikhism.com/punjabi/muharni.html)**  
- Read and Listen to Muharni by each Line or by hovering over individual letters)
+### **[ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ]**  
+ Read and Listen to [Muharni](http://www.discoversikhism.com/punjabi/muharni.html) by each Line or by hovering over individual letters)
  
  ---
  
@@ -30,9 +30,9 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  
  ---
  
- ### **Books**
+### **Books**
 
--**[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
+**[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
 
 Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
 
@@ -66,17 +66,16 @@ Following is a list of some of the online books for reading. You can choose the 
 | 13. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
 | --- | --- |
 
-----
 
- ### Listening and Speaking
+### Listening and Speaking
 
- - [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
+- [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
           Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
        
-  [Listen and practice speaking Basic voacabulary words - 2](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)  
+- [Listen and practice speaking Basic voacabulary words - 2](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)  
           Word categories - Prepositions, questions, Adverbs, pronouns, Verbs)
           
- - [Listen and practice speaking Basic Punjabi phrases](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_phrases.html)  
+- [Listen and practice speaking Basic Punjabi phrases](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_phrases.html)  
           These Punjabi phrases can be used daily in a variety of conversations.
        
 
