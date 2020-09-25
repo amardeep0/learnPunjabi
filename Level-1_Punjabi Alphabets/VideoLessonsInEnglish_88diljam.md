@@ -1,10 +1,10 @@
 **[Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)** 
 
-Punjabi Albhabet videos are organised into 3 different categories for each letter:  
+Punjabi Albhabet videos are organised into 3 categories for each letter:  
 A - Listen words  
 B - How to Write a letter  
 C - Speak words.  
-Video lessons are taught in the following sequence of letters:  
+There are about 8 vocabulary words introduced for each letter. These lessons are taught in the following sequence of letters instead of traditional way (ੳ, ਅ --> ੜ):  
 (ਹ, ਰ, ਗ, ਮ, ਸ, ਕ, ਨ, ਟ, ਪ, ਫ, ਬ, ਤ, ਡ, ਲ, ਚ, ਜ, ਯ, ਠ, ਵ, ਥ, ਦ, ੳ, ਅ, ੲ, ਘ, ਭ, ੜ, ਝ, ਣ, ਛ, ਖ, ਧ, ਢ, ਙ, ਞ).
 
 | --- | --- |
