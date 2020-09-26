@@ -4,7 +4,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
 
 
 ### [Resources](#Resources-Level-based)  
-(based on various Levels' Goals)
+(based on the Goals of different levels)
 
   - [Level 1 (Beginner - Punjabi Alphabets)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)
  
