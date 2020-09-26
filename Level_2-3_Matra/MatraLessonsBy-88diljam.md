@@ -1,8 +1,8 @@
 
-| [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) |
+**[<-- Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)**
 
 
-### *Kanna Matra (ਕੰਨਾ ਮਾਤਰਾ)*
+## Kanna Matra (ਕੰਨਾ ਮਾਤਰਾ)
 
 | --- | --- | --- | --- |
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
@@ -13,7 +13,7 @@
 | --- | --- | --- | --- |
 
 
-### *Sihari Matra (ਸਿਹਾਰੀ ਮਾਤਰਾ)*
+## Sihari Matra (ਸਿਹਾਰੀ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -22,7 +22,7 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=LAw_-UJa_LY " target="_blank"><img src="http://img.youtube.com/vi/LAw_-UJa_LY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=V5O3AJ2WAVU " target="_blank"><img src="http://img.youtube.com/vi/V5O3AJ2WAVU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=p-HgKuyz7vs " target="_blank"><img src="http://img.youtube.com/vi/p-HgKuyz7vs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Deg9o_epBns " target="_blank"><img src="http://img.youtube.com/vi/Deg9o_epBns/0.jpg" width="120" height="90" /></a> | 
 
-### *Bihari Matra (ਬਿਹਾਰੀ ਮਾਤਰਾ)*
+## Bihari Matra (ਬਿਹਾਰੀ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zF4u-1MWrIo " target="_blank"><img src="http://img.youtube.com/vi/zF4u-1MWrIo/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=vw2YpUAHnPM " target="_blank"><img src="http://img.youtube.com/vi/vw2YpUAHnPM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=h_4sUbCG4Y0 " target="_blank"><img src="http://img.youtube.com/vi/h_4sUbCG4Y0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=QRItbgRoUUc " target="_blank"><img src="http://img.youtube.com/vi/QRItbgRoUUc/0.jpg" width="120" height="90" /></a> | 
 | --- | --- | --- | --- |
 
-### *Aunkar Matra (ਔਂਕੜ ਮਾਤਰਾ)*
+## Aunkar Matra (ਔਂਕੜ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -42,7 +42,7 @@
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=1cr3-sRgQtQ " target="_blank"><img src="http://img.youtube.com/vi/1cr3-sRgQtQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=wXDwqH1hjAA " target="_blank"><img src="http://img.youtube.com/vi/wXDwqH1hjAA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ksgXIfcTkUk " target="_blank"><img src="http://img.youtube.com/vi/ksgXIfcTkUk/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=UwlSkJyqvbE " target="_blank"><img src="http://img.youtube.com/vi/UwlSkJyqvbE/0.jpg" width="120" height="90" /></a> | 
 | --- | --- | --- | --- |
 
-### *Dulankar Matra (ਦੁਲੈਂਕੜ  ਮਾਤਰਾ)*
+## Dulankar Matra (ਦੁਲੈਂਕੜ  ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -51,7 +51,7 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Scg2CrR0Fvs " target="_blank"><img src="http://img.youtube.com/vi/Scg2CrR0Fvs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WyykdxdgpV4 " target="_blank"><img src="http://img.youtube.com/vi/WyykdxdgpV4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ClZley83pXU " target="_blank"><img src="http://img.youtube.com/vi/ClZley83pXU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=9BxbhXmtSJI " target="_blank"><img src="http://img.youtube.com/vi/9BxbhXmtSJI/0.jpg" width="120" height="90" /></a> | 
 
-### *Lavan Matra (ਲਾਂਵਾਂ ਮਾਤਰਾ)*
+## Lavan Matra (ਲਾਂਵਾਂ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -60,7 +60,7 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=muRCZUy1NAI " target="_blank"><img src="http://img.youtube.com/vi/muRCZUy1NAI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=A5fYK_SsYTQ " target="_blank"><img src="http://img.youtube.com/vi/A5fYK_SsYTQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=yMCQ5jHITLk " target="_blank"><img src="http://img.youtube.com/vi/yMCQ5jHITLk/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=rrla7pcYxLo " target="_blank"><img src="http://img.youtube.com/vi/rrla7pcYxLo/0.jpg" width="120" height="90" /></a> | 
 
-### *DuLavan Matra (ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ)*
+## DuLavan Matra (ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -69,7 +69,7 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0n2MrhaRwEA " target="_blank"><img src="http://img.youtube.com/vi/0n2MrhaRwEA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=us6QHwjpAag " target="_blank"><img src="http://img.youtube.com/vi/us6QHwjpAag/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=W9GyM6uMbB8 " target="_blank"><img src="http://img.youtube.com/vi/W9GyM6uMbB8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=7WFZZXe4CG4 " target="_blank"><img src="http://img.youtube.com/vi/7WFZZXe4CG4/0.jpg" width="120" height="90" /></a> |
 
-### *Hora Matra (ਹੋੜਾ ਮਾਤਰਾ)*
+## Hora Matra (ਹੋੜਾ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -78,7 +78,7 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=j8F-oHadzgM " target="_blank"><img src="http://img.youtube.com/vi/j8F-oHadzgM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=rnecDEPym4M " target="_blank"><img src="http://img.youtube.com/vi/rnecDEPym4M/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=3SjIWWtUT4w " target="_blank"><img src="http://img.youtube.com/vi/3SjIWWtUT4w/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=uGdNdnHq3uA " target="_blank"><img src="http://img.youtube.com/vi/uGdNdnHq3uA/0.jpg" width="120" height="90" /></a> |
 
-### *Kanoura Matra (ਕਨੌੜਾ ਮਾਤਰਾ)*
+## Kanoura Matra (ਕਨੌੜਾ ਮਾਤਰਾ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -87,7 +87,7 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=HJPM8DVofWQ " target="_blank"><img src="http://img.youtube.com/vi/HJPM8DVofWQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=D2hB7s--GgY " target="_blank"><img src="http://img.youtube.com/vi/D2hB7s--GgY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=fp1m52yN8cQ " target="_blank"><img src="http://img.youtube.com/vi/fp1m52yN8cQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=pswl9-qrsqU " target="_blank"><img src="http://img.youtube.com/vi/pswl9-qrsqU/0.jpg" width="120" height="90" /></a> |
 
-### *Tippi (ਟਿੱਪੀ)*
+## Tippi (ਟਿੱਪੀ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -96,7 +96,7 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=YDqxVEM9t34 " target="_blank"><img src="http://img.youtube.com/vi/YDqxVEM9t34/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=vPQhlP1aTCQ " target="_blank"><img src="http://img.youtube.com/vi/vPQhlP1aTCQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mFkXCjUJPYY " target="_blank"><img src="http://img.youtube.com/vi/mFkXCjUJPYY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=x5JZRpoO800 " target="_blank"><img src="http://img.youtube.com/vi/x5JZRpoO800/0.jpg" width="120" height="90" /></a> |
 
-### *Bindi (ਬਿੰਦੀ)*
+## Bindi (ਬਿੰਦੀ)
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** | **Mammaa (ਮ)** |
 | --- | --- | --- | --- |
@@ -105,13 +105,13 @@
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mKsj4Av5Q9E " target="_blank"><img src="http://img.youtube.com/vi/mKsj4Av5Q9E/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Dm-Cr6G3ts4 " target="_blank"><img src="http://img.youtube.com/vi/Dm-Cr6G3ts4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=2SgN4AZJ6aM " target="_blank"><img src="http://img.youtube.com/vi/2SgN4AZJ6aM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=biA4H55qZDc " target="_blank"><img src="http://img.youtube.com/vi/biA4H55qZDc/0.jpg" width="120" height="90" /></a> |
 
-### *Adhak (ਅੱਧਕ)*
+## Adhak (ਅੱਧਕ)
 
 | **Sassaa (ਸ)** | **Kakkaa (ਕ)** | **Nannaa (ਨ)** | **Tainkaa (ਟ)** |
 | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Yedx64TPB-g " target="_blank"><img src="http://img.youtube.com/vi/Yedx64TPB-g/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=q5CTZv1cdyU " target="_blank"><img src="http://img.youtube.com/vi/q5CTZv1cdyU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=JoBPsd8WgvI " target="_blank"><img src="http://img.youtube.com/vi/JoBPsd8WgvI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=GFbXozrqiEw" target="_blank"><img src="http://img.youtube.com/vi/GFbXozrqiEw/0.jpg" width="120" height="90" /></a> | 
 
-### *Basic Words*
+## Basic Words
 
 | **Haahaa (ਹ)** | **Raaraa (ਰ)** | **Raaraa (ਰ)** | **Gaggaa (ਗ)** |
 | --- | --- | --- | --- |
