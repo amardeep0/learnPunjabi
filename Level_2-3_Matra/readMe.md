@@ -6,7 +6,7 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
  
 
 ### **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review**  
-Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including Punjabi Alphabets worksheets.
+Please check [**Level 1**](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including Punjabi Alphabets worksheets.
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)  
 Click Shuffle and practice recognizing the Punjabi Alphabets.
@@ -15,7 +15,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ---
 
-### **[ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ]**  
+### **ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ**  
  [Read and Listen to Muharni](http://www.discoversikhism.com/punjabi/muharni.html) by each Line or by hovering over individual letters)
  
  ---
@@ -39,27 +39,27 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 | Books Names | Relevant Content for Level 2 & 3 |
 | --- | --- |
-| 1. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists  | 
+| 1. [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Mukta words (pun_binamatra)](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf) | Mukta Words and Sentences |
 | --- | --- |
-| 2. [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html) | Punjabi Alphabets, All Matras, Vocabulary lists, Basic Sentences along with English translations | 
+| 2. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Matra words (pun_matra)](http://www.globaldream.guru/pdf/download/pun_matra.pdf) | All Matras and Sentences |
 | --- | --- |
-| 3. [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf) - *Mukta words (pun_binamatra)* | Mukta Words and Sentences |
+| 3. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Matra Workbook (Sikhville) | 
 | --- | --- |
-| 4. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ](http://www.globaldream.guru/pdf/download/pun_matra.pdf) - *Matra words (pun_matra)* | All Matras and Sentences |
+| 4. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Vocabulary words, Poems, Tell story with Pictures: Pages 1-17, Punjabi Alphabets: Pages 18-67,  Matra lessons: Pages 68-138 |
 | --- | --- |
-| 5. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Matra Workbook (Sikhville) | 
+| 5. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Vocabulary Book (Sikhville) | 
 | --- | --- |
-| 6. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Vocabulary Book (Sikhville) | 
+| 6. [Punjabi Ginti Likhan Abhiaas (ਪੰਜਾਬੀ ਗਿਣਤੀ ਲਿਖਣ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  Counting Book (Sikhville)| --- |
 | --- | --- |
-| 7. [Punjabi Ginti Likhan Abhiaas (ਪੰਜਾਬੀ ਗਿਣਤੀ ਲਿਖਣ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  Counting Book (Sikhville)| --- |
+| 7. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists  | 
 | --- | --- |
-| 8. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html) | Matra Lessons and Vocabulary Lists (with English Meanings)  | 
+| 8. [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html) | Punjabi Alphabets, All Matras, Vocabulary lists, Basic Sentences along with English translations | 
 | --- | --- |
-| 9. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html) | Punjabi Alphabets, Matra Lessons with sentences | 
+| 9. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html) | Matra Lessons and Vocabulary Lists (with English Meanings)  | 
 | --- | --- |
-| 10. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
+| 10. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
-| 11. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Vocabulary words, Poems, Tell story with Pictures: Pages 1-17, Punjabi Alphabets: Pages 18-67,  Matra lessons: Pages 68-138 |
+| 11. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
 | 12. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
 | --- | --- |
