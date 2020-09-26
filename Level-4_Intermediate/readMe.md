@@ -2,7 +2,7 @@
 
 ## Level 4 
 
-Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/Levels_4_Goals) here.
+Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/Level_4_Goals) here.
  
 ### **Punjabi Matra (ਮਾਤਰਾ) Review**  
 Please check [**Level 2 & 3**](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) for all the materials (Videos, books, etc.) for reviewing Punjabi Matras (ਮਾਤਰਾ).
