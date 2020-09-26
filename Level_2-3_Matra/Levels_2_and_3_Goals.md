@@ -1,4 +1,4 @@
-| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)
+**[<-- Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)**
 
 ### Level 2
 
@@ -30,4 +30,28 @@ Students will be able to:
 ---
 
 ### Level 3
+
+**Reading & Writing**
+
+- Master the skills learned in Gurmukhi Level 2.
+- Recognize all Lagaan Matra (Kanna, Sihari, Bihari, Lanvan, Dulaanvan, Onkarh, Dulankarh, Horha, Kanorha),  Lagakhar (bindi, Tippi and adhak) symbols and say their sounds (Muharni).
+- Correctly use all ten matras and Lagakhar to make simple words. 
+- Read words with Matra fluently. 
+- Memorize spellings 
+- Match pictures and English words to Punjabi words.
+- Translate common English words to Punjabi words. 
+- Write the names of colors in Punjabi. 
+- Read small sentences fluently. 
+- Write simple sentences (3-5 words) correctly.
+- Understand the meaning of short written sentences in Punjabi.
+- Read and write the names of the days of the week.
+- Read and write numbers up to 10 in Gurmukhi (੧ – ਇੱਕ).
+
+**Listening & Speaking**
+
+- Understand the main point from short (2-3 lines) spoken passage in Punjabi
+- Answer simple questions and talk about topics covered in the class.
+- Match pictures or printed words to spoken texts.
+- Develop Punjabi vocabulary pertaining to the topics covered in the class
+- Retell 2-3 lines from a story.
 
