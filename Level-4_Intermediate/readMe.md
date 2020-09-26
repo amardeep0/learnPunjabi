@@ -14,11 +14,11 @@ Please check [**Level 2 & 3**](https://amardeep0.github.io/learnPunjabi/Level_2-
 
 Following is a list of some of the online books for reading comprehension. You can choose the books based on the content. 
 
-1. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4 (2nd-Lang).pdf) 
+1. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) 
 
 2. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) 
 
-3. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html)  
+3. [ਸੌਖੀ ਪੰਜਾਬੀ-2 – Panjabi Made Easy (Book 2)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_2.html)
 
 4. [ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ 1– Amardeep Punjabi Paath Maala 1](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_1.html)
 
