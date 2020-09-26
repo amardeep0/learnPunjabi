@@ -11,12 +11,12 @@ Please check [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)  
 Click Shuffle and practice recognizing the Punjabi Alphabets.
 
-[Alphabet identification Game](http://www.learnpunjabi.org/balloonGames/balloon-game1-slow.html)**
+[Alphabet identification Game](http://www.learnpunjabi.org/balloonGames/balloon-game1-slow.html)
 
 ---
 
 ### **[ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ]**  
- Read and Listen to [Muharni](http://www.discoversikhism.com/punjabi/muharni.html) by each Line or by hovering over individual letters)
+ [Read and Listen to Muharni](http://www.discoversikhism.com/punjabi/muharni.html) by each Line or by hovering over individual letters)
  
  ---
  
@@ -25,7 +25,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
  Matra Lessons are explained im Punjabi 
  
- [Video Lessons for Matra (ਮਾਤਰਾ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/MatraLessonsBy-88diljam)** - *By 88diljam channel*  
+ [Video Lessons for Matra (ਮਾਤਰਾ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/MatraLessonsBy-88diljam) - *By 88diljam channel*  
  Matra Lessons (2-5 min) are taught in English. 
  
  ---
