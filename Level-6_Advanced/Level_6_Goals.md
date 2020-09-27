@@ -1,4 +1,4 @@
-**[<-- Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_intermediate/)**
+**[<-- Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/)**
 
 
 **Reading & Writing**
