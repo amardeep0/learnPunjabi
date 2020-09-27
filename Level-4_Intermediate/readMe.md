@@ -14,7 +14,8 @@ Please check [**Level 2 & 3**](https://amardeep0.github.io/learnPunjabi/Level_2-
 
 **[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
 
-Following is a list of some of the online books for reading comprehension. You can choose the books based on the content. 
+
+Following is a list of some of the online books for reading comprehension.  
 
 1. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) 
 
