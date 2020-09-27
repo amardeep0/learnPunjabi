@@ -6,9 +6,9 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 ---
  
-[Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books) - set of 8 books
-
 ### Books
+
+[Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books) - set of 8 books
 
 Following is a list of some of the online books for reading comprehension. You can choose the books based on the content. 
 
