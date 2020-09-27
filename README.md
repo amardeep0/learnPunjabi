@@ -2,7 +2,7 @@
  
 There are a large number of free online resources (Books, Websites and YouTube videos) for learning Punjabi. This is a guide of some of the online resources to help anyone to learn Punjabi. Learning objectives and resources (Books, Websites and Videos) for all levels are listed on their respective pages.
 
-### Resources - based on the Goals of different levels
+**Resources** - *based on the Goals of different levels*
 
   - [Level 1 Beginner - Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)
  
@@ -19,7 +19,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
   - [Level 8 (World Language Competency Testing)](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
  
 
-### Resources - all Levels
+**Resources** - *all Levels*
 
   - **Dictionaries**  
     [Online Punjabi-English Dictionary](http://dic.learnpunjabi.org/default.aspx)  
