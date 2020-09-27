@@ -2,7 +2,7 @@
 
 ## Level 5 
 
-Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-5_Intermediate/Level_5_Goals) here.
+Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/Level_5_Goals) here. 
 
 ---
  
