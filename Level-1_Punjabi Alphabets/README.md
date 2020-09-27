@@ -36,7 +36,7 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 
 
-### Punjabi Alphabets worksheets
+### Punjabi Alphabets - worksheets
 
   - *Worksheets with 1 letter/Page*
 
@@ -50,7 +50,7 @@ Following is a list of some of the online books for reading. You can choose the 
 
     - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf)
     
-    - [PanjabiUniversity_Punjabi_Alphabet_ੳ-ੜ](https://github.com/amardeep0/learnPunjabi/blob/master/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf)
+    - [PanjabiUniversity_Punjabi_Alphabet_ੳ-ੜ](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf)
     
   - *Worksheets with 1 line (5 letters)/Page*
 
