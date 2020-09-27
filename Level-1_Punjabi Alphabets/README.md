@@ -25,7 +25,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
 
 | --- | --- |
-| Books Names | Relevant Content |
+| Books Names | Relevant Content for Level 1 |
 | --- | --- |
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67, Vocabulary words, Poems, Tell story with Pictures: Pages 1-17 |
 | --- | --- |
