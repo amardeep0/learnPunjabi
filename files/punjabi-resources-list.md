@@ -1,4 +1,4 @@
-| [<-- Home](https://amardeep0.github.io/learnPunjabi/) | 
+ **[<-- Home](https://amardeep0.github.io/learnPunjabi/)** 
 
 
 **List of best resources to learn Punjabi Language**
