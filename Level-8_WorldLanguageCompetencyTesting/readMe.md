@@ -8,6 +8,18 @@
 Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals) here. 
 
 ---
+
+Please use following exam papers to practice Listening, Reading and Writing skills of Punjabi language.  
+Each Exam has 3 sections.  
+Section 1: Listening and Responding - Listen to the audio for answering questions.  
+Section 2: Reading and Responding - Read the text and write answers in Punjabi.  
+Section 3: Writing - Write answers in Punjabi.  
+
+[2019 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2019/2019lang-punjabi-w.pdf)  
+[2019 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2019/2019Punjabi.zip)
+
+
+
  
 ### Books
 
