@@ -9,7 +9,7 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 **[Punjabi Alphabets (Consonants and Vowels)](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html) (ਪੈਂਤੀ ਅੱਖਰ)**  
 Listen to the Alphabet Sounds and learn how to write them.
 
-Review Punjabi Alphabets by playing this game **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**
+Review and learn how to write Punjabi Alphabets **[here](http://www.learnpunjabi.org/keyboard1.html#)** or by playing this game **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**
 
 **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets/VideoLessonsInEnglish_88diljam)**-*By 88diljam channel*  
 These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter.  
