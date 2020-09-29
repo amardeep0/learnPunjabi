@@ -19,6 +19,8 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 ### **ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ**  
  [Read and Listen to Muharni](http://www.discoversikhism.com/punjabi/muharni.html) by each Line or by hovering over individual letters)
  
+ You can practice reciting Muharni **[here](http://www.learnpunjabi.org/muharni-slow.html)** also.
+ 
  ---
  
 ### **Punjabi Matra - Video Lessons**
