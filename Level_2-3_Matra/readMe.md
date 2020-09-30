@@ -9,17 +9,13 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 ### **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review**  
 Please check [**Level 1**](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including Punjabi Alphabets worksheets.
 
-[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)  
-Click Shuffle and practice recognizing the Punjabi Alphabets.
-
 [Alphabet identification Game](http://www.learnpunjabi.org/balloonGames/balloon-game1-slow.html)
 
 ---
 
 ### **ਮੁਹਾਰਨੀ (Muharni) ਪੜੋ ਅਤੇ ਸੁਣੋ**  
- [Read and Listen to Muharni](http://www.discoversikhism.com/punjabi/muharni.html) by each Line or by hovering over individual letters)
- 
- You can practice reciting Muharni **[here](http://www.learnpunjabi.org/muharni-slow.html)** also.
+
+ [Read and Listen to Muharni](http://www.learnpunjabi.org/muharni-slow.html). 
  
  ---
  
@@ -71,16 +67,6 @@ Following is a list of some of the online books for reading. You can choose the 
 
 
 ### Listening and Speaking
-
-- [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
-          Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
-       
-- [Listen and practice speaking Basic voacabulary words - 2](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)  
-          Word categories - Prepositions, questions, Adverbs, pronouns, Verbs)
-          
-- [Listen and practice speaking Basic Punjabi phrases](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_phrases.html)  
-          These Punjabi phrases can be used daily in a variety of conversations.
-       
 
 
 
