@@ -8,9 +8,9 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
 
-- Listen to the [Alphabet Sounds](https://youtu.be/1G6Pozog9LQ) and learn how to [write](http://www.learnpunjabi.org/keyboard1.html#) them.
+- Listen to the **[Alphabet Sounds](https://youtu.be/1G6Pozog9LQ)** and learn how to **[write](http://www.learnpunjabi.org/keyboard1.html#)** them.
 
-- Review the Punjabi Alphabets by playing this game: **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**
+- Review the Punjabi Alphabets by playing these games: **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)** and **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
 
 **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets/VideoLessonsInEnglish_88diljam)**-*By 88diljam channel*  
 These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter.  
@@ -56,13 +56,29 @@ Following is a list of some of the online books for reading. You can choose the 
   - *Worksheets with 1 line (5 letters)/Page*
 
     - [sikhville_Trace-Alphabet-Line_Page_ੳ-ਹ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-1/Trace-alphabets_page1.pdf)
+    - [sv_Match-pictures-with-alphabets_Page_ੳ-ਹ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page1/Match-pictures-with-alphabets-page01.pdf)
+    
     - [sikhville_Trace-Alphabet-Line_Page_ਕ-ਙ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-2/Trace-alphabets_page2.pdf)
+    - [sv_Match-pictures-with-alphabets_Page_ਕ-ਙ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page2/Match-pictures-with-alphabets-page02.pdf)
+    
     - [sikhville_Trace-Alphabet-Line_Page_ਚ-ਞ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-3/Trace-alphabets_page3.pdf)
+    - [sv_Match-pictures-with-alphabets_Page_ਚ-ਞ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page3/Match-pictures-with-alphabets-page03.pdf)
+     
     - [sikhville_Trace-Alphabet-Line_Page_ਟ-ਣ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-4/Trace-alphabets_page4.pdf)
+    - [sv_Match-pictures-with-alphabets_Page_ਟ-ਣ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page4/Match-pictures-with-alphabets-page04.pdf)
+     
     - [sikhville_Trace-Alphabet-Line_Page_ਤ-ਨ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-5/Trace-alphabets_page5.pdf)
+    - [sv_Match-pictures-with-alphabets_Page_ਤ-ਨ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page5/Match-pictures-with-alphabets-page05.pdf)
+     
     - [sikhville_Trace-Alphabet-Line_Page_ਪ-ਮ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-6/Trace-alphabets_page6.pdf)
+    - [sv_Match-pictures-with-alphabets_Page_ਪ-ਮ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page6/Match-pictures-with-alphabets-page06.pdf)
+     
     - [sikhville_Trace-Alphabet-Line_Page_ਯ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-7/Trace-alphabets_page7.pdf)
-    - [sikhville_practiceTracing-All_Lines_ੳ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Varanmala-Ahiyaas/Varanmala-Ahiyaas.pdf)
+    - [sv_Match-pictures-with-alphabets_Page_ਯ-ੜ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page7/Match-pictures-with-alphabets-page07.pdf)
+     
+    - [sikhville_practiceTracing-All_Lines_ੳ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Varanmala-Ahiyaas/Varanmala-Ahiyaas.pdf)  
+    
+    - [Panti-Akhar_Match-with-pictures-All_Lines_ੳ-ੜ](http://pantiakhar.com/images/worksheets/trace-n-match.pdf)
 
 
 ### Listening and Speaking
