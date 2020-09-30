@@ -17,7 +17,7 @@ Review the Punjabi Alphabets by playing these games:
   - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
   
   - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)**  
-    - Click Shuffle and practice recognizing the Punjabi Alphabets.
+  Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 
 Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
@@ -33,7 +33,6 @@ Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
 
 Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
 
-| --- | --- |
 | Books Names | Relevant Content for Level 1 |
 | --- | --- |
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67, Vocabulary words, Poems, Tell story with Pictures: Pages 1-17 |
@@ -46,10 +45,9 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 
 
-### Punjabi Alphabets - worksheets
+### Punjabi Alphabets - Worksheets for practicing writing alphabets and matching them to pictures.
 
-|    |    |
-| - *Worksheets with 1 letter/Page*
+ - *Worksheets with 1 letter/Page*
 
     - [sikhville_Trace-Alphabet_Page_ੳ-ਹ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/1.pdf)
     - [sikhville_Trace-Alphabet_Page_ਕ-ਙ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/2.pdf)
@@ -61,7 +59,9 @@ Following is a list of some of the online books for reading. You can choose the 
 
     - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf)
     
-    - [PanjabiUniversity_Punjabi_Alphabet_ੳ-ੜ](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf) | - *Worksheets with 1 line (5 letters)/Page*
+    - [PanjabiUniversity_Punjabi_Alphabet_ੳ-ੜ](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf) 
+    
+  - *Worksheets with 1 line (5 letters)/Page*
 
     - [sikhville_Trace-Alphabet-Line_Page_ੳ-ਹ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-1/Trace-alphabets_page1.pdf)
     - [sv_Match-pictures-with-alphabets_Page_ੳ-ਹ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page1/Match-pictures-with-alphabets-page01.pdf)
@@ -82,19 +82,18 @@ Following is a list of some of the online books for reading. You can choose the 
     - [sv_Match-pictures-with-alphabets_Page_ਪ-ਮ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page6/Match-pictures-with-alphabets-page06.pdf)
      
     - [sikhville_Trace-Alphabet-Line_Page_ਯ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-7/Trace-alphabets_page7.pdf)
-    - [sv_Match-pictures-with-alphabets_Page_ਯ-ੜ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page7/Match-pictures-with-alphabets-page07.pdf)  |
+    - [sv_Match-pictures-with-alphabets_Page_ਯ-ੜ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page7/Match-pictures-with-alphabets-page07.pdf) 
      
     - [sikhville_practiceTracing-All_Lines_ੳ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Varanmala-Ahiyaas/Varanmala-Ahiyaas.pdf)  
     
     - [Panti-Akhar_Match-with-pictures-All_Lines_ੳ-ੜ](http://pantiakhar.com/images/worksheets/trace-n-match.pdf)
 
-|    |    |
 
 ### Listening and Speaking
 
   - [Punjabi Rhymes](http://www.learnpunjabi.org/rhymes_title.html)
   
-   - [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
+  - [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
       - Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
 
 
