@@ -6,8 +6,9 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 ---
 
-**[Punjabi Alphabets (Consonants and Vowels)](http://www.learnpunjabi.org/keyboard1.html#) (ਪੈਂਤੀ ਅੱਖਰ)**  
-Listen to the Alphabet Sounds and learn how to write them.
+**Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
+
+- Listen to the [Alphabet Sounds](https://youtu.be/1G6Pozog9LQ) and learn how to [write](http://www.learnpunjabi.org/keyboard1.html#) them.
 
 - Review the Punjabi Alphabets by playing this game: **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**
 
@@ -66,9 +67,6 @@ Following is a list of some of the online books for reading. You can choose the 
 
 ### Listening and Speaking
 
- - [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
-          Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
-          
   - [Punjabi Rhymes](http://www.learnpunjabi.org/rhymes_title.html)
 
 
