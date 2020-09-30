@@ -8,17 +8,18 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
 
-Listen to the Alphabet Sounds and learn how to write them.  
-  - [Learn Gurmukhi Alphabet - Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
-  - [Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)
-  - [pantiakhar](https://youtu.be/1G6Pozog9LQ)
+Listen to the Alphabet Sounds and learn how to write them:  
+  - **[Learn Gurmukhi Alphabet - Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)**
+  - **[Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
   
 Review the Punjabi Alphabets by playing these games:  
   - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
   - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
 
-**[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets/VideoLessonsInEnglish_88diljam)**-*By 88diljam channel*  
-  - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ).
+Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
+  - **[pantiakhar](https://youtu.be/1G6Pozog9LQ)**  
+  - **[VideoLessonsInEnglish_By 88diljam channel](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets/VideoLessonsInEnglish_88diljam)**  
+       - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). There are about 8 vocabulary words for each letter.
   
 ---
 
