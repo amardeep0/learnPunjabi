@@ -22,7 +22,11 @@ These are some of the **[example writing questions](http://depts.washington.edu/
 
 **[ALTA](https://www.altalang.com/language-testing/)** offers Punjabi language proficiency tests. 
 
-We will use following Past exam papers (from Victorian Curriculum and Assessment Authority (VCAA), Australia) to practice Listening, Reading and Writing skills of Punjabi language proficiency tests.  
+Since there are no practice tests from ALTA, Past exam papers from [Victorian Curriculum and Assessment Authority (VCAA), Australia](https://vcaa.vic.edu.au/Pages/HomePage.aspx) and [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills needed for Punjabi language proficiency tests. 
+
+
+##### Past Exam Papers -Punjabi (from  VCAA, Australia):
+
 Each Exam has 3 sections.  
 - Section 1: Listening and Responding - Listen to the audio for answering questions.  
 - Section 2: Reading and Responding - Read the text and write answers in Punjabi.  
@@ -60,6 +64,11 @@ Question Papers  | Audio Files
 | --- | --- |
 15. [2005 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/punjabi2005.pdf) | 15. [2005 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2005/punjabiaudio2005.zip) 
 | --- | --- |
+
+##### Past Exam Papers - Punjabi (AQA, UK):
+
+
+
  
 ### Books
 
