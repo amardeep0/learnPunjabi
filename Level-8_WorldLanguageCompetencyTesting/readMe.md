@@ -5,12 +5,25 @@
 ### [World Language Proficiency Assessment](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)
 
 
-Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals) here. 
 
 ---
+**Get Competency Credits for Punjabi (World Language)**  
+The World Language Credit Program is a way to earn high school credit for any bilingual student by demonstrating language proficiency. Students who demonstrate proficiency on nationally recognized proficiency assessments may be able to receive competency credits on their transcript.  
+Please read here for getting the **[Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)** here. 
 
+Students should be able to:  
 
-We will use following Past exam papers (from Victorian Curriculum and Assessment Authority (VCAA), Australia) to practice Listening, Reading and Writing skills of Punjabi language.  
+- understand ideas on familiar topics expressed through phrases, short sentences, and frequently used expressions - Listening.
+- understand the main idea and some details in simple texts that contain familiar vocabulary - Reading.
+- use a series of phrases and sentences to provide basic information about familiar topics - Speaking.
+- write simple descriptions and short messages and request or provide information on familiar topics - Writing.
+
+Please check for **[eligibility & preparing for the test](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)** and contact your school counselor if interested.  
+These are some of the **[example writing questions](http://depts.washington.edu/llc/LFO_Tasks_Writing_Intermediate.pdf)** for any world language.
+
+**[ALTA](https://www.altalang.com/language-testing/)** offers Punjabi language proficiency tests. 
+
+We will use following Past exam papers (from Victorian Curriculum and Assessment Authority (VCAA), Australia) to practice Listening, Reading and Writing skills of Punjabi language proficiency tests.  
 Each Exam has 3 sections.  
 - Section 1: Listening and Responding - Listen to the audio for answering questions.  
 - Section 2: Reading and Responding - Read the text and write answers in Punjabi.  
