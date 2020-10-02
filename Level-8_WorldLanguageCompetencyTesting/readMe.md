@@ -16,8 +16,8 @@ Each Exam has 3 sections.
 - Section 2: Reading and Responding - Read the text and write answers in Punjabi.  
 - Section 3: Writing - Write answers in Punjabi.  
 
- Question Papers  | Audio Files  
- 
+Question Papers  | Audio Files 
+| --- | --- |
 1. [2019 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2019/2019lang-punjabi-w.pdf)  |  1. [2019 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2019/2019Punjabi.zip)
 | --- | --- |
 2.[ 2018 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2018/2018lang-punjabi-w.pdf)  |  2. [2018 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2018/2018punjabi.zip)
