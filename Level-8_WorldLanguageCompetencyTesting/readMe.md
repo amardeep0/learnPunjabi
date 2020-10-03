@@ -13,10 +13,10 @@ To learn more, please check the **[eligibility & preparing for the test](https:/
 
 Students should be able to:  
 
-- understand ideas on familiar topics expressed through phrases, short sentences, and frequently used expressions - Listening.
-- understand the main idea and some details in simple texts that contain familiar vocabulary - Reading.
-- use a series of phrases and sentences to provide basic information about familiar topics - Speaking.
-- write simple descriptions and short messages and request or provide information on familiar topics - Writing.
+- understand ideas on familiar topics expressed through phrases, short sentences, and frequently used expressions in Punjabi - Listening.
+- understand the main idea and some details in simple texts that contain familiar vocabulary in Punjabi - Reading.
+- use a series of phrases and sentences to provide basic information about familiar topics in Punjabi - Speaking.
+- write simple descriptions and short messages and request or provide information on familiar topics in Punjabi - Writing.
 
 These are some of the **[example writing questions](http://depts.washington.edu/llc/LFO_Tasks_Writing_Intermediate.pdf)** for any world language.
 
@@ -28,10 +28,7 @@ Since there are no practice tests available from ALTA, Past exam papers from [Vi
 #### Past Exam Papers - Punjabi *(from  VCAA, Australia)*:  
 ============================================
 
-Each Exam has 3 sections.  
-- Section 1: Listening and Responding - Listen to the audio for answering questions.  
-- Section 2: Reading and Responding - Read the text and write answers in Punjabi.  
-- Section 3: Writing - Write answers in Punjabi.  
+Please use the supplementary materials (audio files and text inserts) to answer questions in the following exam papers.
 
 Question Papers  | Audio Files 
 | --- | --- |
@@ -69,9 +66,9 @@ Question Papers  | Audio Files
 #### Past Exam Papers - Punjabi *(from AQA, UK)*:
 =======================================
 
-*Foundation Level - Listening*
+*Foundation Level - Listening, Reading & writing*
 
-**Question Papers  | Audio Files** 
+Question Papers  | Audio Files 
 | --- | --- |
 1. [AQA-46801F-QP-JUN13](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-QP-JUN13.PDF) | 1. [AQA-W-46801F-JUN13.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-W-46801F-JUN13.MP3)
 | --- | --- |
@@ -81,9 +78,7 @@ Question Papers  | Audio Files
 | --- | --- |
 4. [AQA-86831F-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SQP.PDF) | 4. [AQA-86831F-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SSF-UNTRACKED.MP3)
 
-*Foundation Level - Reading & writing*
-
-**Question Papers**  |  
+Question Papers |  
 | --- | --- |
 5. [AQA-46802F-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802F-W-QP-JUN11.PDF) | 6. [AQA-46802F-QP-JUN12.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802F-QP-JUN12.PDF)
 | --- | --- |
@@ -93,9 +88,9 @@ Question Papers  | Audio Files
 | --- | --- |
 11. [AQA-86834F-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86834F-SQP.pdf) |    
 
-*Higher Level - Listening*
+*Higher Level - Listening, Reading & writing*
 
-**Question Papers  | Audio Files** 
+Question Papers  | Audio Files
 | --- | --- |
 1. [AQA-46801H-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801H-QP-JUN13.PDF) | 1. [AQA-W-46801H-JUN13.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-W-46801H-JUN13.MP3)
 | --- | --- |
@@ -106,9 +101,7 @@ Question Papers  | Audio Files
 4. [AQA-86831H-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SQP.PDF) | 4. [AQA-86831H-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SSF-UNTRACKED.MP3)
 | --- | --- |
 
-*Higher Level - Reading & Writing*
-
-**Question Papers**  |  
+Question Papers  |  
 | --- | --- |
 5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) | 6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf)
 | --- | --- |
@@ -120,14 +113,14 @@ Question Papers  | Audio Files
 | --- | --- |
 13. [AQA-46802H-QP-JUN14.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN14.PDF) | 14. [AQA-46802H-QP-JUN15.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN15.PDF)
 
-**Question Papers  | Text Insert** 
+Question Papers  | Text Insert 
 15. [AQA-PANJ1-W-QP-JUN10.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN10.PDF) | 15. [AQA-PANJ1-W-INS-JUN10.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-INS-JUN10.PDF)
 |--- | --- |
 16. [AQA-PANJ1-W-QP-JUN11.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN11.PDF) | 16. [AQA-PANJ1-W-INS-JUN11.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-INS-JUN11.PDF) 
 | --- | --- |
 17. [AQA-PANJ1-QP-JUN12.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN12.PDF) | 17. [AQA-PANJ1-INS-JUN12.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN12.PDF)
 | --- | --- |
-18. [15. -QP-JUN13.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN13.PDF) | 18. [AQA-PANJ1-INS-JUN13.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN13.PDF)
+18. [AQA-PANJ1-QP-JUN13.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN13.PDF) | 18. [AQA-PANJ1-INS-JUN13.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN13.PDF)
 | --- | --- |
 19. [AQA-PANJ1-QP-JUN14.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN14.PDF) | 19. [AQA-PANJ1-INS-JUN14.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN14.PDF)
 | --- | --- |
@@ -142,8 +135,6 @@ Question Papers  | Audio Files
 24. [AQA-86834H-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86834H-SQP.pdf) | 
 | --- | --- |
 25. [AQA-76821-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76821-SQP.PDF) | 25. [AQA-76821-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76821-SIN.PDF)
-
-*Higher Level - Listening, Reading & Writing*
 
 **Question Papers  | Text Insert | Audio files** 
 26. [AQA-76823-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SQP.PDF) | 26. [AQA-76823-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SIN.PDF) | 26. [AQA-76823-SOUND-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SOUND-UNTRACKED.MP3)
