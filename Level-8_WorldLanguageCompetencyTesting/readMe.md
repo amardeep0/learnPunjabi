@@ -8,8 +8,8 @@
 
 **Get Competency Credits for Punjabi (World Language)**  
 The World Language Credit Program is a way to earn high school credit for any bilingual student by demonstrating language proficiency. Students who demonstrate proficiency on nationally recognized proficiency assessments may be able to receive competency credits on their transcript.  
-Please read here for getting the **[Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)** here.  
-To learn more, please check the **[eligibility & preparing for the test](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)** here and contact your school counselor if interested. 
+Details for getting the **[Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)** are here.  
+To learn more, please check the **[eligibility & preparing for the test](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)** and contact your school counselor if interested. 
 
 Students should be able to:  
 
@@ -22,10 +22,11 @@ These are some of the **[example writing questions](http://depts.washington.edu/
 
 **[ALTA](https://www.altalang.com/language-testing/)** offers Punjabi language proficiency tests. 
 
-Since there are no practice tests from ALTA, Past exam papers from [Victorian Curriculum and Assessment Authority (VCAA), Australia](https://vcaa.vic.edu.au/Pages/HomePage.aspx) and [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills needed for Punjabi language proficiency tests. 
+Since there are no practice tests available from ALTA, Past exam papers from [Victorian Curriculum and Assessment Authority (VCAA), Australia](https://vcaa.vic.edu.au/Pages/HomePage.aspx) and [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills needed for Punjabi language proficiency tests. 
 
 
-##### Past Exam Papers -Punjabi (from  VCAA, Australia):
+#### Past Exam Papers - Punjabi *(from  VCAA, Australia)*:
+========================================
 
 Each Exam has 3 sections.  
 - Section 1: Listening and Responding - Listen to the audio for answering questions.  
@@ -65,7 +66,29 @@ Question Papers  | Audio Files
 15. [2005 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/punjabi2005.pdf) | 15. [2005 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2005/punjabiaudio2005.zip) 
 | --- | --- |
 
-##### Past Exam Papers - Punjabi (AQA, UK):
+#### Past Exam Papers - Punjabi *(from AQA, UK)*:
+===============================================
+
+*Foundation Level - Listening*
+
+Question Papers  | Audio Files 
+| --- | --- |
+1. [AQA-46801F-QP-JUN13](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-QP-JUN13.PDF) | 1. [AQA-W-46801F-JUN13.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-W-46801F-JUN13.MP3)
+| --- | --- |
+2. [AQA-46801F-QP-JUN14](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-QP-JUN14.PDF) | 2. [AQA-46801F-JUN14.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-JUN14.MP3)
+| --- | --- |
+
+  
+
+[AQA-46801F-QP-JUN15](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-QP-JUN15.PDF)
+
+[AQA-46801F-JUN15.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-JUN15.MP3)
+
+  
+
+[AQA-86831F-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SQP.PDF)
+
+[AQA-86831F-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SSF-UNTRACKED.MP3)
 
 
 
