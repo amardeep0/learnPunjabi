@@ -71,7 +71,7 @@ Question Papers  | Audio Files
 
 *Foundation Level - Listening*
 
-Question Papers  | Audio Files 
+**Question Papers  | Audio Files** 
 | --- | --- |
 1. [AQA-46801F-QP-JUN13](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-QP-JUN13.PDF) | 1. [AQA-W-46801F-JUN13.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-W-46801F-JUN13.MP3)
 | --- | --- |
@@ -81,23 +81,21 @@ Question Papers  | Audio Files
 | --- | --- |
 4. [AQA-86831F-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SQP.PDF) | 4. [AQA-86831F-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SSF-UNTRACKED.MP3)
 
-*Foundation Level - Reading*
+*Foundation Level - Reading & writing*
 
-Question Papers  |  
+**Question Papers**  |  
 | --- | --- |
 5. [AQA-46802F-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802F-W-QP-JUN11.PDF) | 6. [AQA-46802F-QP-JUN12.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802F-QP-JUN12.PDF)
 | --- | --- |
 7. [AQA-46802F-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802F-QP-JUN13.PDF) | 8. [AQA-46802F-QP-JUN14.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802F-QP-JUN14.PDF)
 | --- | --- |
 9. [AQA-46802F-QP-JUN15.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802F-QP-JUN15.PDF) | 10. [AQA-86833F-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86833F-SQP.pdf)
-
-*Foundation Level - Writing*
-
+| --- | --- |
 11. [AQA-86834F-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86834F-SQP.pdf) |    
 
 *Higher Level - Listening*
 
-Question Papers  | Audio Files 
+**Question Papers  | Audio Files** 
 | --- | --- |
 1. [AQA-46801H-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801H-QP-JUN13.PDF) | 1. [AQA-W-46801H-JUN13.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-W-46801H-JUN13.MP3)
 | --- | --- |
@@ -107,48 +105,49 @@ Question Papers  | Audio Files
 | --- | --- |
 4. [AQA-86831H-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SQP.PDF) | 4. [AQA-86831H-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SSF-UNTRACKED.MP3)
 | --- | --- |
-5. [AQA-76823-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SQP.PDF) | 5. [AQA-76823-SOUND-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SOUND-UNTRACKED.MP3)
+
+*Higher Level - Reading & Writing*
+
+**Question Papers**  |  
+| --- | --- |
+5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) | 6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf)
+| --- | --- |
+7. [AQA-PAN1-W-QP-JUN07.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN07.pdf) | 8. [AQA-PAN1-W-QP-JUN08.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF)
+| --- | --- |
+9. [AQA-PANJ1-W-QP-JUN09.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF) | 10. [AQA-46802H-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF)
+| --- | --- |
+11. [AQA-46802H-QP-JUN12.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-QP-JUN12.PDF) | 12. [AQA-46802H-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN13.PDF)
+| --- | --- |
+13. [AQA-46802H-QP-JUN14.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN14.PDF) | 14. [AQA-46802H-QP-JUN15.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN15.PDF)
+
+**Question Papers  | Text Insert** 
+15. [AQA-PANJ1-W-QP-JUN10.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN10.PDF) | 15. [AQA-PANJ1-W-INS-JUN10.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-INS-JUN10.PDF)
+|--- | --- |
+16. [AQA-PANJ1-W-QP-JUN11.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN11.PDF) | 16. [AQA-PANJ1-W-INS-JUN11.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-INS-JUN11.PDF) 
+| --- | --- |
+17. [AQA-PANJ1-QP-JUN12.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN12.PDF) | 17. [AQA-PANJ1-INS-JUN12.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN12.PDF)
+| --- | --- |
+18. [15. -QP-JUN13.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN13.PDF) | 18. [AQA-PANJ1-INS-JUN13.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN13.PDF)
+| --- | --- |
+19. [AQA-PANJ1-QP-JUN14.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN14.PDF) | 19. [AQA-PANJ1-INS-JUN14.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN14.PDF)
+| --- | --- |
+20. [AQA-PANJ1-QP-JUN15.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN15.PDF) | 20. [AQA-PANJ1-INS-JUN15.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN15.PDF)
+| --- | --- |
+21. [AQA-PANJ1-QP-JUN16.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2016/june/AQA-PANJ1-QP-JUN16.PDF) | 21. [AQA-PANJ1-INS-JUN16.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2016/june/AQA-PANJ1-INS-JUN16.PDF)
+| --- | --- |
+22. [AQA-PANJ1-QP-JUN17.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/june/AQA-PANJ1-QP-JUN17.PDF) | 22. [AQA-PANJ1-INS-JUN17.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/june/AQA-PANJ1-INS-JUN17.PDF)
+| --- | --- |
+23. [AQA-PANJ1-QP-JUN18.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-PANJ1-QP-JUN18.PDF) | 23. [AQA-PANJ1-INS-JUN18.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-PANJ1-INS-JUN18.PDF)
+| --- | --- |
+24. [AQA-86834H-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86834H-SQP.pdf) | 
+| --- | --- |
+25. [AQA-76821-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76821-SQP.PDF) | 25. [AQA-76821-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76821-SIN.PDF)
 
 *Higher Level - Listening, Reading & Writing*
 
-Question Papers  |  
-| --- | --- |
-6. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) | 7. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf)
-| --- | --- |
-8. [AQA-PAN1-W-QP-JUN07.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN07.pdf) | 9. [AQA-PAN1-W-QP-JUN08.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF)
-| --- | --- |
-10. [AQA-PANJ1-W-QP-JUN09.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF) |
-**Question Papers  | Text Insert** 
-11. [AQA-PANJ1-W-QP-JUN10.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN10.PDF) | 11. [AQA-PANJ1-W-INS-JUN10.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-INS-JUN10.PDF)
-|--- | --- |
-12. [AQA-PANJ1-W-QP-JUN11.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN11.PDF) | 12. [AQA-PANJ1-W-INS-JUN11.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-INS-JUN11.PDF) 
-| --- | --- |
-13. [AQA-PANJ1-QP-JUN12.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN12.PDF) | 13. [AQA-PANJ1-INS-JUN12.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN12.PDF)
-| --- | --- |
-14. [15. -QP-JUN13.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN13.PDF) | 14. [AQA-PANJ1-INS-JUN13.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN13.PDF)
-| --- | --- |
-15. [AQA-PANJ1-QP-JUN14.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN14.PDF) | 15. [AQA-PANJ1-INS-JUN14.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN14.PDF)
-| --- | --- |
-16. [AQA-PANJ1-QP-JUN15.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-QP-JUN15.PDF) | 16. [AQA-PANJ1-INS-JUN15.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-INS-JUN15.PDF)
-| --- | --- |
-17. [AQA-PANJ1-QP-JUN16.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2016/june/AQA-PANJ1-QP-JUN16.PDF) | 17. [AQA-PANJ1-INS-JUN16.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2016/june/AQA-PANJ1-INS-JUN16.PDF)
-| --- | --- |
-18. [AQA-PANJ1-QP-JUN17.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/june/AQA-PANJ1-QP-JUN17.PDF) | 18. [AQA-PANJ1-INS-JUN17.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/june/AQA-PANJ1-INS-JUN17.PDF)
-| --- | --- |
-19. [AQA-PANJ1-QP-JUN18.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-PANJ1-QP-JUN18.PDF) | 19. [AQA-PANJ1-INS-JUN18.PDF](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-PANJ1-INS-JUN18.PDF)
-| --- | --- |
-20. [AQA-76821-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76821-SQP.PDF) | 20. [AQA-76821-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76821-SIN.PDF)
-21. [AQA-76823-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SQP.PDF) | 21. [AQA-76823-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SIN.PDF) | 21. [AQA-76823-SOUND-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SOUND-UNTRACKED.MP3)
+**Question Papers  | Text Insert | Audio files** 
+26. [AQA-76823-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SQP.PDF) | 26. [AQA-76823-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SIN.PDF) | 26. [AQA-76823-SOUND-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SOUND-UNTRACKED.MP3)
 
-
-
-
-  
-  
-  
-
-
- 
 ### Books
 
 Following is a list of some of the online books for reading comprehension. 
