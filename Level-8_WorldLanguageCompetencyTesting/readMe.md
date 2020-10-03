@@ -25,8 +25,8 @@ These are some of the **[example writing questions](http://depts.washington.edu/
 Since there are no practice tests available from ALTA, Past exam papers from [Victorian Curriculum and Assessment Authority (VCAA), Australia](https://vcaa.vic.edu.au/Pages/HomePage.aspx) and [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills needed for Punjabi language proficiency tests. 
 
 
-#### Past Exam Papers - Punjabi *(from  VCAA, Australia)*:
-========================================
+#### Past Exam Papers - Punjabi *(from  VCAA, Australia)*:  
+============================================
 
 Each Exam has 3 sections.  
 - Section 1: Listening and Responding - Listen to the audio for answering questions.  
@@ -67,7 +67,7 @@ Question Papers  | Audio Files
 | --- | --- |
 
 #### Past Exam Papers - Punjabi *(from AQA, UK)*:
-===============================================
+=======================================
 
 *Foundation Level - Listening*
 
@@ -77,18 +77,24 @@ Question Papers  | Audio Files
 | --- | --- |
 2. [AQA-46801F-QP-JUN14](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-QP-JUN14.PDF) | 2. [AQA-46801F-JUN14.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-JUN14.MP3)
 | --- | --- |
+3. [AQA-46801F-QP-JUN15](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-QP-JUN15.PDF) | 3. [AQA-46801F-JUN15.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-JUN15.MP3)
+| --- | --- |
+4. [AQA-86831F-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SQP.PDF) | 4. [AQA-86831F-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SSF-UNTRACKED.MP3)
 
-  
+*Foundation Level - Reading*
 
-[AQA-46801F-QP-JUN15](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-QP-JUN15.PDF)
+Question Papers  |  
+| --- | --- |
+5. [AQA-46802F-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802F-W-QP-JUN11.PDF) | 6. [AQA-46802F-QP-JUN12.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802F-QP-JUN12.PDF)
+| --- | --- |
+7. [AQA-46802F-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802F-QP-JUN13.PDF) | 8. [AQA-46802F-QP-JUN14.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802F-QP-JUN14.PDF)
+| --- | --- |
+9. [AQA-46802F-QP-JUN15.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802F-QP-JUN15.PDF) | 10. [AQA-86833F-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86833F-SQP.pdf)
 
-[AQA-46801F-JUN15.MP3](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46801F-JUN15.MP3)
+*Foundation Level - Writing*
 
-  
+11. [AQA-86834F-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86834F-SQP.pdf) |    
 
-[AQA-86831F-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SQP.PDF)
-
-[AQA-86831F-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831F-SSF-UNTRACKED.MP3)
 
 
 
