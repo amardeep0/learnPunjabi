@@ -25,8 +25,7 @@ These are some of the **[example writing questions](http://depts.washington.edu/
 Since there are no practice tests available from ALTA, Past exam papers from [Victorian Curriculum and Assessment Authority (VCAA), Australia](https://vcaa.vic.edu.au/Pages/HomePage.aspx) and [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills needed for Punjabi language proficiency tests. 
 
 
-#### Past Exam Papers - Punjabi *(from  VCAA, Australia)*:  
-============================================
+### Past Exam Papers - Punjabi *(from  VCAA, Australia)*:  
 
 Please use the supplementary materials (audio files and text inserts) to answer questions in the following exam papers.
 
@@ -63,8 +62,7 @@ Question Papers  | Audio Files
 15. [2005 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/punjabi2005.pdf) | 15. [2005 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2005/punjabiaudio2005.zip) 
 | --- | --- |
 
-#### Past Exam Papers - Punjabi *(from AQA, UK)*:
-=======================================
+### Past Exam Papers - Punjabi *(from AQA, UK)*:
 
 *Foundation Level - Listening, Reading & writing*
 
@@ -113,7 +111,8 @@ Question Papers  |
 | --- | --- |
 13. [AQA-46802H-QP-JUN14.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN14.PDF) | 14. [AQA-46802H-QP-JUN15.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN15.PDF)
 
-Question Papers  | Text Insert 
+Question Papers  | Text Insert
+| --- | --- |
 15. [AQA-PANJ1-W-QP-JUN10.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN10.PDF) | 15. [AQA-PANJ1-W-INS-JUN10.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-INS-JUN10.PDF)
 |--- | --- |
 16. [AQA-PANJ1-W-QP-JUN11.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN11.PDF) | 16. [AQA-PANJ1-W-INS-JUN11.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-INS-JUN11.PDF) 
@@ -139,6 +138,19 @@ Question Papers  | Text Insert
 **Question Papers  | Text Insert | Audio files** 
 26. [AQA-76823-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SQP.PDF) | 26. [AQA-76823-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SIN.PDF) | 26. [AQA-76823-SOUND-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SOUND-UNTRACKED.MP3)
 
+----
+
+### Vocabulary
+
+Review [* Punjabi vocabulary words*]((https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
+
+### Listening and Speaking
+
+  - Review the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
+
+  - [eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free (sign up required for getting access to the content).  
+     Videos of this course may provide experience of Punjab culture and every day conversions.
+ 
 ### Books
 
 Following is a list of some of the online books for reading comprehension. 
