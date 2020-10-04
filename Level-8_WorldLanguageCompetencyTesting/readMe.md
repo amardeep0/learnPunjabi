@@ -135,14 +135,15 @@ Question Papers  | Text Insert
 | --- | --- |
 25. [AQA-76821-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76821-SQP.PDF) | 25. [AQA-76821-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76821-SIN.PDF)
 
-**Question Papers  | Text Insert | Audio files** 
+Question Papers  | Text Insert | Audio files
+| --- | --- | --- |
 26. [AQA-76823-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SQP.PDF) | 26. [AQA-76823-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SIN.PDF) | 26. [AQA-76823-SOUND-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SOUND-UNTRACKED.MP3)
 
 ----
 
 ### Vocabulary
 
-Review [* Punjabi vocabulary words*]((https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
+Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
 
 ### Listening and Speaking
 
