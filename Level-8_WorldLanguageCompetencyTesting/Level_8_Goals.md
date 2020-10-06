@@ -3,27 +3,24 @@
 ### [World Language Proficiency Assessment](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)
 
 **Get Competency Credits for Punjabi (World Language)**  
-Senior students who speak, read, and write a language other than English can earn world language credits by demonstrating proficiency. Students who demonstrate proficiency on nationally recognized proficiency assessments may be able to receive competency credits on their transcript. Please contact your school counselor if interested to take test.
+Senior students who speak, read, and write a language other than English can earn world language credits by demonstrating proficiency. Students who demonstrate proficiency on nationally recognized proficiency assessments may be able to receive competency credits on their transcript. Please **contact your school counselor** if interested to take test.
 
-Assessment goals:
-  - Understand spoken language
-  - Communicate in speech
-  - Understand written language
-  - Communicate in writing
+-----
 
-These are some of the example topics for world language assessment. 
+Students should be able to:  
 
-  - Daily routines, transport and communication, food, drink, health, fitness, media
-  - Family, religion, free-time activities, social issues 
-  - Environment issues, urban and rural life, science and society, crime and punishment
-  - Education and training, employment and unemployment, commerce and industry
-  - Holidays and travel, impact of tourism, life style & culture of foreign countries
+- understand ideas on familiar topics expressed through phrases, short sentences, and frequently used expressions in Punjabi - Listening.
+- understand the main idea and some details in simple texts that contain familiar vocabulary in Punjabi - Reading.
+- use a series of phrases and sentences to provide basic information about familiar topics in Punjabi - Speaking.
+- write simple descriptions and short messages and request or provide information on familiar topics in Punjabi - Writing.
 
- ALTA Language Testing Services offers following tests:
-  - ALTA Speaking and Listening Assessment 
-  - Oral skills (Speaking and Listening in an interactive interview via telephone – 30 minutes) 
+Following are some of the **example topics** for world language assessment. 
 
- ALTA Writing Assessment takes 1½ hours. 
+  - Myself, Family, Friends, Food, Eating Out, Daily rotines, Sports, Social Media, TV, Music, Culture, Customs and festivals in Communities. 
+  - Home, Neighbourhoods, Cities, Social & Global Issues (lifestyle, Voluntary Work, Homelessness, Environment), Transport, Travel.
+  - Education and training, Career Choices, employment and unemployment, Technology, commerce and industry
+
+------
 
 All assessments will be evaluated based on proficiency guidelines from the American Council on the Teaching of Foreign Languages (ACTFL). Credit will be granted if students meet the following levels of proficiency:  
 
