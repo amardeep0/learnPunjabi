@@ -9,25 +9,25 @@
 **Get Competency Credits for Punjabi (World Language)**  
 The World Language Credit Program is a way to earn high school credit for any bilingual student by demonstrating language proficiency. Students who demonstrate proficiency on nationally recognized proficiency assessments may be able to receive competency credits on their transcript.  
 Details for getting the **[Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)** are here.  
-To learn more, please check the **[eligibility & preparing for the test](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)** and contact your school counselor if interested. 
+To learn more, please check the **[eligibility & preparing for the test](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)** and contact your school counselor to take the test. 
 
-Students should be able to:  
+These are some of the **[example writing questions](http://depts.washington.edu/llc/LFO_Tasks_Writing_Intermediate.pdf)** for any world language assessment.
 
-- understand ideas on familiar topics expressed through phrases, short sentences, and frequently used expressions in Punjabi - Listening.
-- understand the main idea and some details in simple texts that contain familiar vocabulary in Punjabi - Reading.
-- use a series of phrases and sentences to provide basic information about familiar topics in Punjabi - Speaking.
-- write simple descriptions and short messages and request or provide information on familiar topics in Punjabi - Writing.
+**[ALTA](https://www.altalang.com/language-testing/seal-of-biliteracy/)** provides two types of Punjabi language proficiency tests:
+  - *Oral Proficiency* (to assess a student’s speaking and listening skills).  
+    - The test is conducted over the phone between an evaluator and student, wherein the evaluator will ask a variety of open-ended questions to prompt the student to use the language in a variety of ways. This test lasts approximately 15 – 25 minutes.
+  - *Writing Proficiency* (to assess a student’s ability to write in a given language).  
+    - This is a paper test. Students must answer five questions (about 100 words per answer), and the test will take up to one hour to complete. 
 
-These are some of the **[example writing questions](http://depts.washington.edu/llc/LFO_Tasks_Writing_Intermediate.pdf)** for any world language.
-
-**[ALTA](https://www.altalang.com/language-testing/)** offers Punjabi language proficiency tests. 
-
-Since there are no practice tests available from ALTA, Past exam papers from [Victorian Curriculum and Assessment Authority (VCAA), Australia](https://vcaa.vic.edu.au/Pages/HomePage.aspx) and [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills needed for Punjabi language proficiency tests. 
-
+Since there are no practice tests available online from ALTA, Past exam papers from [Victorian Curriculum and Assessment Authority (VCAA), Australia](https://vcaa.vic.edu.au/Pages/HomePage.aspx) and [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills for Punjabi language proficiency tests. 
 
 ### Past Exam Papers - Punjabi *(from  VCAA, Australia)*:  
 
-Please use the supplementary materials (audio files and text inserts) to answer questions in the following exam papers.
+Please use the supplementary materials (audio files and text inserts) to answer questions in the following exam papers.  
+Question papers 1-15 have 3 sections:  
+  1) Listen to audio and answer questions. 
+  2) Read text and answer questions. 
+  3) Write answers about given topics.
 
 Question Papers  | Audio Files 
 | --- | --- |
@@ -64,7 +64,9 @@ Question Papers  | Audio Files
 
 ### Past Exam Papers - Punjabi *(from AQA, UK)*:
 
-*Foundation Level - Listening, Reading & writing*
+*Foundation Level - Listening, Reading & writing*  
+  1) Question papers 1-4 --> Listen to audio files and write answers
+  2) Question papers 5-11 --> Read the text and answer the questions. 
 
 Question Papers  | Audio Files 
 | --- | --- |
@@ -86,7 +88,9 @@ Question Papers |
 | --- | --- |
 11. [AQA-86834F-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86834F-SQP.pdf) |    
 
-*Higher Level - Listening, Reading & writing*
+*Higher Level - Listening, Reading & writing*  
+  1) Question papers 1-4 --> Listen to audio files and write answers
+  2) Question papers 5-25 --> Have 2 types of questions. A) Read the text (included in the Question paper or separate text insert) and answer the questions. B) Write answers about given topics / prompts.  
 
 Question Papers  | Audio Files
 | --- | --- |
