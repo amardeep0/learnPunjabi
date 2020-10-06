@@ -25,10 +25,9 @@ Since there are no practice tests available online from ALTA, Past exam papers f
 
 Please use the supplementary materials (audio files and text inserts) to answer questions in the following exam papers.  
 Question papers 1-15 have 3 sections:  
-
-    - Listen to audio and answer questions.  
-    - Read text and answer questions.  
-    - Write answers about given topics.
+ - Listen to audio and answer questions.  
+ - Read text and answer questions.  
+ - Write answers about given topics.
 
 Question Papers  | Audio Files 
 | --- | --- |
@@ -66,9 +65,8 @@ Question Papers  | Audio Files
 ### Past Exam Papers - Punjabi *(from AQA, UK)*:
 
 *Foundation Level - Listening, Reading & writing* 
-
-     -  Question papers 1-4 --> Listen to audio files and write answers  
-     -  Question papers 5-11 --> Read the text and answer the questions. 
+ - Question papers 1-4 --> Listen to audio files and write answers  
+ - Question papers 5-11 --> Read the text and answer the questions. 
 
 Question Papers  | Audio Files 
 | --- | --- |
@@ -90,12 +88,11 @@ Question Papers |
 | --- | --- |
 11. [AQA-86834F-SQP](https://www.cienotes.com/wp-content/uploads/2020/03/AQA-86834F-SQP.pdf) |    
 
-*Higher Level - Listening, Reading & writing*  
-
-    - Question papers 1-4 --> Listen to audio files and write answers.  
-    - Question papers 5-25 --> Have 2 types of questions.  
-        - Read the text (included in the Question paper or separate text insert) and answer the questions.  
-        - Write answers about given topics / prompts.  
+*Higher Level - Listening, Reading & writing*
+ - Question papers 1-4 --> Listen to audio files and write answers.  
+ - Question papers 5-25 --> Have 2 types of questions.  
+   - Read the text (included in the Question paper or separate text insert) and answer the questions.  
+   - Write answers about given topics / prompts.  
 
 Question Papers  | Audio Files
 | --- | --- |
