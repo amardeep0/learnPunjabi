@@ -13,7 +13,7 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 ### Books
 
-Following is a list of some of the online books for reading comprehension. You can choose the books based on the content. 
+Following is a list of some of the online books for reading comprehension.  
 
 1. [ਸੌਖੀ ਪੰਜਾਬੀ-2 – Panjabi Made Easy (Book 2)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_2.html)
  
