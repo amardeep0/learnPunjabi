@@ -7,8 +7,9 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 ---
  
 ### **Punjabi Matra (ਮਾਤਰਾ) Review**  
-Please check [**Level 2 & 3**](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) for all the materials (Videos, books, etc.) for reviewing Punjabi Matras (ਮਾਤਰਾ).
+Please check [**Level 2 & 3**](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) to review more Punjabi Matras (ਮਾਤਰਾ) resources.
 
+[Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
 
 ### **Books**
 
@@ -27,7 +28,18 @@ Following is a list of some of the online books for reading comprehension.
 
 5. [ਨਵੀਨ ਪੰਜਾਬੀ (ਭਾਗ  1) – Navin Punjabi - Part 1](http://www.discoversikhism.com/sikh_library/learn/navin_punjabi_part_1.html)
 
-6. [ਪੰਜਾਬੀ ਪੁਸਤਕ- 3(ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-3(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-3.pdf) 
+6. [ਪੰਜਾਬੀ ਪੁਸਤਕ- 3(ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-3(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-3.pdf)
+
+----
+
+### Vocabulary
+
+Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
+
+### Listening and Speaking
+
+Review the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
+
 
 
 
