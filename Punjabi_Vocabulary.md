@@ -11,5 +11,7 @@
    3. [Vocabulary Lessons based on following Topics](https://www.sikhmissionarysociety.org/sms/smspublications/AnIntermediateLevelJointCourseInPanjabi.pdf)  
    Please review *Pages 5-55* of this book to learn vocabulary words from these topics:  
    
-   - Parts of the Body, Food and Fruits, Clothes and Dress, Seasons and Months, Family and Relations, Colours and Flags, Home and Kitchen, Clock, Time & Place, School and Classroom, Numbers and Ordinals, Panjabi Pronouns, Adjectives & Antonyms, Verbs and Adverbs.  
-
+|  |  |  |
+|--|--|--|
+|Parts of the Body, Food and Fruits |Clothes and Dress, Family and Relations| Seasons and Months, Colors and Flags |
+| Home and Kitchen, Clock, Time & Place |School and Classroom, Numbers and Ordinals | Panjabi Pronouns, Adjectives & Antonyms, Verbs and Adverbs |
