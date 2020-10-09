@@ -33,8 +33,17 @@ Following is a list of some of the online books for reading comprehension.
  
 9. [ਨਵੀਨ ਪੰਜਾਬੀ (ਭਾਗ  3) – Navin Punjabi - Part 3](http://www.discoversikhism.com/sikh_library/learn/navin_punjabi_part_3.html)
 
+------
 
- 
+### Vocabulary
+
+Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
+
+### Listening and Speaking
+
+Review the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
+
+
  
  
  
