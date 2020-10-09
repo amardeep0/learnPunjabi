@@ -46,7 +46,7 @@ Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Pun
 
 ### Listening and Speaking
 
-- Review the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
+- Listen to the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
 
 - Listen to the conversations by listening to audio files (*Past Exam Papers (AQA, UK) - Foundation Level*) on [Level 8 page](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)  
 
