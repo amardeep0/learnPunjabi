@@ -6,10 +6,13 @@
 Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/Level_6_Goals) here. 
 
 ---
- 
-### Books
 
 [Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books) - set of 8 books
+
+[Stepping Stones PSL-6A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons)
+
+
+### Books
 
 Following is a list of some of the online books for reading comprehension. 
 
