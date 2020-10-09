@@ -45,7 +45,7 @@ Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Pun
 
 ### Listening and Speaking
 
-Review the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
+Listen to the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
 
 
 
