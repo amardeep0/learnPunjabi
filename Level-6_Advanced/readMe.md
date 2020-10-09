@@ -37,6 +37,17 @@ Following is a list of some of the online books for reading comprehension.
 
 10. [ਪੰਜਾਬੀ-ਵਿਆਕਰਣ ਅਤੇ ਲੇਖ-ਰਚਨਾ - pun-viykrn-te-lekh-rachna-6-8](https://drive.google.com/file/d/1fZW0x4Tgm3sXW6nhcD34jzWMc2MSRBAQ/view) - Grammar book
 
+-------
+
+### Vocabulary
+
+Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
+
+### Listening and Speaking
+
+Review the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
+
+
 
   
  
