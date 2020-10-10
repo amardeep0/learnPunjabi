@@ -7,7 +7,7 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 ----
  
 ### **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review**  
-Please check [**Level 1**](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including Punjabi Alphabets worksheets.
+Please check **[Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)** for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including Punjabi Alphabets worksheets.
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)  
 Click Shuffle and practice recognizing the Punjabi Alphabets.
@@ -67,6 +67,10 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 | 13. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
 | --- | --- |
+
+
+### [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)  
+Review vocabulary word lists based on your level [here](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary).
 
 
 ### Listening and Speaking
