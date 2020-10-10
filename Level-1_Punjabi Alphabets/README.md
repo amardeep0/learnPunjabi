@@ -12,7 +12,19 @@ Listen to the Alphabet Sounds and learn how to write them:
   - **[Learn Gurmukhi Alphabet - Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)**
   - **[Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
   
-Review the Punjabi Alphabets by playing these games:  
+Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
+  - **[panti akhar](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets/panti-akhar-videoLessons)**  
+       - Panti Akhar are taught in traditional sequence (ੳ - ੜ) with lots of vocabulary words.
+       - [Worksheets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
+      
+  - **[Video Lessons in English_By 88diljam channel](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets/VideoLessonsInEnglish_88diljam)**  
+       - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
+       - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
+       - There are about 8 vocabulary words for each letter.
+    
+Review the Punjabi Alphabets by playing these games: 
+
+  - **[Review panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ)**  
   - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
   - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
   
@@ -20,11 +32,6 @@ Review the Punjabi Alphabets by playing these games:
   Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 
-Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
-  - **[pantiakhar](https://youtu.be/1G6Pozog9LQ)**  
-  - **[Video Lessons in English_By 88diljam channel](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi Alphabets/VideoLessonsInEnglish_88diljam)**  
-       - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). There are about 8 vocabulary words for each letter.
-  
 ---
 
 ### Books
