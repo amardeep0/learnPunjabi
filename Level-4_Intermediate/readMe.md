@@ -10,7 +10,7 @@ Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Le
 
 - [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
 
-- Please check [**Level 2 & 3**](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) to review more Punjabi Matras (ਮਾਤਰਾ) resources.
+- Please check **[Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)** to review more Punjabi Matras (ਮਾਤਰਾ) resources.
 
 
 ### **Books**
