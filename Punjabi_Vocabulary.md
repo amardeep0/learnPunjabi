@@ -22,10 +22,13 @@
   -  [Punjabi Vocabulary of more than 3,000 words **with pictures** from 80 topics](http://www.learnpunjabi.org/vocabulary/vocabulary1.asp?id=23)  
            - This is the [list (pdf)](http://pnarang.weebly.com/uploads/1/4/5/6/14563640/vocab_f.pdf) of Punjabi vocabulary words (without pictures)
    
-  -  [Punjabi vocabulary_words list based on different topics (from_AQA_GCSE)](https://amardeep0.github.io/learnPunjabi/files/Panjabi_VocabularyList_From_AQA_GCSE.pdf)
+  -  [Punjabi vocabulary_words list based on different topics (from_AQA_GCSE)](https://amardeep0.github.io/learnPunjabi/files/Panjabi_VocabularyList_From_AQA_GCSE.pdf)  
+  Following topics are included in this list. 
+ 
+Comparisons, Conjunctions, Connectives, Prepositions, Negatives, Money, Quetion words, Greetings, Opinions, Time expressions, Location and distance, Measurements, Weather, Access, Materials, Identity & Culture, Technology, Free-time activities, Punjabi Customs & festivals, Home, town, neighbourhood and region, Social and Global issues, Travel and tourism, Current and future study and employment 
    
   -  [Vocabulary Lessons based on following Topics](https://www.sikhmissionarysociety.org/sms/smspublications/AnIntermediateLevelJointCourseInPanjabi.pdf)  
-   Please review *Pages 5-55* of this book to learn vocabulary words from these topics:  
+  Please review *Pages 5-55* of this book to learn vocabulary words from these topics:  
    
 |  |  |  |
 |--|--|--|
