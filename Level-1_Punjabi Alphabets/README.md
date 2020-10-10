@@ -15,7 +15,7 @@ Listen to the Alphabet Sounds and learn how to write them:
 Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
   - **[panti akhar video Lessons by SS-PSL](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ) with lots of vocabulary words.
-       - [Worksheets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
+       - [Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
       
   - **[panti akhar video Lessons in English_by 88diljam channel](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam)**  
        - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
