@@ -1,7 +1,9 @@
  
 [**<-- Home**](https://amardeep0.github.io/learnPunjabi/)
+
  
  ### Punjabi Vocabulary
+ 
  
  -----
  
@@ -9,7 +11,7 @@
  
  - [Names of Colors](http://www.sikhville.org/pdf/Coloring/rang/Rangan-de-naam.pdf)
  - [Names of Fruits](http://www.sikhville.org/pdf/new/Name-of-Friuts.pdf)
- - [Names of Vegetable](http://www.sikhville.org/pdf/new/Name-o-Vegetables.pdf)
+ - [Names of Vegetables](http://www.sikhville.org/pdf/new/Name-o-Vegetables.pdf)
  - [Names of Bodyparts](http://www.sikhville.org/pdf/Name-the-following/Body-Parts2/Name-of-bodyparts.pdf)
  - [Names of Animals](http://www.sikhville.org/pdf/new/Name-of-Animals.pdf)
  - [Time vocabulary words](http://www.sikhville.org/pdf/Informational/sama-sarni/Sama-Sarni.pdf)
