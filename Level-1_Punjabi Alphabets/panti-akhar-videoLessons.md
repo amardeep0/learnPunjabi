@@ -20,3 +20,9 @@
 | --- | --- | --- | --- | --- |
 |  |  |  |  |   |
 
+----------------
+
+
+
+-*Videos for remaining letters will be added as they become available*
+
