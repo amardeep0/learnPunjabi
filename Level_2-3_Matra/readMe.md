@@ -2,7 +2,7 @@
 
 ## Level 2 & 3 
 
-Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/Levels_2_and_3_Goals) here.
+Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/Levels_2_and_3_Goals)** here.
 
 ----
  
