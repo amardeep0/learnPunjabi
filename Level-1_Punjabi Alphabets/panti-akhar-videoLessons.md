@@ -18,10 +18,9 @@
 
 | ਕ | ਖ | ਗ | ਘ | ਙ | 
 | --- | --- | --- | --- | --- |
-|  |  |  |  |   |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=784N9eV1XLk " target="_blank"><img src="http://img.youtube.com/vi/784N9eV1XLk/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ltOztcJoqVU " target="_blank"><img src="http://img.youtube.com/vi/ltOztcJoqVU/0.jpg" width="90" height="60" /></a> |  |  |   |
 
 ----------------
-
 
 
 -*Videos for remaining letters will be added as they become available*
