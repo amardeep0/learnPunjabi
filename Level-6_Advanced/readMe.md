@@ -3,7 +3,7 @@
 
 ## Level 6 
 
-Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/Level_6_Goals) here. 
+Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/Level_6_Goals)** here. 
 
 ---
 
