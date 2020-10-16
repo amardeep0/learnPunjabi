@@ -2,7 +2,7 @@
  
 ## Level 1 
 
-Please see the [Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/Level_1_Goals) here.
+Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/Level_1_Goals)** here.
 
 ---
 
@@ -12,7 +12,7 @@ Listen to the Alphabet Sounds and learn how to write them:
   - **[Learn Gurmukhi Alphabet - Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)**
   - **[Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
   
-Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
+**Video Lessons** for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
   - **[panti akhar video Lessons by SS-PSL](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
        - [Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
