@@ -19,48 +19,7 @@ These are some of the **example writing questions** from **[ALTA](https://www.al
   - *[Writing Test](https://resources.finalsite.net/images/v1538422927/highlineschoolsorg/rp78tmjy1tldrstzoyxp/WritingtestsEducation.pdf)* - to assess a student’s ability to write in a given language.  
     - This is a paper test. Students must answer five questions (about 100 words per answer), and the test will take up to one hour to complete. 
 
-Since there are no practice tests available online from ALTA, Past exam papers from [Victorian Curriculum and Assessment Authority (VCAA), Australia](https://vcaa.vic.edu.au/Pages/HomePage.aspx) and [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills for Punjabi language proficiency tests. 
-
-### Past Exam Papers - Punjabi *(from  VCAA, Australia)*:  
-
-Please use the supplementary materials (audio files and text inserts) to answer questions in the following exam papers.  
-Question papers 1-15 have 3 sections:  
- - Listen to audio and answer questions.  
- - Read text and answer questions.  
- - Write answers about given topics.
-
-Question Papers  | Audio Files 
-| --- | --- |
-1. [2019 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2019/2019lang-punjabi-w.pdf)  |  1. [2019 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2019/2019Punjabi.zip)
-| --- | --- |
-2.[ 2018 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2018/2018lang-punjabi-w.pdf)  |  2. [2018 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2018/2018punjabi.zip)
-| --- | --- |
-3. [2017 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2017/2017lang-punjabi-w.pdf) |  3. [2017 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2017/2017Punjabi.zip)
-| --- | --- |
-4. [2016 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2016/2016ccafl-punjabi-w.pdf) | 4. [2016 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2016/audio2016-ccafl/2016Punjabi.zip) 
-| --- | --- |
-5. [2015 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2015/2015ccafl-punjabi-w.pdf) | 5. [2015 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2015/audio2015-ccafl/2015punjabi.zip) 
-| --- | --- |
-6. [2014 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2014/2014ccafl-punjabi-w.pdf) | 6. [2014 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2014/audio2014-ccafl/2014Punjabi.zip) 
-| --- | --- |
-7. [2013 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2013/2013ccafl-punjabi-w.pdf) | 7. [2013 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2013/audio2013-ccafl/2013punjabi.zip) 
-| --- | --- |
-8. [2012 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2012/2012ccafl-punjabi-w.pdf) | 8. [2012 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2012/audio2012-ccafl/2012Punjabi.zip) 
-| --- | --- |
-9. [2011 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2011ccafl-punjabi-w.pdf) | 9. [2011 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2011-ccafl/2011Punjabi.zip) 
-| --- | --- |
-10. [2010 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2010ccafl-punjabi-w.pdf) | 10. [2010 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2010-ccafl/2010Punjabi.zip) 
-| --- | --- |
-11. [2009 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2009ccafl-punj-w.pdf) | 11. [2009 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2009-ccafl/2009punjabi5.zip) 
-| --- | --- |
-12. [2008 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2008punjabi-web.pdf) | 12. [2008 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2008/2008punjabi5.zip) 
-| --- | --- |
-13. [2007 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2007punjabi-web.pdf) | 13. [2007 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2007/punjabi5.zip) 
-| --- | --- |
-14. [2006 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/2006punj-snd-w.pdf) | 14. [2006 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/2006punj-snd-w.pdf) 
-| --- | --- |
-15. [2005 VCE Punjabi examination](https://vcaa.vic.edu.au/Documents/exams/punjabi/punjabi2005.pdf) | 15. [2005 VCE Punjabi audio zip file](https://vcaa.vic.edu.au/Documents/exams/punjabi/audio2005/punjabiaudio2005.zip) 
-| --- | --- |
+Since there are no practice tests available online from ALTA, Past exam papers from [AQA, UK](https://www.aqa.org.uk/) can be used to practice Speaking, Listening, Reading and Writing skills for Punjabi language proficiency tests. 
 
 ### Past Exam Papers - Punjabi *(from AQA, UK)*:
 
