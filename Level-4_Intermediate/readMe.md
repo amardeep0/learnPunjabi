@@ -37,9 +37,9 @@ Following is a list of some of the online books for reading comprehension.
 ### Vocabulary
 
 Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.### Punjabi Grammar  
-Review [*Grammar books and websites*](https://amardeep0.github.io/learnPunjabi/Punjabi_Grammar) to learn about Punjabi grammar.
 
-### Punjabi Grammar  
+### Punjabi Grammar
+
 Review [*Grammar books and websites*](https://amardeep0.github.io/learnPunjabi/Punjabi_Grammar) to learn about Punjabi grammar.
 
 ### Listening and Speaking
