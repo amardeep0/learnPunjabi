@@ -2,7 +2,7 @@
 
 ## Level 8 
 
-### World Language Proficiency Assessment
+**World Language Proficiency Assessment** - [Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)
 
 ----
 
