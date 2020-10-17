@@ -162,24 +162,23 @@ Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Pun
 
 Following is a list of some of the online books for reading comprehension. 
 
+  1. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(First-Language)-XV.pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-7-(First-Language)-XV.pdf)
 
-1. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(First-Language)-XV.pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-7-(First-Language)-XV.pdf)
+  2. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-7-(2nd-Lang).pdf)
 
-2. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-7-(2nd-Lang).pdf)
+  3. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਅੱਠਵੀਂ ਜਮਾਤ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-8-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-8-(2nd-Lang).pdf)
 
-3. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਅੱਠਵੀਂ ਜਮਾਤ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-8-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-8-(2nd-Lang).pdf)
+  4. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਅੱਠਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-8-(First-Language)](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-8(1stlang)2018-03-21.pdf)
 
-4. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਅੱਠਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-8-(First-Language)](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-8(1stlang)2018-03-21.pdf)
+**Grammar Books** 
 
-####  Grammar Books 
+  5. [ਪੰਜਾਬੀ-ਵਿਆਕਰਣ ਅਤੇ ਲੇਖ-ਰਚਨਾ (punjabi-viykrn-te-lekh-rachna)](https://drive.google.com/file/d/1fZW0x4Tgm3sXW6nhcD34jzWMc2MSRBAQ/view)
 
-5. [ਪੰਜਾਬੀ-ਵਿਆਕਰਣ ਅਤੇ ਲੇਖ-ਰਚਨਾ (punjabi-viykrn-te-lekh-rachna)](https://drive.google.com/file/d/1fZW0x4Tgm3sXW6nhcD34jzWMc2MSRBAQ/view)
+  6. [Introductory Punjabi](http://www.discoversikhism.com/sikh_library/learn/introductory_punjabi.html)
 
-6. [Introductory Punjabi](http://www.discoversikhism.com/sikh_library/learn/introductory_punjabi.html)
+  7. [Learn Punjabi In A Month](https://archive.org/details/LearnPunjabiInAMonth/mode/2up)
 
-7. [Learn Punjabi In A Month](https://archive.org/details/LearnPunjabiInAMonth/mode/2up)
-
-8. [Learn Punjabi In 25 Days](https://archive.org/details/LearnPunjabiIn25Days/mode/2up)
+  8. [Learn Punjabi In 25 Days](https://archive.org/details/LearnPunjabiIn25Days/mode/2up)
 
  
 **Websites** - for learning Punjabi grammar
