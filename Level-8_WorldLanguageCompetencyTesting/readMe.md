@@ -171,7 +171,26 @@ Following is a list of some of the online books for reading comprehension.
 
 4. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਅੱਠਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-8-(First-Language)](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-8(1stlang)2018-03-21.pdf)
 
-5. [ਪੰਜਾਬੀ-ਵਿਆਕਰਣ ਅਤੇ ਲੇਖ-ਰਚਨਾ - pun-viykrn-te-lekh-rachna-6-8](https://drive.google.com/file/d/1fZW0x4Tgm3sXW6nhcD34jzWMc2MSRBAQ/view) - Grammar book
+####  Grammar Books 
+
+5. [ਪੰਜਾਬੀ-ਵਿਆਕਰਣ ਅਤੇ ਲੇਖ-ਰਚਨਾ (punjabi-viykrn-te-lekh-rachna)](https://drive.google.com/file/d/1fZW0x4Tgm3sXW6nhcD34jzWMc2MSRBAQ/view)
+
+6. [Introductory Punjabi](http://www.discoversikhism.com/sikh_library/learn/introductory_punjabi.html)
+
+7. [Learn Punjabi In A Month](https://archive.org/details/LearnPunjabiInAMonth/mode/2up)
+
+8. [Learn Punjabi In 25 Days](https://archive.org/details/LearnPunjabiIn25Days/mode/2up)
+
+ 
+**Websites** - for learning Punjabi grammar
+   
+   - [Learn Punjabi Grammar - Punjabi University, Patiala](http://www.learnpunjabi.org/Noun.html) 
+
+   - [Overview of Punjabi Grammar](http://punjabi.aglsoft.com/punjabi/learngrammar/)
+   
+
+
+
 
 
 
