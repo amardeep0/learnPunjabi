@@ -64,25 +64,17 @@ Question Papers  | Audio Files
 4. [AQA-86831H-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SQP.PDF) | 4. [AQA-86831H-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SSF-UNTRACKED.MP3)
 | --- | --- |
 
-Question Papers | Topics 
-| --- | --- |
-5. [AQA-PAN1-W-QP-JUN05](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) | ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ 
-| --- | --- |
-6. [AQA-PAN1-W-QP-JUN06](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf) | ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ
-| --- | --- |
-7. [AQA-PAN1-W-QP-JUN08](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF) | ਕੰਪਿਊਟਰ ਦੀ ਵਰਤੋਂ  
-| --- | --- |
-8. [AQA-PANJ1-W-QP-JUN09](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF) | ਪੰਜਾਬੀ ਬੋਲੀ ਦੇ ਵਿਕਾਸ ਦਾ ਦੁਖਾਂਤ, ਰੀਸਾਇਕਲਿੰਗ
-| --- | --- |
-9. [AQA-46802H-W-QP-JUN11](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF) | ਨਵੇਂ ਘਰ ਬਾਰੇ ਦੋਸਤ ਨੂੰ ਈਮੇਲ, ਸਿਹਤ, ਸਕੂਲ ਦੇ ਵਿਸ਼ਿਆਂ ਬਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਵਿਚਾਰ, ਅਖਬਾਰਾਂ ਵਿਚ ਇਸ਼ਤਿਹਾਰ, ਛੁੱਟੀਆਂ, ਯੂਥ ਕਲੱਬ, ਹੀਥਰੋ ਹਵਾਈ ਅੱਡਾ  
-| --- | --- |
-10. [AQA-46802H-QP-JUN12](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-QP-JUN12.PDF) | ਸਿਹਤ ਅਤੇ ਰੱਖੜੀ ਬਾਰੇ ਈਮੇਲ ਸੁਨੇਹੇ, ਟੇਕਨਾਲੋਜੀ ਬਾਰੇ ਵਿਚਾਰ, ਫੈਸ਼ਨ ਵਾਲੇ ਕੱਪੜੇ, ਬੱਚਿਆਂ ਦਾ ਮਾਪਿਆਂ ਨਾਲ ਰਿਸ਼ਤਾ, ਐਲੀਮੈਂਟਰੀ ਸਕੂਲਾਂ ਵਿਚ ਮਰਦ ਅਧਿਆਪਕਾਂ ਦੀ ਘਾਟ, ਰੁੱਖ ਲਗਾਓ ਅਤੇ ਭਵਿੱਖ ਬਚਾਓ
-| --- | --- |
-11. [AQA-46802H-QP-JUN13](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN13.PDF) | ਤੁਹਾਡੇ ਸ਼ਹਿਰ ਬਾਰੇ ਈਮੇਲ, ਐਤਵਾਰ ਨੂੰ ਫਰੀ ਸਮੇਂ ਬਾਰੇ, ਜਨਮਦਿਨ ਬਾਰੇ ਪੋਸਟ, ਖ਼ੁਸ਼ ਪਰਿਵਾਰ, ਮੇਰੇ ਮਾਤਾ ਜੀ, ਵਿਦਿਆਰਥੀਆਂ ਦੀਆਂ ਚਿੰਤਾਵਾਂ, ਪੰਜਾਬ ਦੀ ਯਾਤਰਾ, ਜੀਣ ਲਈ ਕੰਮ ਕਰੋ, ਨਾ ਕਿ ਕੰਮ ਲਈ ਜੀਓ
-| --- | --- |
-12. [AQA-46802H-QP-JUN14](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN14.PDF) | 
-| --- | --- |
-13. [AQA-46802H-QP-JUN15](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN15.PDF) |
+**Question Papers and Topics** 
+
+5. [AQA-PAN1-W-QP-JUN05](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) - ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ 
+6. [AQA-PAN1-W-QP-JUN06](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf) - ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ
+7. [AQA-PAN1-W-QP-JUN08](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF) - ਕੰਪਿਊਟਰ ਦੀ ਵਰਤੋਂ  
+8. [AQA-PANJ1-W-QP-JUN09](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF) - ਪੰਜਾਬੀ ਬੋਲੀ ਦੇ ਵਿਕਾਸ ਦਾ ਦੁਖਾਂਤ, ਰੀਸਾਇਕਲਿੰਗ
+9. [AQA-46802H-W-QP-JUN11](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF) - ਨਵੇਂ ਘਰ ਬਾਰੇ ਦੋਸਤ ਨੂੰ ਈਮੇਲ, ਸਿਹਤ, ਸਕੂਲ ਦੇ ਵਿਸ਼ਿਆਂ ਬਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਵਿਚਾਰ, ਅਖਬਾਰਾਂ ਵਿਚ ਇਸ਼ਤਿਹਾਰ, ਛੁੱਟੀਆਂ, ਯੂਥ ਕਲੱਬ, ਹੀਥਰੋ ਹਵਾਈ ਅੱਡਾ  
+10. [AQA-46802H-QP-JUN12](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-QP-JUN12.PDF) - ਸਿਹਤ ਅਤੇ ਰੱਖੜੀ ਬਾਰੇ ਈਮੇਲ ਸੁਨੇਹੇ, ਟੇਕਨਾਲੋਜੀ ਬਾਰੇ ਵਿਚਾਰ, ਫੈਸ਼ਨ ਵਾਲੇ ਕੱਪੜੇ, ਬੱਚਿਆਂ ਦਾ ਮਾਪਿਆਂ ਨਾਲ ਰਿਸ਼ਤਾ, ਐਲੀਮੈਂਟਰੀ ਸਕੂਲਾਂ ਵਿਚ ਮਰਦ ਅਧਿਆਪਕਾਂ ਦੀ ਘਾਟ, ਰੁੱਖ ਲਗਾਓ ਅਤੇ ਭਵਿੱਖ ਬਚਾਓ
+11. [AQA-46802H-QP-JUN13](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN13.PDF) - ਤੁਹਾਡੇ ਸ਼ਹਿਰ ਬਾਰੇ ਈਮੇਲ, ਐਤਵਾਰ ਨੂੰ ਫਰੀ ਸਮੇਂ ਬਾਰੇ, ਜਨਮਦਿਨ ਬਾਰੇ ਪੋਸਟ, ਖ਼ੁਸ਼ ਪਰਿਵਾਰ, ਮੇਰੇ ਮਾਤਾ ਜੀ, ਵਿਦਿਆਰਥੀਆਂ ਦੀਆਂ ਚਿੰਤਾਵਾਂ, ਪੰਜਾਬ ਦੀ ਯਾਤਰਾ, ਜੀਣ ਲਈ ਕੰਮ ਕਰੋ, ਨਾ ਕਿ ਕੰਮ ਲਈ ਜੀਓ
+12. [AQA-46802H-QP-JUN14](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN14.PDF) 
+13. [AQA-46802H-QP-JUN15](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN15.PDF) 
 
 
 Question Papers  | Text Insert
