@@ -106,6 +106,17 @@ Question Papers  | Text Insert | Audio files
 
 ----
 
+### Punjabi Newspapers
+
+[BBC News-ਪੰਜਾਬੀ](https://www.bbc.com/punjabi)
+
+[ਅਜੀਤ](https://www.ajitjalandhar.com/)
+
+[ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ](https://www.punjabitribuneonline.com/)
+
+[ਰੋਜਾਨਾ ਸਪੋਕਸਮੈਨ](https://www.rozanaspokesman.in/)
+
+
 ### Vocabulary
 
 Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
