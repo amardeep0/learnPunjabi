@@ -64,7 +64,7 @@ Question Papers  | Audio Files
 4. [AQA-86831H-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SQP.PDF) | 4. [AQA-86831H-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SSF-UNTRACKED.MP3)
 | --- | --- |
 
-**Question Papers and Topics** 
+**Question Papers** -  please read about the following topics from the question papers and practice writing in detail.
 
 5. [AQA-PAN1-W-QP-JUN05](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) - ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ 
 6. [AQA-PAN1-W-QP-JUN06](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf) - ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ
