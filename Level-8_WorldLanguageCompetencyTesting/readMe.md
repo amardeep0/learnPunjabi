@@ -64,17 +64,17 @@ Question Papers  | Audio Files
 4. [AQA-86831H-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SQP.PDF) | 4. [AQA-86831H-SSF-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-86831H-SSF-UNTRACKED.MP3)
 | --- | --- |
 
-Question Papers  |  
+Question Papers |  
 | --- | --- |
-5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf)       | ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ 
+5. [AQA-PAN1-W-QP-JUN05](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) | ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ 
 | --- | --- |
-6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf)        | ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ
+6. [AQA-PAN1-W-QP-JUN06](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf) | ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ
 | --- | --- |
-7. [AQA-PAN1-W-QP-JUN08.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF)        | ਕੰਪਿਊਟਰ ਦੀ ਵਰਤੋਂ  
+7. [AQA-PAN1-W-QP-JUN08](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF) | ਕੰਪਿਊਟਰ ਦੀ ਵਰਤੋਂ  
 | --- | --- |
-8. [AQA-PANJ1-W-QP-JUN09.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF)        | ਪੰਜਾਬੀ ਬੋਲੀ ਦੇ ਵਿਕਾਸ ਦਾ ਦੁਖਾਂਤ, ਰੀਸਾਇਕਲਿੰਗ
+8. [AQA-PANJ1-W-QP-JUN09](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF) | ਪੰਜਾਬੀ ਬੋਲੀ ਦੇ ਵਿਕਾਸ ਦਾ ਦੁਖਾਂਤ, ਰੀਸਾਇਕਲਿੰਗ
 | --- | --- |
-9. [AQA-46802H-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF)        | ਨਵੇਂ ਘਰ ਬਾਰੇ ਦੋਸਤ ਨੂੰ ਈਮੇਲ, ਸਿਹਤ, ਸਕੂਲ ਦੇ ਵਿਸ਼ਿਆਂ ਬਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਵਿਚਾਰ, ਅਖਬਾਰਾਂ ਵਿਚ ਇਸ਼ਤਿਹਾਰ, ਛੁੱਟੀਆਂ, ਯੂਥ ਕਲੱਬ, ਹੀਥਰੋ ਹਵਾਈ ਅੱਡਾ  
+9. [AQA-46802H-W-QP-JUN11](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF) | ਨਵੇਂ ਘਰ ਬਾਰੇ ਦੋਸਤ ਨੂੰ ਈਮੇਲ, ਸਿਹਤ, ਸਕੂਲ ਦੇ ਵਿਸ਼ਿਆਂ ਬਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਵਿਚਾਰ, ਅਖਬਾਰਾਂ ਵਿਚ ਇਸ਼ਤਿਹਾਰ, ਛੁੱਟੀਆਂ, ਯੂਥ ਕਲੱਬ, ਹੀਥਰੋ ਹਵਾਈ ਅੱਡਾ  
 | --- | --- |
 10. [AQA-46802H-QP-JUN12.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-QP-JUN12.PDF) | 11. [AQA-46802H-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN13.PDF)
 | --- | --- |
@@ -118,13 +118,6 @@ Question Papers  | Text Insert | Audio files
 
 Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
 
-### Listening and Speaking
-
-  - Review the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
-
-  - [eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free (sign up required for getting access to the content).  
-     Videos of this course may provide experience of Punjab culture and every day conversions.
- 
 ### Books
 
 Following is a list of some of the online books for reading comprehension. 
@@ -132,8 +125,7 @@ Following is a list of some of the online books for reading comprehension.
   1. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(First-Language)-XV.pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-7-(First-Language)-XV.pdf)
 
   2. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-7-(2nd-Lang).pdf)
-
-  3. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਅੱਠਵੀਂ ਜਮਾਤ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-8-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-8-(2nd-Lang).pdf)
+3. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਅੱਠਵੀਂ ਜਮਾਤ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-8-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-8-(2nd-Lang).pdf)
 
   4. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਅੱਠਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-8-(First-Language)](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-8(1stlang)2018-03-21.pdf)
 
@@ -153,6 +145,13 @@ Following is a list of some of the online books for reading comprehension.
    - [Learn Punjabi Grammar - Punjabi University, Patiala](http://www.learnpunjabi.org/Noun.html) 
 
    - [Overview of Punjabi Grammar](http://punjabi.aglsoft.com/punjabi/learngrammar/)
+   
+### Listening and Speaking
+
+  - Review the pronunciation of words and phrases [here](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics).
+
+  - [eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free (sign up required for getting access to the content).  
+     Videos of this course may provide experience of Punjab culture and every day conversions.
    
 
 
