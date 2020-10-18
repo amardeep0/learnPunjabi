@@ -105,10 +105,9 @@ Question Papers  | Text Insert | Audio files
 | --- | --- | --- |
 26. [AQA-76823-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SQP.PDF) | 26. [AQA-76823-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SIN.PDF) | 26. [AQA-76823-SOUND-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SOUND-UNTRACKED.MP3)
 
-------------
+
 
 ### Punjabi Newspapers
-
 [BBC News-ਪੰਜਾਬੀ](https://www.bbc.com/punjabi) | [ਅਜੀਤ](https://www.ajitjalandhar.com/) | [ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ](https://www.punjabitribuneonline.com/) | [ਰੋਜਾਨਾ ਸਪੋਕਸਮੈਨ](https://www.rozanaspokesman.in/)
 
 
