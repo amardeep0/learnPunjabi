@@ -66,15 +66,15 @@ Question Papers  | Audio Files
 
 Question Papers  |  
 | --- | --- |
-5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) | ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ 
+5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf)       | ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ 
 | --- | --- |
-6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf) | ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ
+6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf)        | ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ
 | --- | --- |
-7. [AQA-PAN1-W-QP-JUN08.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF) | ਕੰਪਿਊਟਰ ਦੀ ਵਰਤੋਂ  
+7. [AQA-PAN1-W-QP-JUN08.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF)        | ਕੰਪਿਊਟਰ ਦੀ ਵਰਤੋਂ  
 | --- | --- |
-8. [AQA-PANJ1-W-QP-JUN09.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF) | ਪੰਜਾਬੀ ਬੋਲੀ ਦੇ ਵਿਕਾਸ ਦਾ ਦੁਖਾਂਤ, ਰੀਸਾਇਕਲਿੰਗ
+8. [AQA-PANJ1-W-QP-JUN09.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF)        | ਪੰਜਾਬੀ ਬੋਲੀ ਦੇ ਵਿਕਾਸ ਦਾ ਦੁਖਾਂਤ, ਰੀਸਾਇਕਲਿੰਗ
 | --- | --- |
-9. [AQA-46802H-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF) | ਨਵੇਂ ਘਰ ਬਾਰੇ ਦੋਸਤ ਨੂੰ ਈਮੇਲ, ਸਿਹਤ, ਸਕੂਲ ਦੇ ਵਿਸ਼ਿਆਂ ਬਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਵਿਚਾਰ, ਅਖਬਾਰਾਂ ਵਿਚ ਇਸ਼ਤਿਹਾਰ, ਛੁੱਟੀਆਂ, ਯੂਥ ਕਲੱਬ, ਹੀਥਰੋ ਹਵਾਈ ਅੱਡਾ  
+9. [AQA-46802H-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF)        | ਨਵੇਂ ਘਰ ਬਾਰੇ ਦੋਸਤ ਨੂੰ ਈਮੇਲ, ਸਿਹਤ, ਸਕੂਲ ਦੇ ਵਿਸ਼ਿਆਂ ਬਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਵਿਚਾਰ, ਅਖਬਾਰਾਂ ਵਿਚ ਇਸ਼ਤਿਹਾਰ, ਛੁੱਟੀਆਂ, ਯੂਥ ਕਲੱਬ, ਹੀਥਰੋ ਹਵਾਈ ਅੱਡਾ  
 | --- | --- |
 10. [AQA-46802H-QP-JUN12.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-QP-JUN12.PDF) | 11. [AQA-46802H-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN13.PDF)
 | --- | --- |
