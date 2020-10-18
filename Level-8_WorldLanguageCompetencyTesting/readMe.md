@@ -66,15 +66,15 @@ Question Papers  | Audio Files
 
 Question Papers  |  
 | --- | --- |
-5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) - Topics (ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ) | 6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf)- Topics (ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ)
+5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) - ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ | 6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf) - ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ
 | --- | --- |
-7. [AQA-PAN1-W-QP-JUN07.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN07.pdf) | 8. [AQA-PAN1-W-QP-JUN08.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF)
+7. [AQA-PAN1-W-QP-JUN08.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF) | 
 | --- | --- |
-9. [AQA-PANJ1-W-QP-JUN09.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF) | 10. [AQA-46802H-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF)
+8. [AQA-PANJ1-W-QP-JUN09.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PANJ1-W-QP-JUN09.PDF) | 9. [AQA-46802H-W-QP-JUN11.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-W-QP-JUN11.PDF)
 | --- | --- |
-11. [AQA-46802H-QP-JUN12.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-QP-JUN12.PDF) | 12. [AQA-46802H-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN13.PDF)
+10. [AQA-46802H-QP-JUN12.PDF](https://www.theallpapers.com/papers/AQA/GCSE/Punjabi%20(4680)/AQA-46802H-QP-JUN12.PDF) | 11. [AQA-46802H-QP-JUN13.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN13.PDF)
 | --- | --- |
-13. [AQA-46802H-QP-JUN14.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN14.PDF) | 14. [AQA-46802H-QP-JUN15.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN15.PDF)
+12. [AQA-46802H-QP-JUN14.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN14.PDF) | 13. [AQA-46802H-QP-JUN15.PDF](https://pastpapers.co/aqa/GCSE/Panjabi-4680/AQA-46802H-QP-JUN15.PDF)
 
 Question Papers  | Text Insert
 | --- | --- |
@@ -104,7 +104,6 @@ Question Papers  | Text Insert | Audio files
 | --- | --- | --- |
 26. [AQA-76823-SQP.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SQP.PDF) | 26. [AQA-76823-SIN.PDF](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SIN.PDF) | 26. [AQA-76823-SOUND-UNTRACKED.MP3](https://filestore.aqa.org.uk/resources/panjabi/AQA-76823-SOUND-UNTRACKED.MP3)
 
-----
 
 ### Punjabi Newspapers
 
