@@ -66,7 +66,7 @@ Question Papers  | Audio Files
 
 Question Papers  |  
 | --- | --- |
-5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) | 6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf)
+5. [AQA-PAN1-W-QP-JUN05.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN05.pdf) - Topics (ਮਨੁੱਖਤਾ ਲਈ ਪਾਣੀ ਦੀ ਮਹੱਤਤਾ) | 6. [AQA-PAN1-W-QP-JUN06.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN06.pdf)- Topics (ਸਬਜ਼ੀਆਂ ਉਗਾਉਣਾ, ਮਿੱਤਰ/ਸਹੇਲੀ ਨੂੰ ਚਿੱਠੀ)
 | --- | --- |
 7. [AQA-PAN1-W-QP-JUN07.pdf](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN07.pdf) | 8. [AQA-PAN1-W-QP-JUN08.PDF](https://pastpapers.co/aqa/A-Level/Panjabi-2680/AQA-PAN1-W-QP-JUN08.PDF)
 | --- | --- |
@@ -108,13 +108,7 @@ Question Papers  | Text Insert | Audio files
 
 ### Punjabi Newspapers
 
-[BBC News-ਪੰਜਾਬੀ](https://www.bbc.com/punjabi)
-
-[ਅਜੀਤ](https://www.ajitjalandhar.com/)
-
-[ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ](https://www.punjabitribuneonline.com/)
-
-[ਰੋਜਾਨਾ ਸਪੋਕਸਮੈਨ](https://www.rozanaspokesman.in/)
+[BBC News-ਪੰਜਾਬੀ](https://www.bbc.com/punjabi) | [ਅਜੀਤ](https://www.ajitjalandhar.com/) | [ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ](https://www.punjabitribuneonline.com/) | [ਰੋਜਾਨਾ ਸਪੋਕਸਮੈਨ](https://www.rozanaspokesman.in/)
 
 
 ### Vocabulary
