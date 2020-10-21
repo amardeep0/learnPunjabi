@@ -19,7 +19,7 @@ Listen to the Alphabet Sounds and learn how to write them:
        
        - [Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
        
-  - **[How to write Punjabi Alphabets - Lessons from ੳ ਅ ੲ Learner](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar)**
+  - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar)** - Lessons from ੳ ਅ ੲ Learner
       
   - **[panti akhar video Lessons in English_by 88diljam channel](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam)** 
   
@@ -71,9 +71,9 @@ Following is a list of some of the online books for reading. You can choose the 
 
     - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf)
     
-    - **[Punjabi_Alphabet_ੳ-ੜ Tracing sheets From Panjabi University Patiala](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf)** 
+    - **[Punjabi_Alphabet_ੳ-ੜ Tracing sheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf)** - From Panjabi University Patiala 
     
-    - **[ੳ - ਲ਼ Tracing sheets From ੳ ਅ ੲ Learner](https://punjabilearner.com/Resources/Tracing-Sheets-%E0%A9%B3-%E0%A8%B2%E0%A8%BC.pdf)**
+    - **[ੳ - ਲ਼ Tracing sheets](https://punjabilearner.com/Resources/Tracing-Sheets-%E0%A9%B3-%E0%A8%B2%E0%A8%BC.pdf)** - From ੳ ਅ ੲ Learner
     
   - *Worksheets with 1 line (5 letters)/Page*
 
