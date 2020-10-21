@@ -12,12 +12,17 @@ Listen to the Alphabet Sounds and learn how to write them:
   - **[Learn Gurmukhi Alphabet - Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)**
   - **[Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
   
+ 
 **Video Lessons** for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
   - **[panti akhar video Lessons by SS-PSL](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
+       
        - [Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
+       
+  - **[How to write Punjabi Alphabets - Lessons from ੳ ਅ ੲ Learner](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar)**
       
-  - **[panti akhar video Lessons in English_by 88diljam channel](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam)**  
+  - **[panti akhar video Lessons in English_by 88diljam channel](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam)** 
+  
        - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
        - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
        - There are about 8 vocabulary words for each letter.
@@ -66,7 +71,9 @@ Following is a list of some of the online books for reading. You can choose the 
 
     - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf)
     
-    - [PanjabiUniversity_Punjabi_Alphabet_ੳ-ੜ](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf) 
+    - **[Punjabi_Alphabet_ੳ-ੜ Tracing sheets From Panjabi University Patiala](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf)** 
+    
+    - **[ੳ - ਲ਼ Tracing sheets From ੳ ਅ ੲ Learner](https://punjabilearner.com/Resources/Tracing-Sheets-%E0%A9%B3-%E0%A8%B2%E0%A8%BC.pdf)**
     
   - *Worksheets with 1 line (5 letters)/Page*
 
