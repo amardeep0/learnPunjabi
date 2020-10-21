@@ -13,7 +13,8 @@
 
 | PSL5A_Lesson-5 | PSL5A_Lesson-6 | PSL5A_Lesson-7 | PSL5A_Lesson-8 |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=901Fv85aRjM " target="_blank"><img src="http://img.youtube.com/vi/901Fv85aRjM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=FizejAZtVnE " target="_blank"><img src="http://img.youtube.com/vi/FizejAZtVnE/0.jpg" width="120" height="90" /></a>  |  |  |
+
 
 ------
 
