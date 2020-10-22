@@ -69,11 +69,11 @@ Following is a list of some of the online books for reading. You can choose the 
     - [sikhville_Trace-Alphabet_Page_ਪ-ਮ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/6.pdf)
     - [sikhville_Trace-Alphabet_Page_ਯ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/35-khushkhat/7.pdf)
 
-    - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf)
+    - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf) - **Pantiakhar.com**
     
-    - **[Punjabi_Alphabet_ੳ-ੜ Tracing sheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf)** - From Panjabi University Patiala 
+    - [Punjabi_Alphabet_ੳ-ੜ worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf) - **Panjabi University Patiala** 
     
-    - **[ੳ - ਲ਼ Tracing sheets](https://punjabilearner.com/Resources/Tracing-Sheets-%E0%A9%B3-%E0%A8%B2%E0%A8%BC.pdf)** - From ੳ ਅ ੲ Learner
+    - [ੳ - ਲ਼ Tracing sheets](https://punjabilearner.com/Resources/Tracing-Sheets-%E0%A9%B3-%E0%A8%B2%E0%A8%BC.pdf) - **punjabilearner.com**
     
   - *Worksheets with 1 line (5 letters)/Page*
 
