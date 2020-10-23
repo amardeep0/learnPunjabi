@@ -35,7 +35,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
   - **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics)**  
 
   - **[eLearnPunjabi Course](http://elearnpunjabi.com/default.aspx)** - Free (sign up required for getting access to the content).  
-     Videos of every day conversations from this course may provide experience of Punjab culture.
+     Videos of every day conversations from this course will help learning Colloquial Panjabi and experience of Punjab culture.
  
 
 
