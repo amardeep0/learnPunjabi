@@ -4,24 +4,38 @@
 ## Punjabi Vocabulary
  
  
- -----
+ **Basic  Punjabi Vocabulary Words Lists**  
  
+ - *Vocabulary Lists - Sikhville*
  
- **Basic Vocabulary Words for lower Levels**
- 
- - [Names of Colors](http://www.sikhville.org/pdf/Coloring/rang/Rangan-de-naam.pdf)
- - [Names of Fruits](http://www.sikhville.org/pdf/new/Name-of-Friuts.pdf)
- - [Names of Vegetables](http://www.sikhville.org/pdf/new/Name-o-Vegetables.pdf)
- - [Names of Bodyparts](http://www.sikhville.org/pdf/Name-the-following/Body-Parts2/Name-of-bodyparts.pdf)
- - [Names of Animals](http://www.sikhville.org/pdf/new/Name-of-Animals.pdf)
- - [Time vocabulary words](http://www.sikhville.org/pdf/Informational/sama-sarni/Sama-Sarni.pdf)
- - [Nature vocabulary words](http://www.sikhville.org/pdf/Informational/nature/Kudrat.pdf)
- 
- **Vocabulary Words for Higher Levels**
- 
-  -  [Punjabi Vocabulary of more than 3,000 words **with pictures** from 80 topics](http://www.learnpunjabi.org/vocabulary/vocabulary1.asp?id=23)  
-           - This is the [list (pdf)](http://pnarang.weebly.com/uploads/1/4/5/6/14563640/vocab_f.pdf) of Punjabi vocabulary words (without pictures)
+   - [Names of Colors](http://www.sikhville.org/pdf/Coloring/rang/Rangan-de-naam.pdf)
+   - [Names of Fruits](http://www.sikhville.org/pdf/new/Name-of-Friuts.pdf)
+   - [Names of Vegetables](http://www.sikhville.org/pdf/new/Name-o-Vegetables.pdf)
+   - [Names of Bodyparts](http://www.sikhville.org/pdf/Name-the-following/Body-Parts2/Name-of-bodyparts.pdf)
+   - [Names of Animals](http://www.sikhville.org/pdf/new/Name-of-Animals.pdf)
+   - [Time vocabulary words](http://www.sikhville.org/pdf/Informational/sama-sarni/Sama-Sarni.pdf)
+   - [Nature vocabulary words](http://www.sikhville.org/pdf/Informational/nature/Kudrat.pdf)
    
+ - *Vocabulary Lists - Punjabi Univ*ersity, Patiala*
+ 
+   -  [The 500 most common Punjabi words](http://www.learnpunjabi.org/statistics.html)  
+ List of Punjabi words along with audio - Punjabi University, Patiala
+ 
+   -  [Punjabi Vocabulary of more than 3,000 words **with pictures** from 80 topics](http://www.learnpunjabi.org/vocabulary/vocabulary1.asp?id=23)  
+           - This is the [list (pdf)](http://pnarang.weebly.com/uploads/1/4/5/6/14563640/vocab_f.pdf) of Punjabi vocabulary words (without pictures)
+           
+ - *Vocabulary Lists - 50languages.com*
+ 
+   - [Punjabi Vocabylary words from different topics (with audio)](https://www.50languages.com/vocab/em/pa/)  
+   These words lists have English translations along with audio. Select the category to review the Punjabi words.
+ 
+   - [Punjabi Phrases from 100 different topics (with audio)](https://www.50languages.com/phrasebook/em/pa/)  
+   Select the category to review the Punjabi Phrases.
+   
+ 
+ **Punjabi Vocabulary Words Lists for Higher Levels**
+ 
+  
   -  [Punjabi vocabulary_words list based on different topics (from_AQA_GCSE)](https://amardeep0.github.io/learnPunjabi/files/Panjabi_VocabularyList_From_AQA_GCSE.pdf)  
   Following topics are included in this list. 
  
