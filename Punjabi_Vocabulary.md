@@ -22,7 +22,7 @@
  - *Vocabulary Lists - Punjabi Univ*ersity, Patiala*
  
    -  [The 500 most common Punjabi words](http://www.learnpunjabi.org/statistics.html)  
- List of Punjabi words along with audio - Punjabi University, Patiala
+ List of Punjabi words along with audio.
  
    -  [Punjabi Vocabulary of more than 3,000 words **with pictures** from 80 topics](http://www.learnpunjabi.org/vocabulary/vocabulary1.asp?id=23)  
            - This is the [list (pdf)](http://pnarang.weebly.com/uploads/1/4/5/6/14563640/vocab_f.pdf) of Punjabi vocabulary words (without pictures)
