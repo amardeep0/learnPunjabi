@@ -8,7 +8,8 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 [Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books) - set of 8 books
 
-[Stepping Stones PSL-5A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons)
+Please check [Stepping Stones PSL-5A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons) here.
+
 
 
 ### Books
