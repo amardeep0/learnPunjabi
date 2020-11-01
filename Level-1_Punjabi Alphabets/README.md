@@ -21,9 +21,9 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
        
        - [Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
        
-  - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar)** - Lessons from ੳ ਅ ੲ Learner
+  - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar) - Lessons from ੳ ਅ ੲ Learner**
       
-  - **[panti akhar video Lessons in English_by 88diljam channel](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam)** 
+  - **[panti akhar video Lessons in English](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam) - by 88diljam channel** 
   
        - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
        - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
@@ -40,24 +40,6 @@ Review the Punjabi Alphabets by playing these games:
 
 
 ---
-
-### Books
-
-**[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
-
-Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
-
-| Books Names | Relevant Content for Level 1 |
-| --- | --- |
-| 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67, Vocabulary words, Poems, Tell story with Pictures: Pages 1-17 |
-| --- | --- |
-| 2. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Punjabi Alphabets (Sikhville) | 
-| --- | --- |
-| 3. [Punjabi Varanmala Abhiaas (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Punjabi Alphabets worksheets (Sikhville)  | 
-| --- | --- |
-| 4. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Vocabulary Book (Sikhville)  | 
-| --- | --- |
-
 
 ### Punjabi Alphabets - Worksheets for practicing writing alphabets and matching them to pictures.
 
@@ -76,8 +58,7 @@ Following is a list of some of the online books for reading. You can choose the 
     - [Punjabi_Alphabet_ੳ-ੜ worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf) - **Panjabi University Patiala** 
     
     - [ੳ - ਲ਼ Tracing sheets](https://punjabilearner.com/Resources/Tracing-Sheets-%E0%A9%B3-%E0%A8%B2%E0%A8%BC.pdf) - **punjabilearner.com**
-    
-  - *Worksheets with 1 line (5 letters)/Page*
+      - *Worksheets with 1 line (5 letters)/Page*
 
     - [sikhville_Trace-Alphabet-Line_Page_ੳ-ਹ](http://sikhville.org/pdf/Drawing-and-Tracing/Trace-alphabets/page-1/Trace-alphabets_page1.pdf)
     - [sv_Match-pictures-with-alphabets_Page_ੳ-ਹ](http://www.sikhville.org/pdf/Match-the-following/Match-pictures-with-alphabets/page1/Match-pictures-with-alphabets-page01.pdf)
@@ -103,7 +84,26 @@ Following is a list of some of the online books for reading. You can choose the 
     - [sikhville_practiceTracing-All_Lines_ੳ-ੜ](http://sikhville.org/pdf/Drawing-and-Tracing/Varanmala-Ahiyaas/Varanmala-Ahiyaas.pdf)  
     
     - [Panti-Akhar_Match-with-pictures-All_Lines_ੳ-ੜ](http://pantiakhar.com/images/worksheets/trace-n-match.pdf)
+    
+    
+### Books
 
+**[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
+
+Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
+
+| Books Names | Relevant Content for Level 1 |
+| --- | --- |
+| 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67, Vocabulary words, Poems, Tell story with Pictures: Pages 1-17 |
+| --- | --- |
+| 2. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Punjabi Alphabets (Sikhville) | 
+| --- | --- |
+| 3. [Punjabi Varanmala Abhiaas (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Punjabi Alphabets worksheets (Sikhville)  | 
+| --- | --- |
+| 4. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Vocabulary Book (Sikhville)  | 
+| --- | --- |
+
+--------
 
 ### [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)  
 Review vocabulary word lists based on your level [here](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary).
