@@ -6,6 +6,9 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ---
 
+[Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)
+
+
 ## Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 
  
