@@ -15,7 +15,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   - **[Let's Learn Punjabi - Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
   
  
-    ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
+     ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
      - **[Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
        
@@ -37,10 +37,10 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
    Review the Punjabi Alphabets by playing these games: 
    
    - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
-    - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
+   - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
   
-   ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)  
-   Click Shuffle and practice recognizing the Punjabi Alphabets.
+     ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
+      Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ---
 
