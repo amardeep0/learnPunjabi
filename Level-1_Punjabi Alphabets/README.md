@@ -6,38 +6,40 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ---
 
-**Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
+## Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 
  
   - **[Learn Gurmukhi Alphabet - Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)**  
       Click on the Letters for listening to the Punjabi Alphabet Sounds and learn how to write them.
       
-  - **[Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
+  - **[Let's Learn Punjabi - Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
   
  
-**Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):**
-  - **[Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
+    ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
+     - **[Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
        
-       - [Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
+       - [Booklets to review Panti akhar]
+       (https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
        
-  - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar) - Lessons from ੳ ਅ ੲ Learner**
+     - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar) - by ੳ ਅ ੲ Learner**
       
-  - **[panti akhar video Lessons in English](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam) - by 88diljam channel** 
+      - **[panti akhar video Lessons in English](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam) - by 88diljam channel** 
   
-       - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
-       - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
-       - There are about 8 vocabulary words for each letter.
+        - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
+        - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
+        - There are about 8 vocabulary words for each letter.
     
-Review the Punjabi Alphabets by playing these games: 
+      - **[Review panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ)** 
 
-  - **[Review panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ)**  
-  - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
-  - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
+   ### Punjabi Alphabets - Games  
+   Review the Punjabi Alphabets by playing these games: 
+   
+   - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
+   - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
   
-  - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)**  
-  Click Shuffle and practice recognizing the Punjabi Alphabets.
-
+   ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)**  
+   Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ---
 
