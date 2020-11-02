@@ -40,7 +40,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
      - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
      
   
-     ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
+    ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
      
       Click Shuffle and practice recognizing the Punjabi Alphabets.
 
