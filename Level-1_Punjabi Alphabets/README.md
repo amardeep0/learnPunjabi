@@ -15,7 +15,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   - **[Let's Learn Punjabi - Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
   
  
-     ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
+    ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
      - **[Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
        
@@ -32,7 +32,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
     
       - **[Review panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ)** 
 
-     ### Punjabi Alphabets - Games
+    ### Punjabi Alphabets - Games
    
    Review the Punjabi Alphabets by playing these games: 
    
