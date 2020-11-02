@@ -34,10 +34,11 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
     ### Punjabi Alphabets - Games
    
-     - Review the Punjabi Alphabets by playing these games: 
+      Review the Punjabi Alphabets by playing these games: 
    
      - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
      - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
+     
   
      ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
       Click Shuffle and practice recognizing the Punjabi Alphabets.
