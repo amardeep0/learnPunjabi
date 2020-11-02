@@ -32,8 +32,9 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
     
       - **[Review panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ)** 
 
-     ### Punjabi Alphabets - Games  
-     Review the Punjabi Alphabets by playing these games: 
+     ### Punjabi Alphabets - Games
+     
+     - Review the Punjabi Alphabets by playing these games: 
    
    - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
    - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
