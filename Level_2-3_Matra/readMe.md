@@ -45,13 +45,13 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 | 2. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Matra words (pun_matra)](http://www.globaldream.guru/pdf/download/pun_matra.pdf) | All Matras and Sentences |
 | --- | --- |
-| 3. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Matra Workbook (Sikhville) | 
+| 3. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=83) | Matra Workbook (Sikhville) | 
 | --- | --- |
 | 4. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Vocabulary words, Poems, Tell story with Pictures: Pages 1-17, Punjabi Alphabets: Pages 18-67,  Matra lessons: Pages 68-138 |
 | --- | --- |
-| 5. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Vocabulary Book (Sikhville) | 
+| 5. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=84) | Vocabulary Book (Sikhville) | 
 | --- | --- |
-| 6. [Punjabi Ginti Likhan Abhiaas (ਪੰਜਾਬੀ ਗਿਣਤੀ ਲਿਖਣ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) |  Counting Book (Sikhville)| --- |
+| 6. [Punjabi Ginti Likhan Abhiaas (ਪੰਜਾਬੀ ਗਿਣਤੀ ਲਿਖਣ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=82) |  Counting Book (Sikhville)| --- |
 | --- | --- |
 | 7. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists  | 
 | --- | --- |
