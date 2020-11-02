@@ -104,11 +104,11 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67, Vocabulary words, Poems, Tell story with Pictures: Pages 1-17 |
 | --- | --- |
-| 2. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Punjabi Alphabets (Sikhville) | 
+| 2. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://sikhville.org/pdf/Informational/varnmala/Varanmala.pdf) | Punjabi Alphabets (Sikhville) | 
 | --- | --- |
-| 3. [Punjabi Varanmala Abhiaas (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Punjabi Alphabets worksheets (Sikhville)  | 
+| 3. [Punjabi Varanmala Abhiaas (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=81) | Punjabi Alphabets worksheets (Sikhville)  | 
 | --- | --- |
-| 4. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/category&path=67) | Vocabulary Book (Sikhville)  | 
+| 4. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=84) | Vocabulary Book (Sikhville)  | 
 
 
 
