@@ -4,8 +4,9 @@
 
 Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/Level_1_Goals)** here.
 
+### Resources for learning Punjabi Alphabets
 
-**[Punjabi Alphabets - Resources](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#resources-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+  - **[Websites for learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Websites-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
   - **[Video Lessons for Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
   - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-alphabets---games)**
   - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#scrambled-letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
@@ -18,8 +19,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ---
 
-## Resources for learning Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
-
+### Websites for learning Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
  
   - **[Learn Gurmukhi Alphabet - Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)**  
       Click on the Letters for listening to the Punjabi Alphabet Sounds and learn how to write them.
