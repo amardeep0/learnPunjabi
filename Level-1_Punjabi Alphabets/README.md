@@ -4,20 +4,19 @@
 
 Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/Level_1_Goals)** here.
 
----
 
-**[Punjabi Alphabets - Resources](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#resources-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+**Punjabi Alphabets - Resources](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#resources-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
   - **[Video Lessons for Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
-  - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Punjabi-Alphabets-Games)**
-  - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Scrambled-Letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
-  - **[Punjabi Alphabets - Worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Punjabi-Alphabets-Worksheets-for-practicing-writing-alphabets-and-matching-them-to-pictures)**
-  - **[Books](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Books-for-learning-Punjabi-Albhabets)**
+  - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-alphabets---games)**
+  - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#scrambled-letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
+  - **[Punjabi Alphabets - Worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-alphabets---worksheets-for-practicing-writing-alphabets-and-matching-them-to-pictures)**
+  - **[Books](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#books-for-learning-punjabi-albhabets)**
   
-**[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Punjabi-Vocabulary)**  
-**[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Listening-and-Speaking)**
+**[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-vocabulary)**  
+**[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#listening-and-speaking)**
   
 
-
+---
 
 ## Resources for learning Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 
