@@ -6,10 +6,20 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ---
 
-[Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)
+**[Punjabi Alphabets - Resources](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Resources-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+  - **[Video Lessons for Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Video-Lessons-for-Punjabi-Alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+  - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Punjabi-Alphabets-Games)**
+  - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Scrambled-Letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
+  - **[Punjabi Alphabets - Worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Punjabi-Alphabets-Worksheets-for-practicing-writing-alphabets-and-matching-them-to-pictures)**
+  - **[Books](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Books-for-learning-Punjabi-Albhabets)**
+  
+**[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Punjabi-Vocabulary)**  
+**[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Listening-and-Speaking)**
+  
 
 
-## Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
+
+## Resources for learning Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)
 
  
   - **[Learn Gurmukhi Alphabet - Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)**  
@@ -17,14 +27,13 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
       
   - **[Let's Learn Punjabi - Punjabi University Research Center](http://www.learnpunjabi.org/keyboard1.html#)**
   
+  - **[Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten)** - 1st 5 lines only (ੳ - ਨ)
+  
  
     ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
      - **[Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
-       
-       - [Booklets to review Panti akhar]
-       (https://sites.google.com/khalsaschool.us/remote/kindergarten) - 1st 5 lines only (ੳ - ਨ)
-       
+            
      - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar) - by ੳ ਅ ੲ Learner**
       
       - **[panti akhar video Lessons in English](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam) - by 88diljam channel** 
@@ -94,7 +103,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
     - [Panti-Akhar_Match-with-pictures-All_Lines_ੳ-ੜ](http://pantiakhar.com/images/worksheets/trace-n-match.pdf)
     
     
-### Books
+### Books for learning Punjabi Albhabets
 
 **[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
 
