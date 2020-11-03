@@ -6,8 +6,8 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ---
 
-[Punjabi Alphabets - Resources](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Resources-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)
-  - **[Video Lessons for Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Video-Lessons-for-Punjabi-Alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+**[Punjabi Alphabets - Resources](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#resources-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+  - **[Video Lessons for Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
   - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Punjabi-Alphabets-Games)**
   - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Scrambled-Letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
   - **[Punjabi Alphabets - Worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#Punjabi-Alphabets-Worksheets-for-practicing-writing-alphabets-and-matching-them-to-pictures)**
