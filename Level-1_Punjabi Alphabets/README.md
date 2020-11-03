@@ -12,7 +12,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   - **[Punjabi Alphabets - Worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-alphabets---worksheets-for-practicing-writing-alphabets-and-matching-them-to-pictures)**
   - **[Books](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#books-for-learning-punjabi-albhabets)**
   
-**[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-vocabulary)**  
+**[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#<a href="https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary">Punjabi Vocabulary</a>)**  
 **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#listening-and-speaking)**
   
 
