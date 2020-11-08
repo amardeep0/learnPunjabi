@@ -9,7 +9,7 @@
  
    **Basic  Punjabi Vocabulary Words Lists**  
  
- - *Vocabulary Lists - Sikhville*
+ - *Punjabi voacabulary words - Sikhville*
  
    - [Names of Colors](http://www.sikhville.org/pdf/Coloring/rang/Rangan-de-naam.pdf)
    - [Names of Fruits](http://www.sikhville.org/pdf/new/Name-of-Friuts.pdf)
@@ -19,6 +19,17 @@
    - [Time vocabulary words](http://www.sikhville.org/pdf/Informational/sama-sarni/Sama-Sarni.pdf)
    - [Nature vocabulary words](http://www.sikhville.org/pdf/Informational/nature/Kudrat.pdf)
    
+ - *Learn Punjabi Vocabulary - Discoversikhism*
+ 
+   - [Common Punjabi voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
+      - Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
+
+   - [Common Punjabi voacabulary words - 2](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_grammar.html)  
+      - Word categories - Prepositions, questions, Adverbs, pronouns, Verbs)
+          
+   - [Listen and practice speaking Basic Punjabi phrases](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_phrases.html)  
+     - These Punjabi phrases can be used daily in a variety of conversations. 
+ 
  - *Vocabulary Lists - Punjabi Univ*ersity, Patiala*
  
    -  [The 500 most common Punjabi words](http://www.learnpunjabi.org/statistics.html)  
