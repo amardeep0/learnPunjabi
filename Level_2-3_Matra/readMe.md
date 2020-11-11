@@ -39,7 +39,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
 
-|Punjabi Matra Books (ਪੰਜਾਬੀ ਲਗਾਂ-ਮਾਤਰਾਂ ਸਿੱਖਣ ਲਈ ਕਿਤਾਬਾਂ)  | Relevant Content for Level 2 & 3 |
+|Punjabi Matra Books (ਪੰਜਾਬੀ ਲਗਾਂ-ਮਾਤਰਾਂ ਸਿੱਖਣ ਲਈ ਕਿਤਾਬਾਂ)  | Topics (ਵਿਸ਼ੇ) for Level 2 & 3 |
 | --- | --- |
 | 1. [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Mukta words (pun_binamatra)](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf) | Mukta Words and Sentences (ਮੁਕਤਾ ਸ਼ਬਦ ਅਤੇ ਵਾਕ) |
 | --- | --- |
