@@ -39,11 +39,11 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
 
-| Books Names | Relevant Content for Level 2 & 3 |
+|Punjabi Matra Books (ਪੰਜਾਬੀ ਲਗਾਂ-ਮਾਤਰਾਂ ਸਿੱਖਣ ਲਈ ਕਿਤਾਬਾਂ)  | Relevant Content for Level 2 & 3 |
 | --- | --- |
-| 1. [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Mukta words (pun_binamatra)](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf) | Mukta Words and Sentences |
+| 1. [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Mukta words (pun_binamatra)](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf) | Mukta Words and Sentences (ਮੁਕਤਾ ਸ਼ਬਦ ਅਤੇ ਵਾਕ) |
 | --- | --- |
-| 2. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Matra words (pun_matra)](http://www.globaldream.guru/pdf/download/pun_matra.pdf) | All Matras and Sentences |
+| 2. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Matra words (pun_matra)](http://www.globaldream.guru/pdf/download/pun_matra.pdf) | All Matras and Sentences (ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਅਤੇ ਵਾਕ) |
 | --- | --- |
 | 3. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=83) | Matra Workbook (Sikhville) | 
 | --- | --- |
