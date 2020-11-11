@@ -45,27 +45,21 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 | 2. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Matra words (pun_matra)](http://www.globaldream.guru/pdf/download/pun_matra.pdf) | All Matras and Sentences (ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਅਤੇ ਵਾਕ) |
 | --- | --- |
-| 3. [Punjabi Muharni Ate Matravan Abhiaas (ਪੰਜਾਬੀ ਮੁਹਾਰਨੀ ਅਤੇ ਮਾਤਰਾਵਾਂ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=83) | Matra Workbook (Sikhville) | 
+| 3. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Vocabulary words, Poems, Tell story with Pictures: Pages 1-17, Punjabi Alphabets: Pages 18-67,  Matra lessons: Pages 68-138 |
 | --- | --- |
-| 4. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Vocabulary words, Poems, Tell story with Pictures: Pages 1-17, Punjabi Alphabets: Pages 18-67,  Matra lessons: Pages 68-138 |
+| 4. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists  | 
 | --- | --- |
-| 5. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=84) | Vocabulary Book (Sikhville) | 
+| 5. [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html) | Punjabi Alphabets, All Matras, Vocabulary lists, Basic Sentences along with English translations | 
 | --- | --- |
-| 6. [Punjabi Ginti Likhan Abhiaas (ਪੰਜਾਬੀ ਗਿਣਤੀ ਲਿਖਣ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=82) |  Counting Book (Sikhville)| --- |
+| 6. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html) | Matra Lessons and Vocabulary Lists (with English Meanings)  | 
 | --- | --- |
-| 7. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists  | 
+| 7. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
-| 8. [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html) | Punjabi Alphabets, All Matras, Vocabulary lists, Basic Sentences along with English translations | 
+| 8. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
-| 9. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html) | Matra Lessons and Vocabulary Lists (with English Meanings)  | 
+| 9. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
 | --- | --- |
-| 10. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html) | Punjabi Alphabets, Matra Lessons with sentences | 
-| --- | --- |
-| 11. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
-| --- | --- |
-| 12. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
-| --- | --- |
-| 13. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
+| 10. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
 | --- | --- |
 
 
