@@ -4,9 +4,19 @@
 
 Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/Levels_2_and_3_Goals)** here.
 
+### Resources for learning Punjabi Matra
+
+  - **[Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-review)**
+  - **[Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
+  - **[Punjabi Matra - Video Lessons](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#punjabi-matra---video-lessons)**
+  - **[Books](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#books)**
+  - **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#punjabi-vocabulary)**
+  - **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#listening-and-speaking)**
+
+
 ----
  
-### **Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review**  
+### Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review
 Please check **[Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)** for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including Punjabi Alphabets worksheets.
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)  
@@ -16,14 +26,14 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ---
 
-### **Read and Listen to Muharni (ਮੁਹਾਰਨੀ ਪੜੋ ਅਤੇ ਸੁਣੋ)**
+### Read and Listen to Muharni (ਮੁਹਾਰਨੀ ਪੜੋ ਅਤੇ ਸੁਣੋ)
 
   - **[Muharni-1](http://www.discoversikhism.com/punjabi/muharni.html)**
   - **[Muharni-2](http://www.learnpunjabi.org/muharni-slow.html)**
   
  ---
  
-### **Punjabi Matra - Video Lessons**
+### Punjabi Matra - Video Lessons
  
  [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
  Matra Lessons are explained im Punjabi 
@@ -33,7 +43,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  
  ---
  
-### **Books**
+### Books
 
 **[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
 
