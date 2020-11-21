@@ -30,8 +30,34 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   
  
     ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
-     - **[Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons)**  
+     - [Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons) 
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
+       
+       ## ੳ - ਹ
+
+| ੳ | ਅ | ੲ | ਸ | ਹ  |
+| --- | --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=vwGhN790I58 " target="_blank"><img src="http://img.youtube.com/vi/vwGhN790I58/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=tSDhRw8cnhI " target="_blank"><img src="http://img.youtube.com/vi/tSDhRw8cnhI/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=NzUAmSoxVDg " target="_blank"><img src="http://img.youtube.com/vi/NzUAmSoxVDg/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=SgCcccN9otk " target="_blank"><img src="http://img.youtube.com/vi/SgCcccN9otk/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4nwVcY7VXfk " target="_blank"><img src="http://img.youtube.com/vi/4nwVcY7VXfk/0.jpg" width="60" height="40" /></a>  |
+
+## ਕ - ਙ
+
+| ਕ | ਖ | ਗ | ਘ | ਙ | 
+| --- | --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=784N9eV1XLk " target="_blank"><img src="http://img.youtube.com/vi/784N9eV1XLk/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ltOztcJoqVU " target="_blank"><img src="http://img.youtube.com/vi/ltOztcJoqVU/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zpLruz_onTA " target="_blank"><img src="http://img.youtube.com/vi/zpLruz_onTA/0.jpg" width="60" height="40" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=iWWyNAtN7kg " target="_blank"><img src="http://img.youtube.com/vi/iWWyNAtN7kg/0.jpg" width="60" height="40" /></a> |   |
+
+
+## ਚ - ਞ
+
+| ਚ | ਛ | ਜ | ਝ | ਞ | 
+| --- | --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=mlS4RZuqcvE " target="_blank"><img src="http://img.youtube.com/vi/mlS4RZuqcvE/0.jpg" width="60" height="40" /></a> |   |   |   |   |
+
+
+
+----------------
+
+
+-*Videos for remaining letters will be added as they become available*
             
      - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar) - by ੳ ਅ ੲ Learner**
       
