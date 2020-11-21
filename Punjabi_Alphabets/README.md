@@ -51,7 +51,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
    - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/HowToWritePentiAkhar) - by ੳ ਅ ੲ Learner**
       
-   - **[panti akhar video Lessons in English](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/VideoLessonsInEnglish_88diljam) - by 88diljam channel** 
+   - **[panti akhar video Lessons in English](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/penti_Akhar_Videos_In_English) - by 88diljam channel** 
   
         - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
         - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
