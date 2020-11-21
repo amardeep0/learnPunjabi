@@ -1,20 +1,20 @@
-| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
+| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
  
 ## Level 1 
 
-Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/Level_1_Goals)** here.
+Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/Level_1_Goals)** here.
 
 ### Resources for learning Punjabi Alphabets
 
-  - **[Websites for learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#websites-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
-  - **[Video Lessons for Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
-  - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-alphabets---games)**
-  - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#scrambled-letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
-  - **[Punjabi Alphabets - Worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-alphabets---worksheets-for-practicing-writing-alphabets-and-matching-them-to-pictures)**
-  - **[Books](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#books-for-learning-punjabi-albhabets)**
+  - **[Websites for learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#websites-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+  - **[Video Lessons for Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+  - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-alphabets---games)**
+  - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#scrambled-letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
+  - **[Punjabi Alphabets - Worksheets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-alphabets---worksheets-for-practicing-writing-alphabets-and-matching-them-to-pictures)**
+  - **[Books](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#books-for-learning-punjabi-albhabets)**
   
-**[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#punjabi-vocabulary)**  
-**[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets#listening-and-speaking)**
+**[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-vocabulary)**  
+**[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#listening-and-speaking)**
   
 
 ---
@@ -30,7 +30,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   
  
     ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
-     - [Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/panti-akhar-videoLessons) 
+     - [Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/panti-akhar-videoLessons) 
        - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
        
 | ੳ | ਅ | ੲ | ਸ | ਹ  |
@@ -49,9 +49,9 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 
 
-   - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar) - by ੳ ਅ ੲ Learner**
+   - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/HowToWritePentiAkhar) - by ੳ ਅ ੲ Learner**
       
-   - **[panti akhar video Lessons in English](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/VideoLessonsInEnglish_88diljam) - by 88diljam channel** 
+   - **[panti akhar video Lessons in English](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/VideoLessonsInEnglish_88diljam) - by 88diljam channel** 
   
         - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
         - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
@@ -88,7 +88,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
     - [pantiAkhar_practiceTracing_ੳ-ੜ](http://pantiakhar.com/images/worksheets/tracing.pdf) - **Pantiakhar.com**
     
-    - [Punjabi_Alphabet_ੳ-ੜ worksheets](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/worksheets/punjabi-alphabet.pdf) - **Panjabi University Patiala** 
+    - [Punjabi_Alphabet_ੳ-ੜ worksheets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/worksheets/punjabi-alphabet.pdf) - **Panjabi University Patiala** 
     
     - [ੳ - ਲ਼ Tracing sheets](https://punjabilearner.com/Resources/Tracing-Sheets-%E0%A9%B3-%E0%A8%B2%E0%A8%BC.pdf) - **punjabilearner.com**
       - *Worksheets with 1 line (5 letters)/Page*
