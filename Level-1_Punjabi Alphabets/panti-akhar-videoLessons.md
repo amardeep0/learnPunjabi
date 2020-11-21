@@ -18,7 +18,16 @@
 
 | ਕ | ਖ | ਗ | ਘ | ਙ | 
 | --- | --- | --- | --- | --- |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=784N9eV1XLk " target="_blank"><img src="http://img.youtube.com/vi/784N9eV1XLk/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ltOztcJoqVU " target="_blank"><img src="http://img.youtube.com/vi/ltOztcJoqVU/0.jpg" width="90" height="60" /></a> |  |  |   |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=784N9eV1XLk " target="_blank"><img src="http://img.youtube.com/vi/784N9eV1XLk/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ltOztcJoqVU " target="_blank"><img src="http://img.youtube.com/vi/ltOztcJoqVU/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zpLruz_onTA " target="_blank"><img src="http://img.youtube.com/vi/zpLruz_onTA/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=iWWyNAtN7kg " target="_blank"><img src="http://img.youtube.com/vi/iWWyNAtN7kg/0.jpg" width="90" height="60" /></a> |   |
+
+
+## ਚ - ਞ
+
+| ਚ | ਛ | ਜ | ਝ | ਞ | 
+| --- | --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=mlS4RZuqcvE " target="_blank"><img src="http://img.youtube.com/vi/mlS4RZuqcvE/0.jpg" width="90" height="60" /></a> |   |   |   |   |
+
+
 
 ----------------
 
