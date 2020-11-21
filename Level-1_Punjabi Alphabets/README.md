@@ -47,7 +47,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 - *Videos for remaining letters will be added as they become available*
 
----------
+
 
    - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/HowToWritePentiAkhar) - by ੳ ਅ ੲ Learner**
       
@@ -69,7 +69,8 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   
    ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
      
-    Click Shuffle and practice recognizing the Punjabi Alphabets.
+   Click Shuffle and practice recognizing the Punjabi Alphabets.
+   
 
 ---
 
