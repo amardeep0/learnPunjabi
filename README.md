@@ -30,7 +30,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
 
 - [Learning Gurmukhi by Basics of Sikhi](https://www.youtube.com/playlist?list=PL5UNLfJ1TsJm0OHEOslS3NOqGduHwggGg)
 
-- [eLearnPunjabi](http://elearnpunjabi.com/) - Free (sign up required for getting access to the content). An Online Platform to learn Punjabi Language.  
+- [eLearnPunjabi](http://elearnpunjabi.com/)  Free - An Online Platform to learn Punjabi Language (sign up required for getting access to the content).   
 Videos of every day conversations from this course will help learning Colloquial Panjabi and experience of Punjab culture.
 
 
