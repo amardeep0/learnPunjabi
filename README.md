@@ -1,7 +1,10 @@
 **[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Level 1](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)** | **[Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/)** | **[Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/)** | **[Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/)** | **[Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/)** | **[Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)**
  
 
-[List of online resources to learn Punjabi Language]()
+[List of online resources to learn Punjabi Language](https://amardeep0.github.io/learnPunjabi/#list-of-online-resources-to-learn-punjabi-language)
+[Resources-Based on the Goals of different levels.](#resources---based-on-the-goals-of-different-levels)
+[Resources- for all Levels](#resources---all-levels)
+
 
 There are a large number of free online resources (Books, Websites and YouTube videos) for learning **[Punjabi](https://www.omniglot.com/writing/punjabi.htm)**. This is a guide for some of the Punjabi language online resources to help anyone to learn Punjabi. 
 
@@ -28,6 +31,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
 
 --------------
 
+
 ### Resources - *Based on the Goals of different levels.*
 
 Following resources are organized based on the learning objectives for different levels. Please check goals and related Punjabi learning resources on individual level pages.
@@ -49,7 +53,7 @@ Following resources are organized based on the learning objectives for different
 
 ### Resources - *all Levels*
 
-  - **Punjabi Dictionaries**  
+  - *Punjabi Dictionaries*  
     
     [ShabadKosh English-Punjabi Dictionary](https://www.shabdkosh.com/dictionary/english-punjabi/)
     [Online Punjabi-English Dictionary](http://dic.learnpunjabi.org/default.aspx)  
