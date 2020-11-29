@@ -20,7 +20,6 @@ There are a large number of free online resources (Books, Websites and YouTube v
 
 - [Punjabi Class](https://www.youtube.com/playlist?list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp) - Collection of approx. 200 videos of Punjabi alphabets, Matra, Punjabi Voacbulary words, Punjabi grammar, Poems, Stories and Application writings.
 
-- [Punjab School Education Board](http://www.pseb.ac.in/)
 
 - [Punjabi Gurmukhi And Grammar - Catrack Kids](https://www.youtube.com/playlist?list=PL4G8rJ0IwSQ7_Jzg9JOp6zg8fuhZic5YY)
 
@@ -29,6 +28,8 @@ There are a large number of free online resources (Books, Websites and YouTube v
 - [ੳ ਅ ੲ Learner](https://punjabilearner.com/)
 
 - [Learning Gurmukhi by Basics of Sikhi](https://www.youtube.com/playlist?list=PL5UNLfJ1TsJm0OHEOslS3NOqGduHwggGg)
+
+- [Punjab School Education Board](http://www.pseb.ac.in/)
 
 - [eLearnPunjabi](http://elearnpunjabi.com/)  Free - An Online Platform to learn Punjabi Language (sign up required for getting access to the content).   
 Videos of every day conversations from this course will help learning Colloquial Panjabi and experience of Punjab culture.
