@@ -1,6 +1,6 @@
 | [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
  
-## Level 1 
+## Level 1 (ਪੈਂਤੀ ਅੱਖਰ)
 
 Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/Level_1_Goals)** here.
 
@@ -30,9 +30,9 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   - **[Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten)** - 1st 5 lines only (ੳ - ਨ)
   
  
-### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) based on [PSL 1A (Penty Akhri Mastery book)](http://www.tejpublishing.com/books/book_view/52#buy_book)
-   - [Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos) are taught in traditional sequence (ੳ - ੜ).
-    
+### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos)  
+
+These lessons are taught in traditional sequence (ੳ - ੜ) based on [Stepping Stones PSL 1A (Penty Akhri Mastery book)(http://www.tejpublishing.com/books/book_view/52#buy_book)
     
 | ੳ | ਅ | ੲ | ਸ | ਹ  |
 | --- | --- | --- | --- | --- |
