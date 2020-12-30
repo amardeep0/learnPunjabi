@@ -30,7 +30,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   
  
 ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) based on [PSL 1A (Penty Akhri Mastery book)](http://www.tejpublishing.com/books/book_view/52#buy_book)
-     - [Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos) are taught in traditional sequence (ੳ - ੜ).
+   - [Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos) are taught in traditional sequence (ੳ - ੜ).
     
     
 | ੳ | ਅ | ੲ | ਸ | ਹ  |
@@ -51,9 +51,9 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
       
 ### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) in English](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/penti_Akhar_Videos_In_English)-by 88diljam channel
   
-        - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
-        - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
-        - There are about 8 vocabulary words for each letter.
+   - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
+   - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
+   - There are about 8 vocabulary words for each letter.
     
 - **[How to write Punjabi Alphabets and Punjabi Numbers](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/HowToWritePentiAkhar) - by ੳ ਅ ੲ Learner**
 - **[Review panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ)** 
