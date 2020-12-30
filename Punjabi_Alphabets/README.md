@@ -119,7 +119,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 **[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
 
-Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
+Following is a list of some of the free online books for learning Punjabi Albhabets. You can choose the books based on relevant content and your preference. 
 
 | Books Names | Relevant Content for Level 1 |
 | --- | --- |
