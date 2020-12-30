@@ -29,10 +29,10 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   - **[Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten)** - 1st 5 lines only (ੳ - ਨ)
   
  
-    ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ):
-     - [Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos) 
-       - Panti Akhar are taught in traditional sequence (ੳ - ੜ).
-       
+    ### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) based on [PSL 1A (Penty Akhri Mastery book)](http://www.tejpublishing.com/books/book_view/52#buy_book)
+     - [Lessons Based on the Stepping Stones PSL - Penty Akhri Mastery book](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos) are taught in traditional sequence (ੳ - ੜ).
+    
+    
 | ੳ | ਅ | ੲ | ਸ | ਹ  |
 | --- | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=vwGhN790I58 " target="_blank"><img src="http://img.youtube.com/vi/vwGhN790I58/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=tSDhRw8cnhI " target="_blank"><img src="http://img.youtube.com/vi/tSDhRw8cnhI/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=NzUAmSoxVDg " target="_blank"><img src="http://img.youtube.com/vi/NzUAmSoxVDg/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=SgCcccN9otk " target="_blank"><img src="http://img.youtube.com/vi/SgCcccN9otk/0.jpg" width="60" height="40" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4nwVcY7VXfk " target="_blank"><img src="http://img.youtube.com/vi/4nwVcY7VXfk/0.jpg" width="60" height="40" /></a>  |
