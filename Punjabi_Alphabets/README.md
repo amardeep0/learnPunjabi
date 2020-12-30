@@ -30,7 +30,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
   - **[Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten)** - 1st 5 lines only (ੳ - ਨ)
   
  
-### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos) based on [PSL 1A (Penty Akhri Mastery book](http://www.tejpublishing.com/books/book_view/52#buy_book)  
+### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos) based on [PSL 1A (Penty Akhri Mastery book)](http://www.tejpublishing.com/books/book_view/52#buy_book)  
   
 | ੳ | ਅ | ੲ | ਸ | ਹ  |
 | --- | --- | --- | --- | --- |
