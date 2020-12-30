@@ -32,7 +32,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
  
 ### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos)  
 
-These lessons are taught in traditional sequence (ੳ - ੜ) based on [Stepping Stones PSL 1A (Penty Akhri Mastery book)(http://www.tejpublishing.com/books/book_view/52#buy_book)
+These lessons are taught in traditional sequence (ੳ - ੜ) based on [Stepping Stones PSL 1A (Penty Akhri Mastery book](http://www.tejpublishing.com/books/book_view/52#buy_book)
     
 | ੳ | ਅ | ੲ | ਸ | ਹ  |
 | --- | --- | --- | --- | --- |
