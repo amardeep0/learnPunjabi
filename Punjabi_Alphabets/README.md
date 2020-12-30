@@ -7,7 +7,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 ### Resources for learning Punjabi Alphabets
 
   - **[Websites for learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#websites-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
-  - **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) based on PSL 1A (Penty Akhri Mastery book)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-based-on-psl-1a-penty-akhri-mastery-book)**
+  - **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-based-on-psl-1a-penty-akhri-mastery-book)** - Punjabi alphabets are taught in traditional sequence based on PSL 1A (Penty Akhri Mastery book)
   - **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)-by 88diljam channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-by-88diljam-channel)** - Punjabi alphabets are not taught in traditional sequence.
   - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-alphabets---games)**
   - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#scrambled-letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
