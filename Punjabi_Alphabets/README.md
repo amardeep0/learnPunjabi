@@ -48,7 +48,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 - *Videos for remaining letters will be added as they become available*
 
       
-### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/penti_Akhar_Videos_In_English)-by 88diljam channel
+### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/penti_Akhar_Videos)-by 88diljam channel
   
    - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
    - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
