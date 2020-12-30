@@ -43,7 +43,11 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 | ਚ | ਛ | ਜ | ਝ | ਞ | 
 | --- | --- | --- | --- | --- |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=mlS4RZuqcvE " target="_blank"><img src="http://img.youtube.com/vi/mlS4RZuqcvE/0.jpg" width="60" height="40" /></a> |   |   |   |   |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=mlS4RZuqcvE " target="_blank"><img src="http://img.youtube.com/vi/mlS4RZuqcvE/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=B4FZsADN24U " target="_blank"><img src="http://img.youtube.com/vi/B4FZsADN24U/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=y3PxIVwwQ88 " target="_blank"><img src="http://img.youtube.com/vi/y3PxIVwwQ88/0.jpg" width="90" height="60" /></a>  |   |   |
+
+| ਟ | ਠ | ਡ | ਢ | ਣ | 
+| --- | --- | --- | --- | --- |
+|  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=6l_yr-86OmI " target="_blank"><img src="http://img.youtube.com/vi/6l_yr-86OmI/0.jpg" width="90" height="60" /></a>  |   |   |   |
 
 - *Videos for remaining letters will be added as they become available*
 
