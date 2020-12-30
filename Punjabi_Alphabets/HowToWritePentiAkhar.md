@@ -1,5 +1,5 @@
 
-**[<--Level 1](https://amardeep0.github.io/learnPunjabi/Level-1_Punjabi%20Alphabets/)**
+**[<--Level 1](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)**
 
 
 **Video Lessons: How to write Penti Akhar and Numbers**
