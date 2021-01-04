@@ -1,6 +1,6 @@
 | [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
 
-## Level 2 & 3 
+## Level 2 & 3 [Punjabi Matra (ਪੰਜਾਬੀ ਮਾਤਰਾ)]
 
 Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/Levels_2_and_3_Goals)** here.
 
@@ -43,7 +43,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  
  ---
  
-### Books
+### Books for learning Punjabi Matra
 
 **[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
 
