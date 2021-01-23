@@ -54,6 +54,10 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
    - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
    - There are about 8 vocabulary words for each letter.
     
+| **Watch movie *35 AKHAR* to learn the Punjabi Alphabets.** | 
+| --- | 
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=pA4S4ZYieGM " target="_blank"><img src="http://img.youtube.com/vi/pA4S4ZYieGM/0.jpg" width="90" height="60" /></a> | 
+
 ### [Review all the letters of panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ) 
 
 ### Punjabi Alphabets - Games
