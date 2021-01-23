@@ -51,10 +51,6 @@ Following is a list of some of the online books for reading. You can choose the 
 
 |Punjabi Matra Books (ਪੰਜਾਬੀ ਮਾਤਰਾਂ ਸਿੱਖਣ ਲਈ ਕਿਤਾਬਾਂ)  | Books Topics (ਕਿਤਾਬਾਂ ਦੇ ਵਿਸ਼ੇ) |
 | --- | --- |
-| 1. [ਗੁਰਮੁਖੀ ਅੱਖਰ ਗਿਆਨ (ਬਿਨਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Mukta words (pun_binamatra)](http://www.globaldream.guru/pdf/download/pun_binamatra.pdf) | Mukta Words and Sentences (ਮੁਕਤਾ ਸ਼ਬਦ ਅਤੇ ਵਾਕ) |
-| --- | --- |
-| 2. [ਗੁਰਮੁਖੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ - Matra words (pun_matra)](http://www.globaldream.guru/pdf/download/pun_matra.pdf) | All Matras and Sentences (ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਅਤੇ ਵਾਕ) |
-| --- | --- |
 | 3. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Punjabi Vocabulary (Names of Colors, fruits, seasons, birds and animals) Poems, Tell story with Pictures, Punjabi Alphabets, Punjabi Matra lessons. ਪੰਜਾਬੀ ਸ਼ਬਦਾਵਲੀ (ਰੰਗਾਂ, ਫਲਾਂ, ਰੁੱਤਾਂ, ਪੰਛੀਆਂ ਅਤੇ ਜਾਨਵਰਾਂ ਦੇ ਨਾਮ) ਬਾਲ ਗੀਤ, ਤਸਵੀਰਾਂ ਨਾਲ ਕਹਾਣੀ ਸੁਣਾਓ, ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ |
 | --- | --- |
 | 4. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists. ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ | 
