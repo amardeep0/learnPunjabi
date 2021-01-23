@@ -6,11 +6,12 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ---
  
-### Punjabi Matra (ਮਾਤਰਾ) Review 
+### Punjabi Matra (ਮਾਤਰਾ) Review  
 
-- Please check **[Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)** to review more Punjabi Matras (ਮਾਤਰਾ) resources.
+   - Please check **[Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)** to review more Punjabi Matras (ਮਾਤਰਾ) resources.
 
-- [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
+   - [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
+
 ### Punjabi Reading
 
 Listen or Read to Punjabi stories at [**SikhVille**](http://sikhville.org/index.php?option=com_content&view=article&id=168&Itemid=285) page.
