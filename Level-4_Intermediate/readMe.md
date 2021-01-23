@@ -8,15 +8,16 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
  
 ### **Punjabi Matra (ਮਾਤਰਾ) Review** 
 
-- [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
-
 - Please check **[Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/)** to review more Punjabi Matras (ਮਾਤਰਾ) resources.
 
+- [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
+### **Punjabi Reading** 
 
-### **Books**
+Listen or Read to Punjabi stories at [SikhVille](http://sikhville.org/index.php?option=com_content&view=article&id=168&Itemid=285) page.
+
+### **Books for Punjabi Reading and Comprehension**
 
 **[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
-
 
 Following is a list of some of the online books for reading comprehension.  
 
