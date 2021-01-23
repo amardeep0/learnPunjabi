@@ -13,9 +13,9 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 - [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
 ### **Punjabi Reading** 
 
-Listen or Read to Punjabi stories at [SikhVille](http://sikhville.org/index.php?option=com_content&view=article&id=168&Itemid=285) page.
+Listen or Read to Punjabi stories at [**SikhVille**](http://sikhville.org/index.php?option=com_content&view=article&id=168&Itemid=285) page.
 
-### **Books for Punjabi Reading and Comprehension**
+### **Books for Punjabi Reading**
 
 **[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
 
