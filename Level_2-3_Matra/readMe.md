@@ -51,21 +51,21 @@ Following is a list of some of the online books for reading. You can choose the 
 
 |Punjabi Matra Books (ਪੰਜਾਬੀ ਮਾਤਰਾਂ ਸਿੱਖਣ ਲਈ ਕਿਤਾਬਾਂ)  | Books Topics (ਕਿਤਾਬਾਂ ਦੇ ਵਿਸ਼ੇ) |
 | --- | --- |
-| 3. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Punjabi Vocabulary (Names of Colors, fruits, seasons, birds and animals) Poems, Tell story with Pictures, Punjabi Alphabets, Punjabi Matra lessons. ਪੰਜਾਬੀ ਸ਼ਬਦਾਵਲੀ (ਰੰਗਾਂ, ਫਲਾਂ, ਰੁੱਤਾਂ, ਪੰਛੀਆਂ ਅਤੇ ਜਾਨਵਰਾਂ ਦੇ ਨਾਮ) ਬਾਲ ਗੀਤ, ਤਸਵੀਰਾਂ ਨਾਲ ਕਹਾਣੀ ਸੁਣਾਓ, ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ |
+| 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Punjabi Vocabulary (Names of Colors, fruits, seasons, birds and animals) Poems, Tell story with Pictures, Punjabi Alphabets, Punjabi Matra lessons. ਪੰਜਾਬੀ ਸ਼ਬਦਾਵਲੀ (ਰੰਗਾਂ, ਫਲਾਂ, ਰੁੱਤਾਂ, ਪੰਛੀਆਂ ਅਤੇ ਜਾਨਵਰਾਂ ਦੇ ਨਾਮ) ਬਾਲ ਗੀਤ, ਤਸਵੀਰਾਂ ਨਾਲ ਕਹਾਣੀ ਸੁਣਾਓ, ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ |
 | --- | --- |
-| 4. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists. ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ | 
+| 2. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists. ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ | 
 | --- | --- |
-| 5. [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html) | Punjabi Alphabets, All Matras, Vocabulary lists, Basic Sentences along with English translations ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ, ਪੰਜਾਬੀ ਸ਼ਬਦਾਂ ਦੀ ਸੂਚੀ ਅਤੇ ਵਾਕ (ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦਾਂ ਨਾਲ) | 
+| 3. [Gurmukhi Gian Come To Learn Punjabi(ਗੁਰਮੁਖੀ ਗਿਆਨ - ਆੳ ਪੰਜਾਬੀ ਸਿੱਖੀਏ)](http://www.discoversikhism.com/sikh_library/learn/gurmukhi_gian_come_to_learn_punjabi.html) | Punjabi Alphabets, All Matras, Vocabulary lists, Basic Sentences along with English translations ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ, ਪੰਜਾਬੀ ਸ਼ਬਦਾਂ ਦੀ ਸੂਚੀ ਅਤੇ ਵਾਕ (ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦਾਂ ਨਾਲ) | 
 | --- | --- |
-| 6. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html) | Matra Lessons and Vocabulary Lists (with English Meanings)  | 
+| 4. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html) | Matra Lessons and Vocabulary Lists (with English Meanings)  | 
 | --- | --- |
 | 7. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
-| 8. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
+| 5. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
-| 9. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
+| 6. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
 | --- | --- |
-| 10. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
+| 7. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
 | --- | --- |
 
 
