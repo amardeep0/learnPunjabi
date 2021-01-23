@@ -59,13 +59,13 @@ Following is a list of some of the online books for reading. You can choose the 
 | --- | --- |
 | 4. [Punjabi Primer](http://www.discoversikhism.com/sikh_library/learn/panjabi_primer.html) | Matra Lessons and Vocabulary Lists (with English Meanings)  | 
 | --- | --- |
-| 7. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html) | Punjabi Alphabets, Matra Lessons with sentences | 
+| 5. [Amardeep Punjabi Paath Maala 0 (ਅਮਰਦੀਪ ਪੰਜਾਬੀ ਪਾਠ ਮਾਲਾ - 0](http://www.discoversikhism.com/sikh_library/learn/amardeep_punjabi_paath_maala_0.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
-| 5. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
+| 6. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
-| 6. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
+| 7. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
 | --- | --- |
-| 7. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
+| 8. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
 | --- | --- |
 
 
