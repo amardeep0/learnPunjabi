@@ -14,7 +14,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ### Punjabi Reading
 
-Listen or Read to Punjabi stories at [**SikhVille**](http://sikhville.org/index.php?option=com_content&view=article&id=168&Itemid=285) page.
+Listen and Read to Punjabi stories at [**SikhVille**](http://sikhville.org/index.php?option=com_content&view=article&id=168&Itemid=285) page.
 
 #### Books for Punjabi Reading
 
