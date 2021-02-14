@@ -11,12 +11,12 @@ The World Language Credit Program is a way to earn high school credit for any bi
 Details for getting the **[Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)** are here.  
 To learn more, please check the **[eligibility & preparing for the test](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)** and contact your school counselor to take the test. 
 
-These are some of the **example writing questions** from **[ALTA](https://resources.finalsite.net/images/v1538422927/highlineschoolsorg/rp78tmjy1tldrstzoyxp/WritingtestsEducation.pdf)** and  **[LinguaFolio](http://depts.washington.edu/llc/LFO_Tasks_Writing_Intermediate.pdf)** for any world language assessment.
-https://resources.finalsite.net/images/v1538422927/highlineschoolsorg/rp78tmjy1tldrstzoyxp/WritingtestsEducation.pdf
-**[ALTA](https://www.altalang.com/language-testing/writing-practice-test-english/)** provides two types of Punjabi language proficiency tests:
+These are some of the **example writing questions** from **[ALTA](https://www.altalang.com/language-testing/writing-practice-test-english/)** and  **[LinguaFolio](http://depts.washington.edu/llc/LFO_Tasks_Writing_Intermediate.pdf)** for any world language assessment.
+
+**[ALTA](https://resources.finalsite.net/images/v1538422927/highlineschoolsorg/rp78tmjy1tldrstzoyxp/WritingtestsEducation.pdf)** provides two types of Punjabi language proficiency tests:
   - *[Listening & Speaking Test](https://resources.finalsite.net/images/v1538422880/highlineschoolsorg/fjl2fvhuna3bdhxipbi5/ListeningandSpeakingtestsEducation.pdf)* - to assess a student’s Oral Proficiency.  
     - The test is conducted over the phone between an evaluator and student, where the evaluator will ask a variety of open-ended questions to prompt the student to use the language in a variety of ways. This test lasts approximately 15 – 25 minutes. 
-  - *[Writing Test](https://resources.finalsite.net/images/v1538422927/highlineschoolsorg/rp78tmjy1tldrstzoyxp/WritingtestsEducation.pdf)* - to assess a student’s ability to write in a given language.  
+  - *[Writing Test](https://www.altalang.com/language-testing/writing-practice-test-english/)* - to assess a student’s ability to write in a given language.  
     - This is a paper test. Students must answer five questions (about 100 words per answer), and the test will take up to one hour to complete. 
 
 ### Punjabi Newspapers
