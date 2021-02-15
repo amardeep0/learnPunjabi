@@ -9,7 +9,9 @@
 **Get Competency Credits for Punjabi (World Language)**  
 The World Language Credit Program is a way to earn high school credit for any bilingual student by demonstrating language proficiency. Students who demonstrate proficiency on nationally recognized proficiency assessments may be able to receive competency credits on their transcript.  
 Details for getting the **[Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)** are here.  
-To learn more, please check the **[eligibility & preparing for the test](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)** and contact your school counselor to take the test. 
+To learn more, please check the **[eligibility](https://www.k12.wa.us/student-success/resources-subject-area/world-languages/competency-credits-students)** and contact your school counselor to take the test. 
+
+### How to prepare for the test
 
 These are some of the **example writing questions** from **[ALTA](https://www.altalang.com/language-testing/writing-practice-test-english/)** and  **[LinguaFolio](http://depts.washington.edu/llc/LFO_Tasks_Writing_Intermediate.pdf)** for any world language assessment.
 
@@ -19,14 +21,13 @@ These are some of the **example writing questions** from **[ALTA](https://www.al
   - *[Writing Test](https://www.altalang.com/language-testing/writing-practice-test-english/)* - to assess a student’s ability to write in a given language.  
     - This is a paper test. Students must answer five questions (about 100 words per answer), and the test will take up to one hour to complete. 
 
-### Punjabi Newspapers
-
-[BBC News-ਪੰਜਾਬੀ](https://www.bbc.com/punjabi) | [ਅਜੀਤ](https://www.ajitjalandhar.com/) | [ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ](https://www.punjabitribuneonline.com/) | [ਰੋਜਾਨਾ ਸਪੋਕਸਮੈਨ](https://www.rozanaspokesman.in/)
-
-
 ### Vocabulary
 
 Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) here.
+
+### Punjabi Newspapers
+
+[BBC News-ਪੰਜਾਬੀ](https://www.bbc.com/punjabi) | [ਅਜੀਤ](https://www.ajitjalandhar.com/) | [ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ](https://www.punjabitribuneonline.com/) | [ਰੋਜਾਨਾ ਸਪੋਕਸਮੈਨ](https://www.rozanaspokesman.in/)
 
 ### Books
 
