@@ -63,7 +63,6 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 | ਸ਼  ਖ਼  ਗ਼  ਜ਼  ਫ਼ | 
 | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=fnDlnS5PZ-k " target="_blank"><img src="http://img.youtube.com/vi/fnDlnS5PZ-k/0.jpg" width="90" height="60" /></a> | 
-----------------
 
 
 ### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/penti_Akhar_Videos)-by 88diljam channel
