@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mlS4RZuqcvE " target="_blank"><img src="http://img.youtube.com/vi/mlS4RZuqcvE/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=B4FZsADN24U " target="_blank"><img src="http://img.youtube.com/vi/B4FZsADN24U/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=y3PxIVwwQ88 " target="_blank"><img src="http://img.youtube.com/vi/y3PxIVwwQ88/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=AZqhRF4EZxc " target="_blank"><img src="http://img.youtube.com/vi/AZqhRF4EZxc/0.jpg" width="90" height="60" /></a>  |   |
 
-## ਚ - ਞ
+## ਟ - ਣ
 
 | ਟ | ਠ | ਡ | ਢ & ਣ |  | 
 | --- | --- | --- | --- | --- |
@@ -34,6 +34,35 @@
 
 ----------------
 
+## ਤ - ਨ
 
--*Videos for remaining letters will be added as they become available*
+| ਤ | ਥ | ਦ | ਧ | ਨ | 
+| --- | --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=ORftlVOIuoY " target="_blank"><img src="http://img.youtube.com/vi/ORftlVOIuoY/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=xxs0sJC4GDs " target="_blank"><img src="http://img.youtube.com/vi/xxs0sJC4GDs/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Tk7MQ6W3gio " target="_blank"><img src="http://img.youtube.com/vi/Tk7MQ6W3gio/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=QI5cS917Ekw " target="_blank"><img src="http://img.youtube.com/vi/QI5cS917Ekw/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=jOJ5STUKLJk " target="_blank"><img src="http://img.youtube.com/vi/jOJ5STUKLJk/0.jpg" width="90" height="60" /></a>  |
+
+----------------
+
+## ਪ - ਮ
+
+| ਪ | ਫ | ਬ | ਭ | ਮ | 
+| --- | --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=t2o2SmxSge0 " target="_blank"><img src="http://img.youtube.com/vi/t2o2SmxSge0/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0sZHxnKmKBg " target="_blank"><img src="http://img.youtube.com/vi/0sZHxnKmKBg/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Aj77n2gIeEE " target="_blank"><img src="http://img.youtube.com/vi/Aj77n2gIeEE/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ai-G99o9vjY " target="_blank"><img src="http://img.youtube.com/vi/ai-G99o9vjY/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_ifNQumXP6A " target="_blank"><img src="http://img.youtube.com/vi/_ifNQumXP6A/0.jpg" width="90" height="60" /></a>  |
+
+----------------
+
+## ਯ - ੜ
+
+| ਯ | ਰ | ਲ | ਵ | ੜ | 
+| --- | --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=SbkxPJxiGx8 " target="_blank"><img src="http://img.youtube.com/vi/SbkxPJxiGx8/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=QM1naD9IBRI " target="_blank"><img src="http://img.youtube.com/vi/QM1naD9IBRI/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=QdMX4UkZFgQ " target="_blank"><img src="http://img.youtube.com/vi/QdMX4UkZFgQ/0.jpg" width="90" height="60" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zYxmeFQ4OLQ " target="_blank"><img src="http://img.youtube.com/vi/zYxmeFQ4OLQ/0.jpg" width="90" height="60" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zcKjZr0cwEc " target="_blank"><img src="http://img.youtube.com/vi/zcKjZr0cwEc/0.jpg" width="90" height="60" /></a>  |
+
+----------------
+
+## ਸ਼ - ਫ਼
+
+| ਸ਼  ਖ਼  ਗ਼  ਜ਼  ਫ਼ | 
+| --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=fnDlnS5PZ-k " target="_blank"><img src="http://img.youtube.com/vi/fnDlnS5PZ-k/0.jpg" width="90" height="60" /></a> | 
+----------------
+
 
