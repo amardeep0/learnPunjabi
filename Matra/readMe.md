@@ -1,8 +1,8 @@
-| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
+**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | 
 
-## Level 2 & 3 [Punjabi Matra (ਪੰਜਾਬੀ ਮਾਤਰਾ)]
+## [Punjabi Matra (ਪੰਜਾਬੀ ਮਾਤਰਾ)]
 
-Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/Levels_2_and_3_Goals)** here.
+Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Matra-Goals)** here.
 
 ### Resources for learning Punjabi Matra
 
