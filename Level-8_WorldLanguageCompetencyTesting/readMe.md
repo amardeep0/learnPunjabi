@@ -1,6 +1,5 @@
-| [Home](https://amardeep0.github.io/learnPunjabi/) | [Level 1](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/) | [Level 2 & 3](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/) | [Level 4](https://amardeep0.github.io/learnPunjabi/Level-4_Intermediate/) | [Level 5](https://amardeep0.github.io/learnPunjabi/Level-5_intermediate/) | [Level 6](https://amardeep0.github.io/learnPunjabi/Level-6_Advanced/) | [Level 7](https://amardeep0.github.io/learnPunjabi/Level-7_Advanced/) | [Level 8](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/)
+**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Intermediate Reading & Writing](https://amardeep0.github.io/learnPunjabi/Intermediate/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** |
 
-## Level 8 
 
 **World Language Proficiency Assessment** - [Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)
 
