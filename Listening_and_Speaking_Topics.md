@@ -1,5 +1,5 @@
 
-[**<-- Home**](https://amardeep0.github.io/learnPunjabi/)
+**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | 
 
 Following links have Punjabi vocabulary words, phrases and conversations with audio. 
 
