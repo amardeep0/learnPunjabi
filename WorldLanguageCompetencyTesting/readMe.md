@@ -1,4 +1,4 @@
-**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Intermediate Reading & Writing](https://amardeep0.github.io/learnPunjabi/Intermediate/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** |
+**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading & Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** |
 
 
 **World Language Proficiency Assessment** - [Competency Credits for Punjabi](https://amardeep0.github.io/learnPunjabi/Level-8_WorldLanguageCompetencyTesting/Level_8_Goals)
