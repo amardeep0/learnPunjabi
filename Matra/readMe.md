@@ -1,6 +1,6 @@
 **[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | 
 
-## [Punjabi Matra (ਪੰਜਾਬੀ ਮਾਤਰਾ)]
+## Punjabi Matra (ਪੰਜਾਬੀ ਮਾਤਰਾ)
 
 Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Matra-Goals)** here.
 
