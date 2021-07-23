@@ -1,5 +1,5 @@
-**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Intermediate Reading & Writing](https://amardeep0.github.io/learnPunjabi/Intermediate/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** |
- 
+**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Intermediate Reading & Writing](https://amardeep0.github.io/learnPunjabi/Intermediate/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | 
+
 
 - **[List of online resources to learn Punjabi Language](https://amardeep0.github.io/learnPunjabi/#list-of-online-resources-to-learn-punjabi-language)**  
 - **[Resources-Based on the Goals of different levels.](#resources---based-on-the-goals-of-different-levels)**  
