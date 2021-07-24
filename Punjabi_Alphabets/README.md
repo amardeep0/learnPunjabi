@@ -8,7 +8,7 @@
    
   2.  **Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
       -  **[Remote Learning channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-based-on-psl-1a-penty-akhri-mastery-book)** - Punjabi alphabets are **taught in traditional sequence** based on PSL 1A (Penty Akhri Mastery book)
-      -  **[88diljam channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-by-88diljam-channel)** - Punjabi alphabets are **not taught in traditional sequence**.
+      -  **[88diljam channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-by-88diljam-channel)** - Punjabi alphabets are **taught in increasing difficulty of letter sounds**.
       
   3.  **[Worksheets for practicing writing alphabets and matching them to pictures](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#worksheets-for-practicing-writing-punjabi-alphabets-and-matching-them-to-pictures)**
   
@@ -35,7 +35,7 @@
   - **[Booklets to review Panti akhar](https://sites.google.com/khalsaschool.us/remote/kindergarten)** - 1st 5 lines only (ੳ - ਨ)
   
  
-### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/stepping_stones_PSL_penti-akhar-videos) based on [PSL 1A (Penty Akhri Mastery book)](http://www.tejpublishing.com/books/book_view/52#buy_book)  
+### Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) based on [PSL 1A (Penty Akhri Mastery book)](http://www.tejpublishing.com/books/book_view/52#buy_book)  
   
 | ੳ | ਅ | ੲ | ਸ | ਹ  |
 | --- | --- | --- | --- | --- |
@@ -69,7 +69,6 @@
 | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=fnDlnS5PZ-k " target="_blank"><img src="http://img.youtube.com/vi/fnDlnS5PZ-k/0.jpg" width="90" height="60" /></a> | 
 
------
 
 
 ### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/penti_Akhar_Videos)-by 88diljam channel
@@ -157,11 +156,8 @@ There are about 8 vocabulary words introduced for each letter. These lessons are
 | --- | --- | --- | --- |
 
 
------
-
-| **Watch movie *35 AKHAR* to learn the Punjabi Alphabets.** | 
-| --- | 
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=pA4S4ZYieGM " target="_blank"><img src="http://img.youtube.com/vi/pA4S4ZYieGM/0.jpg" width="90" height="60" /></a> | 
+### Watch movie *35 AKHAR* to learn the Punjabi Alphabets.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pA4S4ZYieGM " target="_blank"><img src="http://img.youtube.com/vi/pA4S4ZYieGM/0.jpg" width="90" height="60" /></a> 
 
 ### [Review all the letters of panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ) 
 
@@ -226,8 +222,6 @@ Following is a list of some of the free online books for learning Punjabi Albhab
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67, Vocabulary words, Poems, Tell story with Pictures: Pages 1-17 |
 | 2. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://sikhville.org/pdf/Informational/varnmala/Varanmala.pdf) | Punjabi Alphabets (Sikhville) | 
 
-
--------
 
 ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
      
