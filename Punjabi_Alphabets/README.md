@@ -1,21 +1,21 @@
 **[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | 
  
-## Punjabi Alphabets (Penti Akhar - ਪੈਂਤੀ ਅੱਖਰ)
 
-Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/Level_1_Goals)** here.
 
-### Resources for learning Punjabi Alphabets
+### Resources for learning Punjabi Alphabets (Penti Akhar - ਪੈਂਤੀ ਅੱਖਰ)
 
-  - **[Websites for learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#websites-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
-  - **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)- by Remote Learning channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-based-on-psl-1a-penty-akhri-mastery-book)** - Punjabi alphabets are **taught in traditional sequence** based on PSL 1A (Penty Akhri Mastery book)
-  - **[Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)-by 88diljam channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-by-88diljam-channel)** - Punjabi alphabets are **not taught in traditional sequence**.
-  - **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-alphabets---games)**
-  - **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#scrambled-letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
-  - **[Punjabi Alphabets - Worksheets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-alphabets---worksheets-for-practicing-writing-alphabets-and-matching-them-to-pictures)**
-  - **[Books for Learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#books-for-learning-punjabi-albhabets)**
-  
-**[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-vocabulary)**  
-**[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#listening-and-speaking)**
+  1.  **[Websites for learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#websites-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+   
+  2.  **Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
+      -  **[Remote Learning channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-based-on-psl-1a-penty-akhri-mastery-book)** - Punjabi alphabets are **taught in traditional sequence** based on PSL 1A (Penty Akhri Mastery book)
+      -  **[88diljam channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-by-88diljam-channel)** - Punjabi alphabets are **not taught in traditional sequence**.
+      
+  3.  **[Worksheets for practicing writing alphabets and matching them to pictures](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#Worksheets for practicing writing Punjabi alphabets and matching them to pictures)**
+  4.  **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-alphabets---games)**
+  5.  **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#scrambled-letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
+  6.  **[Books for Learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#books-for-learning-punjabi-albhabets)**
+  7.  **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-vocabulary)**
+  8.  **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#listening-and-speaking)**
   
 
 ---
@@ -91,7 +91,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ---
 
-### Punjabi Alphabets - Worksheets for practicing writing alphabets and matching them to pictures.
+### Worksheets for practicing writing Punjabi alphabets and matching them to pictures
 
  - *Worksheets with 1 letter/Page*
 
