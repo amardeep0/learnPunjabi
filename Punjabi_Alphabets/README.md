@@ -1,20 +1,25 @@
 **[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | 
  
+## Punjabi Alphabets (Penti Akhar - ਪੈਂਤੀ ਅੱਖਰ)
 
+### Following are some of the resources for learning Punjabi Alphabets.
 
-### Resources for learning Punjabi Alphabets (Penti Akhar - ਪੈਂਤੀ ਅੱਖਰ)
-
-  **1.  [Websites for learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#websites-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
+  1.  **[Websites for learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#websites-for-learning-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ)**
    
   2.  **Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)**
       -  **[Remote Learning channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-based-on-psl-1a-penty-akhri-mastery-book)** - Punjabi alphabets are **taught in traditional sequence** based on PSL 1A (Penty Akhri Mastery book)
       -  **[88diljam channel](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#video-lessons-for-punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-by-88diljam-channel)** - Punjabi alphabets are **not taught in traditional sequence**.
       
   3.  **[Worksheets for practicing writing alphabets and matching them to pictures](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#worksheets-for-practicing-writing-punjabi-alphabets-and-matching-them-to-pictures)**
-  4.  **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-alphabets---games)**
+  
+  4.  **[Books for Learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#books-for-learning-punjabi-albhabets)**
+
   5.  **[Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#scrambled-letters-ਭੁਲਾਂਵੇ-ਅੱਖਰ)**
-  6.  **[Books for Learning Punjabi Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#books-for-learning-punjabi-albhabets)**
+
+  6.  **[Punjabi Alphabets - Games](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-alphabets---games)**
+  
   7.  **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#punjabi-vocabulary)**
+  
   8.  **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets#listening-and-speaking)**
   
 
@@ -64,32 +69,103 @@
 | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=fnDlnS5PZ-k " target="_blank"><img src="http://img.youtube.com/vi/fnDlnS5PZ-k/0.jpg" width="90" height="60" /></a> | 
 
+-----
+
 
 ### [Video Lessons for Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/penti_Akhar_Videos)-by 88diljam channel
   
-   - These Lessons (2-5 min) are in English and organised into 3 basic videos (Listen, Write and Speak) for each letter. 
-   - Video lessons are not taught in traditional ਪੈਂਤੀ ਅੱਖਰ sequence, but are in increasing difficulty of letter sounds (start with ਹ, ਰ, ਗ and ends with ਢ, ਙ, ਞ). 
-   - There are about 8 vocabulary words for each letter.
-    
+
+Punjabi Albhabet videos (2-5 min) are organised into 3 categories for each letter:  
+A - Listen words  
+B - How to Write a letter  
+C - Speak words.  
+There are about 8 vocabulary words introduced for each letter. These lessons are taught in increasing difficulty of letter sounds, instead of traditional way (ੳ, ਅ --> ੜ):  
+(ਹ, ਰ, ਗ, ਮ, ਸ, ਕ, ਨ, ਟ, ਪ, ਫ, ਬ, ਤ, ਡ, ਲ, ਚ, ਜ, ਯ, ਠ, ਵ, ਥ, ਦ, ੳ, ਅ, ੲ, ਘ, ਭ, ੜ, ਝ, ਣ, ਛ, ਖ, ਧ, ਢ, ਙ, ਞ).
+
+
+| Alphabet Names | Listen Words (Video-A) | Write Alphabet (Video-B) | Speak Words (Video-C) |
+| --- | --- | --- | --- |
+| **1. Haahaa (ਹ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=DihgCBZ60RA " target="_blank"><img src="http://img.youtube.com/vi/DihgCBZ60RA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=uMgLC3ed98E " target="_blank"><img src="http://img.youtube.com/vi/uMgLC3ed98E/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mUzQ_GLBr6U " target="_blank"><img src="http://img.youtube.com/vi/mUzQ_GLBr6U/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **2. Raaraa (ਰ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=eunSo2RpXeY " target="_blank"><img src="http://img.youtube.com/vi/eunSo2RpXeY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=izaYejD4puA " target="_blank"><img src="http://img.youtube.com/vi/izaYejD4puA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=lsaGzpRNod8 " target="_blank"><img src="http://img.youtube.com/vi/lsaGzpRNod8/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- | 
+| **3. Gaggaa (ਗ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=6tnO4tKbNF0 " target="_blank"><img src="http://img.youtube.com/vi/6tnO4tKbNF0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=j7tgQEFF-D0 " target="_blank"><img src="http://img.youtube.com/vi/j7tgQEFF-D0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qqvYaKOwWqQ " target="_blank"><img src="http://img.youtube.com/vi/qqvYaKOwWqQ/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **4. Mammaa (ਮ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=rj9Rm7_7d-E " target="_blank"><img src="http://img.youtube.com/vi/rj9Rm7_7d-E/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=MZlyuKmfMLY " target="_blank"><img src="http://img.youtube.com/vi/MZlyuKmfMLY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=cCxY8PdMk0Q " target="_blank"><img src="http://img.youtube.com/vi/cCxY8PdMk0Q/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **5. Sassaa (ਸ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=BqTC-4Yhv74 " target="_blank"><img src="http://img.youtube.com/vi/BqTC-4Yhv74/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=g5nUjrqRJ_g " target="_blank"><img src="http://img.youtube.com/vi/g5nUjrqRJ_g/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=UEbGWXztxRE " target="_blank"><img src="http://img.youtube.com/vi/UEbGWXztxRE/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **6. Kakkaa (ਕ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WUV9ZFl3caM " target="_blank"><img src="http://img.youtube.com/vi/WUV9ZFl3caM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=e14M4IgMGYU " target="_blank"><img src="http://img.youtube.com/vi/e14M4IgMGYU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=OG2xXtpbThU " target="_blank"><img src="http://img.youtube.com/vi/OG2xXtpbThU/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **7. Nannaa (ਨ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=2ZK7jK-oet8 " target="_blank"><img src="http://img.youtube.com/vi/2ZK7jK-oet8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=TQrIT57feqQ " target="_blank"><img src="http://img.youtube.com/vi/TQrIT57feqQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=fr1zOyKU_9I " target="_blank"><img src="http://img.youtube.com/vi/fr1zOyKU_9I/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **8. Tainkaa (ਟ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Zo-guIUHCAs " target="_blank"><img src="http://img.youtube.com/vi/Zo-guIUHCAs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=1kQCouZeA3o " target="_blank"><img src="http://img.youtube.com/vi/1kQCouZeA3o/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Kx2iHAIjfX8 " target="_blank"><img src="http://img.youtube.com/vi/Kx2iHAIjfX8/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **9. Pappaa (ਪ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=rkI4OL-o-t4 " target="_blank"><img src="http://img.youtube.com/vi/rkI4OL-o-t4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=lxUuI-ZFSkY " target="_blank"><img src="http://img.youtube.com/vi/lxUuI-ZFSkY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=VmmkzMJj-jY " target="_blank"><img src="http://img.youtube.com/vi/VmmkzMJj-jY/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **10. Phaphaa (ਫ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=S5JHojg4I9o " target="_blank"><img src="http://img.youtube.com/vi/S5JHojg4I9o/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I0eHlaUZhTE " target="_blank"><img src="http://img.youtube.com/vi/I0eHlaUZhTE/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_MmxRGgyXeM " target="_blank"><img src="http://img.youtube.com/vi/_MmxRGgyXeM/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **11. Babbaa (ਬ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=lDqHybZ-Nxg " target="_blank"><img src="http://img.youtube.com/vi/lDqHybZ-Nxg/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4PVdfY9ha98 " target="_blank"><img src="http://img.youtube.com/vi/4PVdfY9ha98/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=etCSGv9aVR0 " target="_blank"><img src="http://img.youtube.com/vi/etCSGv9aVR0/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **12. Thethaa (ਤ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=v_5snIG74Sc " target="_blank"><img src="http://img.youtube.com/vi/v_5snIG74Sc/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=S134tn1RDfs " target="_blank"><img src="http://img.youtube.com/vi/S134tn1RDfs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=rIoIWEko2Qg " target="_blank"><img src="http://img.youtube.com/vi/rIoIWEko2Qg/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **13. Daddaa (ਡ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ans2-aF_caE " target="_blank"><img src="http://img.youtube.com/vi/ans2-aF_caE/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ONOz2swG2KM " target="_blank"><img src="http://img.youtube.com/vi/ONOz2swG2KM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=DOIT1DpQsFw " target="_blank"><img src="http://img.youtube.com/vi/DOIT1DpQsFw/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **14. Lallaa (ਲ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=V9gV-gIi_Qw " target="_blank"><img src="http://img.youtube.com/vi/V9gV-gIi_Qw/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZrqNmm9i6wI " target="_blank"><img src="http://img.youtube.com/vi/ZrqNmm9i6wI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WKzv4qdnw3c " target="_blank"><img src="http://img.youtube.com/vi/WKzv4qdnw3c/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **15. Chachchaa (ਚ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=P83ZU1Jwxsg " target="_blank"><img src="http://img.youtube.com/vi/P83ZU1Jwxsg/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mPNnMEHymSk " target="_blank"><img src="http://img.youtube.com/vi/mPNnMEHymSk/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=xACbQL7lEjw " target="_blank"><img src="http://img.youtube.com/vi/xACbQL7lEjw/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **16. Jajjaa (ਜ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=sM-rM0vzJTA " target="_blank"><img src="http://img.youtube.com/vi/sM-rM0vzJTA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=wn2aivSepdU " target="_blank"><img src="http://img.youtube.com/vi/wn2aivSepdU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=makTkIBJTh8 " target="_blank"><img src="http://img.youtube.com/vi/makTkIBJTh8/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **17. Yayyaa (ਯ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=j1J8RSYhgFs " target="_blank"><img src="http://img.youtube.com/vi/j1J8RSYhgFs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WCfzmoyi8ng " target="_blank"><img src="http://img.youtube.com/vi/WCfzmoyi8ng/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=PXpHU4uacw0 " target="_blank"><img src="http://img.youtube.com/vi/PXpHU4uacw0/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **18. Thaththaa (ਠ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=D2ayE7aw4NY " target="_blank"><img src="http://img.youtube.com/vi/D2ayE7aw4NY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qhLBV-mhRVI " target="_blank"><img src="http://img.youtube.com/vi/qhLBV-mhRVI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=wMGWB_7O7Yk " target="_blank"><img src="http://img.youtube.com/vi/wMGWB_7O7Yk/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **19. Vavvaa (ਵ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ny0xk54s7Js " target="_blank"><img src="http://img.youtube.com/vi/ny0xk54s7Js/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=bwO43PID7JQ " target="_blank"><img src="http://img.youtube.com/vi/bwO43PID7JQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=8yyjeuNrkRQ " target="_blank"><img src="http://img.youtube.com/vi/8yyjeuNrkRQ/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **20. Thuth-thaa (ਥ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=-wzG7jXija8 " target="_blank"><img src="http://img.youtube.com/vi/-wzG7jXija8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=9NmZtxGyMj8 " target="_blank"><img src="http://img.youtube.com/vi/9NmZtxGyMj8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Nu4Rd9_g-VI " target="_blank"><img src="http://img.youtube.com/vi/Nu4Rd9_g-VI/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **21. Dthud-dthaa (ਦ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=8nr7WvcG1cc " target="_blank"><img src="http://img.youtube.com/vi/8nr7WvcG1cc/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mhPVFtTc5FI " target="_blank"><img src="http://img.youtube.com/vi/mhPVFtTc5FI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=p7Ro8V6NWL0 " target="_blank"><img src="http://img.youtube.com/vi/p7Ro8V6NWL0/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **22. Oorhaa (ੳ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=rgCi7BcuF1s " target="_blank"><img src="http://img.youtube.com/vi/rgCi7BcuF1s/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=jHSD5rF7SU8 " target="_blank"><img src="http://img.youtube.com/vi/jHSD5rF7SU8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=UZZ5c22vQtQ " target="_blank"><img src="http://img.youtube.com/vi/UZZ5c22vQtQ/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **23. Airhaa (ਅ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4lwxAXNz94k " target="_blank"><img src="http://img.youtube.com/vi/4lwxAXNz94k/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=3l9RclsrJP0 " target="_blank"><img src="http://img.youtube.com/vi/3l9RclsrJP0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=hSHO7iELdGM " target="_blank"><img src="http://img.youtube.com/vi/hSHO7iELdGM/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **24. Eerhee (ੲ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=7rwcWQr2crI " target="_blank"><img src="http://img.youtube.com/vi/7rwcWQr2crI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=S1lhXpdt7hI " target="_blank"><img src="http://img.youtube.com/vi/S1lhXpdt7hI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=1ToxhLHJdsA " target="_blank"><img src="http://img.youtube.com/vi/1ToxhLHJdsA/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **25. Ghaghaa (ਘ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Pk6Z1s3Oe_8 " target="_blank"><img src="http://img.youtube.com/vi/Pk6Z1s3Oe_8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=FgneoL3I9hc " target="_blank"><img src="http://img.youtube.com/vi/FgneoL3I9hc/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=FojX1wu8J7g " target="_blank"><img src="http://img.youtube.com/vi/FojX1wu8J7g/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **26. Phabbaa (ਭ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=FRKuXzzh_k " target="_blank"><img src="http://img.youtube.com/vi/FRKuXzzh_k/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=fflazqf44VA " target="_blank"><img src="http://img.youtube.com/vi/fflazqf44VA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=x3gPfpRD9zU " target="_blank"><img src="http://img.youtube.com/vi/x3gPfpRD9zU/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **27. Rdarda (ੜ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=c6R0hFZWjgk " target="_blank"><img src="http://img.youtube.com/vi/c6R0hFZWjgk/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Oa1o9HJwas4 " target="_blank"><img src="http://img.youtube.com/vi/Oa1o9HJwas4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=7OerTcpEx5o " target="_blank"><img src="http://img.youtube.com/vi/7OerTcpEx5o/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **28. Chjaj-jaa (ਝ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=OYCkD6252sE " target="_blank"><img src="http://img.youtube.com/vi/OYCkD6252sE/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=EtWZo_m8YGw " target="_blank"><img src="http://img.youtube.com/vi/EtWZo_m8YGw/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=a22a8GkEsLM " target="_blank"><img src="http://img.youtube.com/vi/a22a8GkEsLM/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **29. aNaana (ਣ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=1eXpbbkxCqs " target="_blank"><img src="http://img.youtube.com/vi/1eXpbbkxCqs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=w4CDHWv78to " target="_blank"><img src="http://img.youtube.com/vi/w4CDHWv78to/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=OVdkfJ9irPY " target="_blank"><img src="http://img.youtube.com/vi/OVdkfJ9irPY/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **30. Chhachhaa (ਛ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=s6KBtOosj2w " target="_blank"><img src="http://img.youtube.com/vi/s6KBtOosj2w/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=d2gdrasDC3k " target="_blank"><img src="http://img.youtube.com/vi/d2gdrasDC3k/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_GuWsjm2v8o " target="_blank"><img src="http://img.youtube.com/vi/_GuWsjm2v8o/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **31. Khakhaa (ਖ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=lMWeAJ-SkLk " target="_blank"><img src="http://img.youtube.com/vi/lMWeAJ-SkLk/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=QB1Qqv5o " target="_blank"><img src="http://img.youtube.com/vi/QB1Qqv5o/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=nBChOYSemPE " target="_blank"><img src="http://img.youtube.com/vi/nBChOYSemPE/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **32. Thuddha (ਧ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=89CnUjHLl2g " target="_blank"><img src="http://img.youtube.com/vi/89CnUjHLl2g/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=-GJQ7cR3mbo " target="_blank"><img src="http://img.youtube.com/vi/-GJQ7cR3mbo/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=LlI_x38MwxQ " target="_blank"><img src="http://img.youtube.com/vi/LlI_x38MwxQ/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **33. Tuddaa (ਢ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=B3wmJ0Qb8lk " target="_blank"><img src="http://img.youtube.com/vi/B3wmJ0Qb8lk/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I06ni859K84 " target="_blank"><img src="http://img.youtube.com/vi/I06ni859K84/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Xebzen28HrA " target="_blank"><img src="http://img.youtube.com/vi/Xebzen28HrA/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **34. Ngan-Ngaa (ਙ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zdChLmN8orM " target="_blank"><img src="http://img.youtube.com/vi/zdChLmN8orM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=CE0R4wJ8ayA " target="_blank"><img src="http://img.youtube.com/vi/CE0R4wJ8ayA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qQQ7jHADRiE " target="_blank"><img src="http://img.youtube.com/vi/qQQ7jHADRiE/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+| **35. Njan-Njaa (ਞ)** | <a href="http://www.youtube.com/watch?feature=player_embedded&v=7op86hnjzBo " target="_blank"><img src="http://img.youtube.com/vi/7op86hnjzBo/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=cJixzq64HfY " target="_blank"><img src="http://img.youtube.com/vi/cJixzq64HfY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=nl7PufHcez4 " target="_blank"><img src="http://img.youtube.com/vi/nl7PufHcez4/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+
+
+-----
+
 | **Watch movie *35 AKHAR* to learn the Punjabi Alphabets.** | 
 | --- | 
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=pA4S4ZYieGM " target="_blank"><img src="http://img.youtube.com/vi/pA4S4ZYieGM/0.jpg" width="90" height="60" /></a> | 
 
 ### [Review all the letters of panti akhar - 2 min video](https://youtu.be/1G6Pozog9LQ) 
 
-### Punjabi Alphabets - Games
-   
-   Review the Punjabi Alphabets by playing these games: 
-   
-   - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
-   - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
-     
-### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
-     
-   Click Shuffle and practice recognizing the Punjabi Alphabets.
-   
-
----
+-------
 
 ### Worksheets for practicing writing Punjabi alphabets and matching them to pictures
 
@@ -135,28 +211,42 @@
     
     - [Panti-Akhar_Match-with-pictures-All_Lines_ੳ-ੜ](http://pantiakhar.com/images/worksheets/trace-n-match.pdf)
     
-    
+-------
+
 ### Books for learning Punjabi Albhabets
 
-**[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
+**[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** 
 
-Following is a list of some of the free online books for learning Punjabi Albhabets. You can choose the books based on relevant content and your preference. 
+**[Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books)** 
 
-| Books Names | Relevant Content for Level 1 |
+Following is a list of some of the free online books for learning Punjabi Albhabets. 
+
+| Books Names | Relevant Content |
 | --- | --- |
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67, Vocabulary words, Poems, Tell story with Pictures: Pages 1-17 |
-| --- | --- |
 | 2. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://sikhville.org/pdf/Informational/varnmala/Varanmala.pdf) | Punjabi Alphabets (Sikhville) | 
-| --- | --- |
-| 3. [Punjabi Varanmala Abhiaas (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=81) | Punjabi Alphabets worksheets (Sikhville)  | 
-| --- | --- |
-| 4. [Mera Shabad Bhandar Ate Abhiaas (ਮੇਰਾ ਸ਼ਬਦ ਭੰਡਾਰ ਅਤੇ ਅਭਿਆਸ)](http://shop.sikhville.org/index.php?route=product/product&path=67&product_id=84) | Vocabulary Book (Sikhville)  | 
 
 
+-------
+
+### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
+     
+   Click Shuffle and practice recognizing the Punjabi Alphabets.
+   
+--------
+
+### Punjabi Alphabets - Games
+   
+   Review the Punjabi Alphabets by playing these games: 
+   
+   - **[35 Takhti](http://www.sikhville.org/index.php?option=com_content&view=article&id=46&Itemid=306)**  
+   - **[Akhar Pachano](http://www.sikhville.org/index.php?option=com_content&view=article&id=116&Itemid=306)**
+     
+
+---
 
 ### [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)  
 Review vocabulary word lists based on your level [here](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary).
-
 
 ### Listening and Speaking
 
@@ -165,6 +255,8 @@ Review vocabulary word lists based on your level [here](https://amardeep0.github
   - [Listen and practice speaking common voacabulary words - 1](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_vocabulary.html)  
       - Word categories - Numbers, Days of the week, Fruits and Vegetables, Colors, Food, Weather, Family, House, Animals, Clothes, Travel, School, Body parts
 
+  -  [Listen and practice speaking voacabulary words - 2](http://sikhville.org/index.php?option=com_content&view=article&id=202&Itemid=285)  
+      - Lessons - Fruits and Vegetables, Tools, The Zoo, Shabdawali 
 
 
 
