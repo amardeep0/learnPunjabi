@@ -6,7 +6,7 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 
 ### Resources for learning Punjabi Matra
 
-  - **[Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-review)**
+  - **[Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-review)**
   - **[Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
   - **[Punjabi Matra - Video Lessons](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#punjabi-matra---video-lessons)**
   - **[Books](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#books)**
