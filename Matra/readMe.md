@@ -7,11 +7,11 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 ### Resources for learning Punjabi Matra
 
   - **[Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-review)**
-  - **[Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
-  - **[Punjabi Matra - Video Lessons](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#punjabi-matra---video-lessons)**
-  - **[Books](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#books)**
-  - **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#punjabi-vocabulary)**
-  - **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/#listening-and-speaking)**
+  - **[Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
+  - **[Punjabi Matra - Video Lessons](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons)**
+  - **[Books](https://amardeep0.github.io/learnPunjabi/Matra/#books)**
+  - **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-vocabulary)**
+  - **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Matra/#listening-and-speaking)**
 
 
 ----
