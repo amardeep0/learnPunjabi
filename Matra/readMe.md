@@ -12,7 +12,7 @@
   
   **3. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-punjabi)**
   
-  **4. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons)**
+  **4. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-english)**
   
   **5. [Books for learning Punjabi Matra](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
   
@@ -88,15 +88,15 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=wM4k50hUHiA " target="_blank"><img src="http://img.youtube.com/vi/wM4k50hUHiA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ICQYHoiPibM " target="_blank"><img src="http://img.youtube.com/vi/ICQYHoiPibM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zmJT9Q0KjrU " target="_blank"><img src="http://img.youtube.com/vi/zmJT9Q0KjrU/0.jpg" width="120" height="90" /></a> | 
 | --- | --- | --- | 
 
- 
+----
+
 ### Punjabi Matra - Video Lessons in English
- 
+  
  *Video Lessons for Matra (ਮਾਤਰਾ) - By 88diljam channel*
  
  Matra Lessons (2-5 min) are taught in **English**. 
  
- ----
-
+ 
 #### Kanna Matra (ਕੰਨਾ ਮਾਤਰਾ)
 
 | --- | --- | --- | --- |
