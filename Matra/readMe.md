@@ -6,12 +6,13 @@
 
 ### Resources for learning Punjabi Matra
 
-  - **[Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-review)**
-  - **[Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
-  - **[Punjabi Matra - Video Lessons](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons)**
-  - **[Books for learning Punjabi Matra](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
-  - **[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-vocabulary)**
-  - **[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Matra/#listening-and-speaking)**
+  **1. [Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-alphabets-ਪੈਂਤੀ-ਅੱਖਰ-review)**
+  **2. [Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
+  **3. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons)**
+  **4. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons)**
+  **5. [Books for learning Punjabi Matra](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
+  **6. [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-vocabulary)**
+  **7. [Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Matra/#listening-and-speaking)**
 
 
 ----
@@ -31,28 +32,28 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
   
  ----
  
-### Punjabi Matra - Video Lessons
+### Punjabi Matra - Video Lessons in Punjabi
  
  **Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)** 
  Matra Lessons are explained in **Punjabi** 
  
  
-### Muharni Lessons
+#### Muharni Lessons
 
 
-| Muharni Line-1 ੳ-ਹ | Muharni Line-2 ਕ-ਙ | Muharni Line-3 ਚ-ਞ | Muharni Line-4 ਟ-ਣ |
+| Muharni Line-1 (ੳ-ਹ) | Muharni Line-2 (ਕ-ਙ) | Muharni Line-3 (ਚ-ਞ) | Muharni Line-4 (ਟ-ਣ) |
 | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=mGow12J5SVM " target="_blank"><img src="http://img.youtube.com/vi/mGow12J5SVM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4CglLjEIaq8 " target="_blank"><img src="http://img.youtube.com/vi/4CglLjEIaq8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6lfVY33_U4 " target="_blank"><img src="http://img.youtube.com/vi/o6lfVY33_U4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=EHuwummorc8 " target="_blank"><img src="http://img.youtube.com/vi/EHuwummorc8/0.jpg" width="120" height="90" /></a> | 
 
 
 | --- | --- | --- | --- |
-| Muharni Line-5 ਤ-ਨ | Muharni Line-6 ਪ-ਮ | Muharni Line-7 ਯ-ੜ |  |
+| Muharni Line-5 (ਤ-ਨ) | Muharni Line-6 (ਪ-ਮ) | Muharni Line-7 (ਯ-ੜ) |  |
 | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_N8rKr2DqA " target="_blank"><img src="http://img.youtube.com/vi/Y_N8rKr2DqA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qUMB-Z27rxY " target="_blank"><img src="http://img.youtube.com/vi/qUMB-Z27rxY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_0GXVGoED54 " target="_blank"><img src="http://img.youtube.com/vi/_0GXVGoED54/0.jpg" width="120" height="90" /></a> | | 
 | --- | --- | --- | --- |
 
   
-### **Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)**
+#### **Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)**
 
 
 | ਮੁਕਤਾ ਸ਼ਬਦ-1 | ਮੁਕਤਾ ਸ਼ਬਦ-2 | ਮੁਕਤਾ ਸ਼ਬਦ-3 |
@@ -62,7 +63,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 
 
-### **Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
+#### **Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
 
 
 | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-1) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-2) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-3) |
@@ -81,6 +82,8 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 | --- | --- | --- | 
 
 ---
+ 
+ ### Punjabi Matra - Video Lessons in English
  
  **Video Lessons for Matra (ਮਾਤਰਾ) - *By 88diljam channel**  
  Matra Lessons (2-5 min) are taught in **English**. 
