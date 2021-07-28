@@ -2,7 +2,7 @@
 
 ## Punjabi Matra (ਪੰਜਾਬੀ ਮਾਤਰਾ)
 
-Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Matra-Goals)** here.
+
 
 ### Resources for learning Punjabi Matra
 
@@ -17,12 +17,10 @@ Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/
 ----
  
 ### Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) Review
-Please check **[Level 1](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** for all the materials related to Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) including Punjabi Alphabets worksheets.
+Please check **[Punjabi_Alphabets](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** for all the related materials including Punjabi Alphabets (ਪੈਂਤੀ ਅੱਖਰ) worksheets.
 
 [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)  
 Click Shuffle and practice recognizing the Punjabi Alphabets.
-
-[Alphabet identification Game](http://www.learnpunjabi.org/balloonGames/balloon-game1-slow.html)
 
 ---
 
@@ -35,10 +33,10 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  
 ### Punjabi Matra - Video Lessons
  
- [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/VideoLessons_DollyKaur)  
+ [Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)](https://amardeep0.github.io/learnPunjabi/Matra/VideoLessons_DollyKaur)  
  Matra Lessons are explained im Punjabi 
  
- [Video Lessons for Matra (ਮਾਤਰਾ)](https://amardeep0.github.io/learnPunjabi/Level_2-3_Matra/MatraLessonsBy-88diljam) - *By 88diljam channel*  
+ [Video Lessons for Matra (ਮਾਤਰਾ)](https://amardeep0.github.io/learnPunjabi/Matra/MatraLessonsBy-88diljam) - *By 88diljam channel*  
  Matra Lessons (2-5 min) are taught in English. 
  
  ---
