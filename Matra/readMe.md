@@ -38,7 +38,8 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
   
  ----
  
-### Punjabi Matra - Video Lessons in Punjabi (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) - * Parwinder (Dolly) Kaur *
+### Punjabi Matra - Video Lessons in Punjabi  
+(ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) - *by Parwinder (Dolly) Kaur*
  
  Matra Lessons are explained in **Punjabi** 
  
@@ -87,7 +88,8 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 
 
-### Punjabi Matra - Video Lessons for Matra (ਮਾਤਰਾ)  in English - *By 88diljam channel*
+### Punjabi Matra - Video Lessons for Matra (ਮਾਤਰਾ)  in English  
+*By 88diljam channel*
   
  Matra Lessons (2-5 min) are taught in **English**. 
 
