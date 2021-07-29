@@ -38,12 +38,9 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
   
  ----
  
-### Punjabi Matra - Video Lessons in Punjabi
- 
- *Video Lessons by Parwinder (Dolly) Kaur (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)*
+### Punjabi Matra - Video Lessons in Punjabi (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) - * Parwinder (Dolly) Kaur *
  
  Matra Lessons are explained in **Punjabi** 
- 
  
 #### Muharni Lessons
 
@@ -88,14 +85,12 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=wM4k50hUHiA " target="_blank"><img src="http://img.youtube.com/vi/wM4k50hUHiA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ICQYHoiPibM " target="_blank"><img src="http://img.youtube.com/vi/ICQYHoiPibM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zmJT9Q0KjrU " target="_blank"><img src="http://img.youtube.com/vi/zmJT9Q0KjrU/0.jpg" width="120" height="90" /></a> | 
 | --- | --- | --- | 
 
-----
 
-### Punjabi Matra - Video Lessons in English
+
+### Punjabi Matra - Video Lessons for Matra (ਮਾਤਰਾ)  in English - *By 88diljam channel*
   
- *Video Lessons for Matra (ਮਾਤਰਾ) - By 88diljam channel*
- 
  Matra Lessons (2-5 min) are taught in **English**. 
- 
+
  
 #### Kanna Matra (ਕੰਨਾ ਮਾਤਰਾ)
 
@@ -226,20 +221,17 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 | --- | --- | --- | --- |
 
  
- ---
- 
- 
- 
- ----
 ### Books for learning Punjabi Matra
 
-**[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** - set of 5 books for Levels 1-4
+**[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** 
+
+**[Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books)** 
 
 Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
 
 |Punjabi Matra Books (ਪੰਜਾਬੀ ਮਾਤਰਾਂ ਸਿੱਖਣ ਲਈ ਕਿਤਾਬਾਂ)  | Books Topics (ਕਿਤਾਬਾਂ ਦੇ ਵਿਸ਼ੇ) |
 | --- | --- |
-| 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Punjabi Vocabulary (Names of Colors, fruits, seasons, birds and animals) Poems, Tell story with Pictures, Punjabi Alphabets, Punjabi Matra lessons. ਪੰਜਾਬੀ ਸ਼ਬਦਾਵਲੀ (ਰੰਗਾਂ, ਫਲਾਂ, ਰੁੱਤਾਂ, ਪੰਛੀਆਂ ਅਤੇ ਜਾਨਵਰਾਂ ਦੇ ਨਾਮ) ਬਾਲ ਗੀਤ, ਤਸਵੀਰਾਂ ਨਾਲ ਕਹਾਣੀ ਸੁਣਾਓ, ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ |
+| 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf) | Punjabi Vocabulary (Names of Colors, fruits, seasons, birds and animals) Poems, Tell story with Pictures, Punjabi Alphabets, **Punjabi Matra lessons (Page No. 68-126)**. ਪੰਜਾਬੀ ਸ਼ਬਦਾਵਲੀ (ਰੰਗਾਂ, ਫਲਾਂ, ਰੁੱਤਾਂ, ਪੰਛੀਆਂ ਅਤੇ ਜਾਨਵਰਾਂ ਦੇ ਨਾਮ) ਬਾਲ ਗੀਤ, ਤਸਵੀਰਾਂ ਨਾਲ ਕਹਾਣੀ ਸੁਣਾਓ, ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ |
 | --- | --- |
 | 2. [ਸੌਖੀ ਪੰਜਾਬੀ-1 – Panjabi Made Easy (Book 1)](http://www.discoversikhism.com/sikh_library/learn/panjabi_made_easy-book_1.html) | Punjabi Alphabets, Matra Lessons with sentences and Vocabulary Lists. ਪੈਂਤੀ ਅੱਖਰ, ਸਾਰੀਆਂ ਪੰਜਾਬੀ ਮਾਤਰਾ ਦੇ ਪਾਠ | 
 | --- | --- |
