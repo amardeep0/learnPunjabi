@@ -229,8 +229,6 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
  ---
  
  
- [Please review words for all the Matras](https://amardeep0.github.io/learnPunjabi/Matra/Punjabi-Pustak-1(1st-Language)) 
- 
  
  ----
 ### Books for learning Punjabi Matra
