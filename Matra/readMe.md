@@ -229,7 +229,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 **[Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books)** 
 
-Following is a list of some of the online books for reading. You can choose the books based on relevant content and your preference. 
+Following is a list of some of the online books for learning Punjabi Matra, vocabulary words and sentences.  
 
 |Punjabi Matra Books (ਪੰਜਾਬੀ ਮਾਤਰਾਂ ਸਿੱਖਣ ਲਈ ਕਿਤਾਬਾਂ)  | Books Topics (ਕਿਤਾਬਾਂ ਦੇ ਵਿਸ਼ੇ) |
 | --- | --- |
