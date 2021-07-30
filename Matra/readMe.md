@@ -12,7 +12,7 @@
   
   **3. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-punjabi)**
   
-  **4. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-english)**
+  **4. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-for-matra-ਮਾਤਰਾ--in-english)**
   
   **5. [Books for learning Punjabi Matra](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
   
