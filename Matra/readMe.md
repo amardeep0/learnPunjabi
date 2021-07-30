@@ -88,7 +88,7 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 
 
-### Punjabi Matra - Video Lessons for Matra (ਮਾਤਰਾ)  in English  
+### Punjabi Matra - Video Lessons for Matra in English  
 *By 88diljam channel*
   
  Matra Lessons (2-5 min) are taught in **English**. 
