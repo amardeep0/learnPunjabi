@@ -32,7 +32,7 @@ Videos of every day conversations from this course will help learning Colloquial
 
 --------------
 
-  ### Punjabi Dictionaries
+###  Punjabi Dictionaries
   
    **1. [ShabadKosh English-Punjabi Dictionary](https://www.shabdkosh.com/dictionary/english-punjabi/)**  
    **2. [Tamilcube-English-Punjabi Dictionary](http://dictionary.tamilcube.com/punjabi-dictionary.aspx)**  
@@ -41,11 +41,11 @@ Videos of every day conversations from this course will help learning Colloquial
    **4. [Online Punjabi-English Dictionary](http://dic.learnpunjabi.org/default.aspx)**
         
  
- ###  [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) 
+###  [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) 
  
- ###  [Punjabi Grammar](https://amardeep0.github.io/learnPunjabi/Punjabi_Grammar)**  
+###  [Punjabi Grammar](https://amardeep0.github.io/learnPunjabi/Punjabi_Grammar)
 
- ###  [Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics)**  
+###  [Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics)
 
    
 
