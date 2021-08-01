@@ -10,7 +10,7 @@
   
   **2. [Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
   
-  **3. [Read Punjabi words](https://amardeep0.github.io/learnPunjabi/Matra/#Read Punjabi words)**
+  **3. [Read Punjabi words](https://amardeep0.github.io/learnPunjabi/Matra/#read-punjabi-words)**
   
   **4. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-punjabi)**
   
