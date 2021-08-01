@@ -10,15 +10,17 @@
   
   **2. [Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
   
-  **3. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-punjabi)**
+  **3. [Read Mukta & Matra words](https://amardeep0.github.io/learnPunjabi/Matra/# )**
   
-  **4. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-for-matra-in-english)**
+  **4. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-punjabi)**
   
-  **5. [Books for learning Punjabi Matra](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
+  **5. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-for-matra-in-english)**
   
-  **6. [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-vocabulary)**
+  **6. [Books for learning Punjabi Matra](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
   
-  **7. [Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Matra/#listening-and-speaking)**
+  **7. [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-vocabulary)**
+  
+  **8. [Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Matra/#listening-and-speaking)**
 
 
 ----
@@ -38,6 +40,11 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
   
  ----
  
+### Read Mukta & Matra words
+
+**[PSEB book - Punjabi-Pustak-1](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)** - Matra lessons are on Pages 68-126.  
+More books are listed **[here](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
+
 ### Punjabi Matra - Video Lessons in Punjabi  
 (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) - *by Parwinder (Dolly) Kaur*
  
