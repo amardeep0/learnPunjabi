@@ -10,7 +10,7 @@
   
   **2. [Read and Listen to Muharni](https://amardeep0.github.io/learnPunjabi/Matra/#read-and-listen-to-muharni-ਮੁਹਾਰਨੀ-ਪੜੋ-ਅਤੇ-ਸੁਣੋ)**
   
-  **3. [Read Mukta & Matra words](https://amardeep0.github.io/learnPunjabi/Matra/# )**
+  **3. [Read Mukta & Matra words](https://amardeep0.github.io/learnPunjabi/Matra/#read-mukta--matra-words)**
   
   **4. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-punjabi)**
   
@@ -40,9 +40,11 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
   
  ----
  
-### Read Mukta & Matra words
+### Read Punjabi words (Mukta & Matra)
 
-**[PSEB book - Punjabi-Pustak-1](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)** - Matra lessons are on Pages 68-126.  
+**[PSEB book - Punjabi-Pustak-1](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)** - Matra lessons are on **Pages 68-126** of this book.  
+**[Gurmukhi Word Lists](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)**
+
 More books are listed **[here](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
 
 ### Punjabi Matra - Video Lessons in Punjabi  
