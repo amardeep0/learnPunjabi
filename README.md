@@ -1,9 +1,5 @@
-**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | **[Give Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfrh667ADTuh5_v3qjqEfQYPzgEhD5dTyPmQ7E3y3a-bQ3fBQ/viewform?usp=sf_link)** |
+**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | ***[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)*** | ***[Punjabi Grammar](https://amardeep0.github.io/learnPunjabi/Punjabi_Grammar)*** | ***[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics)*** | ***[Give Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfrh667ADTuh5_v3qjqEfQYPzgEhD5dTyPmQ7E3y3a-bQ3fBQ/viewform?usp=sf_link)*** |
 
----------------------------------------------------------------------------------
-| ***[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)*** | ***[Punjabi Grammar](https://amardeep0.github.io/learnPunjabi/Punjabi_Grammar)*** | ***[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics)*** |
-
----------------------------------------------------------------------------------
 
 
 There are a large number of free online resources (Books, Websites and YouTube videos) for learning **[Punjabi](https://www.omniglot.com/writing/punjabi.htm)**. This is a guide for some of the Punjabi language online resources to help anyone to learn Punjabi. 
