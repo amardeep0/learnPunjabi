@@ -10,7 +10,7 @@
    
    - [Learn Punjabi Grammar - Punjabi University, Patiala](http://www.learnpunjabi.org/Noun.html) 
 
-   - [Overview of Punjabi Grammar](http://punjabi.aglsoft.com/punjabi/learngrammar/)
+   - [Overview of Punjabi Grammar](http://punjabi.aglsoft.com/learngrammar/?show=introduction)
    
 ###  Grammar Books
 
