@@ -1,10 +1,12 @@
-**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | ***[Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary)*** | ***[Punjabi Grammar](https://amardeep0.github.io/learnPunjabi/Punjabi_Grammar)*** | ***[Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics)*** | ***[Give Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfrh667ADTuh5_v3qjqEfQYPzgEhD5dTyPmQ7E3y3a-bQ3fBQ/viewform?usp=sf_link)*** |
+**[Home](https://amardeep0.github.io/learnPunjabi/)** | **[Punjabi Alphabets (Penti_Akhar)](https://amardeep0.github.io/learnPunjabi/Punjabi_Alphabets/)** | **[Punjabi Matra (Vowels)](https://amardeep0.github.io/learnPunjabi/Matra/)** | **[Punjabi Reading Writing](https://amardeep0.github.io/learnPunjabi/Reading-Writing/)** | **[World_Language Competency Testing](https://amardeep0.github.io/learnPunjabi/WorldLanguageCompetencyTesting/)** | **[Give Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfrh667ADTuh5_v3qjqEfQYPzgEhD5dTyPmQ7E3y3a-bQ3fBQ/viewform?usp=sf_link)** |
 
 
+### List of online resources to learn Punjabi Language
 
 There are a large number of free online resources (Books, Websites and YouTube videos) for learning **[Punjabi](https://www.omniglot.com/writing/punjabi.htm)**. This is a guide for some of the Punjabi language online resources to help anyone to learn Punjabi. 
 
-### List of online resources to learn Punjabi Language
+
+###  Websites
 
 - [Let's learn Punjabi](http://www.learnpunjabi.org/intro1.asp) - Reserach centre for Punjabi Language Technology, Punjabi University, Patiala.
 
@@ -31,15 +33,14 @@ There are a large number of free online resources (Books, Websites and YouTube v
 Videos of every day conversations from this course will help learning Colloquial Panjabi and experience of Punjab culture.
 
 
---------------
-
 ###  Punjabi Dictionaries
   
-   **1. [ShabadKosh English-Punjabi Dictionary](https://www.shabdkosh.com/dictionary/english-punjabi/)**  
-   **2. [Tamilcube-English-Punjabi Dictionary](http://dictionary.tamilcube.com/punjabi-dictionary.aspx)**  
-   **3. [Glosbe English-Punjabi Dictionary](https://glosbe.com/en/pa)**
+   -  **[ShabadKosh English-Punjabi Dictionary](https://www.shabdkosh.com/dictionary/english-punjabi/)**  
+   -  **[Tamilcube-English-Punjabi Dictionary](http://dictionary.tamilcube.com/punjabi-dictionary.aspx)**  
+   -  **[Glosbe English-Punjabi Dictionary](https://glosbe.com/en/pa)**
+   
   
-   **4. [Online Punjabi-English Dictionary](http://dic.learnpunjabi.org/default.aspx)**
+   -  **[Online Punjabi-English Dictionary](http://dic.learnpunjabi.org/default.aspx)**
         
  
 ###  [Punjabi Vocabulary](https://amardeep0.github.io/learnPunjabi/Punjabi_Vocabulary) 
@@ -48,7 +49,10 @@ Videos of every day conversations from this course will help learning Colloquial
 
 ###  [Listening and Speaking](https://amardeep0.github.io/learnPunjabi/Listening_and_Speaking_Topics)
 
-   
+
+
+
+  
 
 
 
