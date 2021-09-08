@@ -50,7 +50,7 @@
 
 | PSL6A_Lesson-9 | PSL6A_Lesson-10 | PSL6A_Lesson-11 | PSL6A_Lesson-12 |
 | --- | --- | --- | --- |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=JyfplOaCX70 " target="_blank"><img src="http://img.youtube.com/vi/JyfplOaCX70/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=K_ZphmgfmHU " target="_blank"><img src="http://img.youtube.com/vi/K_ZphmgfmHU/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Cml6x8JWDDM " target="_blank"><img src="http://img.youtube.com/vi/Cml6x8JWDDM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=armg0xeKOKI " target="_blank"><img src="http://img.youtube.com/vi/TdQUU0KrQDk/armg0xeKOKI.jpg" width="120" height="90" /></a> |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=JyfplOaCX70 " target="_blank"><img src="http://img.youtube.com/vi/JyfplOaCX70/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=K_ZphmgfmHU " target="_blank"><img src="http://img.youtube.com/vi/K_ZphmgfmHU/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Cml6x8JWDDM " target="_blank"><img src="http://img.youtube.com/vi/Cml6x8JWDDM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=armg0xeKOKI " target="_blank"><img src="http://img.youtube.com/vi/armg0xeKOKI.jpg" width="120" height="90" /></a> |
 
 | PSL6A_Lesson-13 | PSL6A_Lesson-14 | PSL6A_Lesson-15 | PSL6A_Lesson-16 |
 | --- | --- | --- | --- |
