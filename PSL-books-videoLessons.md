@@ -4,7 +4,7 @@
 *Video Lessons of Stepping Stones PSL instructional books*
 
 
-### PSL-5A book
+## Punjabi Reader-5A (2020 Ed.) 
 
 | PSL5A_Lesson-1 | PSL5A_Lesson-2 | PSL5A_Lesson-3 | PSL5A_Lesson-4 |
 | --- | --- | --- | --- |
@@ -38,7 +38,7 @@
 ------
 
 
-### PSL-6A book
+## Punjabi Reader-6A (2020 Ed.) 
 
 | PSL6A_Lesson-1 | PSL6A_Lesson-2 | PSL6A_Lesson-3 | PSL6A_Lesson-4 |
 | --- | --- | --- | --- |
@@ -48,11 +48,30 @@
 | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=YokK-85gRFY " target="_blank"><img src="http://img.youtube.com/vi/YokK-85gRFY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=2ygXToj2wjE " target="_blank"><img src="http://img.youtube.com/vi/2ygXToj2wjE/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=TWZs9f46Xx8 " target="_blank"><img src="http://img.youtube.com/vi/TWZs9f46Xx8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=TdQUU0KrQDk " target="_blank"><img src="http://img.youtube.com/vi/TdQUU0KrQDk/0.jpg" width="120" height="90" /></a> |
 
+| PSL6A_Lesson-9 | PSL6A_Lesson-10 | PSL6A_Lesson-11 | PSL6A_Lesson-12 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=JyfplOaCX70 " target="_blank"><img src="http://img.youtube.com/vi/JyfplOaCX70/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=K_ZphmgfmHU " target="_blank"><img src="http://img.youtube.com/vi/K_ZphmgfmHU/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Cml6x8JWDDM " target="_blank"><img src="http://img.youtube.com/vi/Cml6x8JWDDM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=armg0xeKOKI " target="_blank"><img src="http://img.youtube.com/vi/TdQUU0KrQDk/armg0xeKOKI.jpg" width="120" height="90" /></a> |
+
+| PSL6A_Lesson-13 | PSL6A_Lesson-14 | PSL6A_Lesson-15 | PSL6A_Lesson-16 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=DmO5PpbujWM " target="_blank"><img src="http://img.youtube.com/vi/DmO5PpbujWM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=GA4l8Hne6G8 " target="_blank"><img src="http://img.youtube.com/vi/GA4l8Hne6G8/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Bxuz2nqoo_M " target="_blank"><img src="http://img.youtube.com/vi/Bxuz2nqoo_M/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I3mDDQUimR4 " target="_blank"><img src="http://img.youtube.com/vi/I3mDDQUimR4/0.jpg" width="120" height="90" /></a> |
+
+| PSL6A_Lesson-17 | PSL6A_Lesson-18 | PSL6A_Lesson-19 | PSL6A_Lesson-20 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=eCoAjQUIwIQ " target="_blank"><img src="http://img.youtube.com/vi/eCoAjQUIwIQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=c-CLO_A8kGk " target="_blank"><img src="http://img.youtube.com/vi/c-CLO_A8kGk/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=W-MO1F4paYE " target="_blank"><img src="http://img.youtube.com/vi/W-MO1F4paYE/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=TfUn-Ff23kU " target="_blank"><img src="http://img.youtube.com/vi/TfUn-Ff23kU/0.jpg" width="120" height="90" /></a> |
+
+| PSL6A_Lesson-21 | PSL6A_Lesson-22 | PSL6A_Lesson-23 | PSL6A_Lesson-24 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=BiLKtlTQmvY " target="_blank"><img src="http://img.youtube.com/vi/BiLKtlTQmvY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=8OrWN6DzxbQ " target="_blank"><img src="http://img.youtube.com/vi/8OrWN6DzxbQ/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Va92-iW91Eo " target="_blank"><img src="http://img.youtube.com/vi/Va92-iW91Eo/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Z7IP71Cc00w " target="_blank"><img src="http://img.youtube.com/vi/Z7IP71Cc00w/0.jpg" width="120" height="90" /></a> |
+
+| PSL6A_Lesson-25 | PSL6A_Lesson-26 | PSL6A_Lesson-27 | PSL6A_Lesson-28 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=3e695wNmkAE " target="_blank"><img src="http://img.youtube.com/vi/3e695wNmkAE/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0LVgJcdpS9s " target="_blank"><img src="http://img.youtube.com/vi/0LVgJcdpS9s/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=NBfQzlLhO4E " target="_blank"><img src="http://img.youtube.com/vi/NBfQzlLhO4E/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=o3vlN_GVNgU " target="_blank"><img src="http://img.youtube.com/vi/o3vlN_GVNgU/0.jpg" width="120" height="90" /></a> |
 
 ------
 
 
-### PSL-7A book
+### Punjabi Reader-7A (2020 Ed.) 
 
 | PSL7A_Lesson-1 | PSL7A_Lesson-2 | PSL7A_Lesson-3 | PSL7A_Lesson-4 |
 | --- | --- | --- | --- |
