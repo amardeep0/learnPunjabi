@@ -81,5 +81,20 @@
 | --- | --- | --- | --- |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=Jgl_om3YZ0o " target="_blank"><img src="http://img.youtube.com/vi/Jgl_om3YZ0o/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=8DkKW8aXsNE " target="_blank"><img src="http://img.youtube.com/vi/8DkKW8aXsNE/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=SrKEx-HV31U " target="_blank"><img src="http://img.youtube.com/vi/SrKEx-HV31U/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=fDDG-IuOu60 " target="_blank"><img src="http://img.youtube.com/vi/fDDG-IuOu60/0.jpg" width="120" height="90" /></a> |
 
+| PSL7A_Lesson-9 | PSL7A_Lesson-10 | PSL7A_Lesson-11 | PSL7A_Lesson-12 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=7ls58XhFdns " target="_blank"><img src="http://img.youtube.com/vi/7ls58XhFdns/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=dfVClg24q-o " target="_blank"><img src="http://img.youtube.com/vi/dfVClg24q-o/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ogEZ_np7K3w " target="_blank"><img src="http://img.youtube.com/vi/ogEZ_np7K3w/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=HEUyUnGT11w " target="_blank"><img src="http://img.youtube.com/vi/HEUyUnGT11w/0.jpg" width="120" height="90" /></a> |
+
+| PSL7A_Lesson-13 | PSL7A_Lesson-14 | PSL7A_Lesson-15 | PSL7A_Lesson-16 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=TV8wp1hVXmA " target="_blank"><img src="http://img.youtube.com/vi/TV8wp1hVXmA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=9ds-veNApOQ " target="_blank"><img src="http://img.youtube.com/vi/9ds-veNApOQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=knrHswaAxKs " target="_blank"><img src="http://img.youtube.com/vi/knrHswaAxKs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=jrJ-Rw2OFME " target="_blank"><img src="http://img.youtube.com/vi/jrJ-Rw2OFME/0.jpg" width="120" height="90" /></a> |
+
+| PSL7A_Lesson-17 | PSL7A_Lesson-18 | PSL7A_Lesson-19 | PSL7A_Lesson-20 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=TKA0QF9OK0U " target="_blank"><img src="http://img.youtube.com/vi/TKA0QF9OK0U/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=bSd35IkAewQ " target="_blank"><img src="http://img.youtube.com/vi/bSd35IkAewQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=vjCujxgSpWY " target="_blank"><img src="http://img.youtube.com/vi/vjCujxgSpWY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=J3YzloT1Bwk " target="_blank"><img src="http://img.youtube.com/vi/J3YzloT1Bwk/0.jpg" width="120" height="90" /></a> |
+
+| PSL7A_Lesson-21 |  |  |  |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=7m08I8cRyvQ " target="_blank"><img src="http://img.youtube.com/vi/7m08I8cRyvQ/0.jpg" width="120" height="90" /></a> |  |  |  |
 
 
