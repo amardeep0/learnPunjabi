@@ -4,7 +4,7 @@
 *Video Lessons of Stepping Stones PSL instructional books*
 
 
-## Punjabi Reader-5A (2020 Ed.) 
+## Punjabi Reader-5A 
 
 | PSL5A_Lesson-1 | PSL5A_Lesson-2 | PSL5A_Lesson-3 | PSL5A_Lesson-4 |
 | --- | --- | --- | --- |
