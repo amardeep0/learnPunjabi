@@ -2,18 +2,15 @@
 
 ## Reading & Writing
 
-Please see the **[Learning Objectives](https://amardeep0.github.io/learnPunjabi/Reading-Writing-Goals)** here. 
+**Following books and video lessons of Stepping stones Punjabi Reader books series are a great resource to practice Punjabi reading and writing along with Punjabi grammar.**
 
----
+-  [Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books) - set of 8 books
 
-[Stepping Stones PSL instructional books  by Pushpinder Kaur](http://www.tejpublishing.com/books#all_books) - set of 8 books
-
-Please check the video lessons below:
+**Video lessons of Stepping stones Punjabi Reader books:**
 
 -  [Stepping Stones PSL-5A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons)
 -  [Stepping Stones PSL-6A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons)
 -  [Stepping Stones PSL-7A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons)
-
 
 ### Books
 
