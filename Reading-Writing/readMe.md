@@ -8,9 +8,9 @@
 
 **Video lessons of Stepping stones Punjabi Reader books:**
 
--  [Stepping Stones PSL-5A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons)
--  [Stepping Stones PSL-6A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons)
--  [Stepping Stones PSL-7A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons)
+-  [Stepping Stones PSL-5A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons#punjabi-reader-5a)
+-  [Stepping Stones PSL-6A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons#punjabi-reader-6a)
+-  [Stepping Stones PSL-7A-videoLessons](https://amardeep0.github.io/learnPunjabi/PSL-books-videoLessons#punjabi-reader-7a)
 
 ### Books
 
