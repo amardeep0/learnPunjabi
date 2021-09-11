@@ -71,7 +71,7 @@
 ------
 
 
-### Punjabi Reader-7A (2020 Ed.) 
+## Punjabi Reader-7A (2020 Ed.) 
 
 | PSL7A_Lesson-1 | PSL7A_Lesson-2 | PSL7A_Lesson-3 | PSL7A_Lesson-4 |
 | --- | --- | --- | --- |
