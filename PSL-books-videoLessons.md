@@ -38,7 +38,7 @@
 ------
 
 
-## Punjabi Reader-6A (2020 Ed.) 
+## Punjabi Reader-6A 
 
 | PSL6A_Lesson-1 | PSL6A_Lesson-2 | PSL6A_Lesson-3 | PSL6A_Lesson-4 |
 | --- | --- | --- | --- |
@@ -71,7 +71,7 @@
 ------
 
 
-## Punjabi Reader-7A (2020 Ed.) 
+## Punjabi Reader-7A 
 
 | PSL7A_Lesson-1 | PSL7A_Lesson-2 | PSL7A_Lesson-3 | PSL7A_Lesson-4 |
 | --- | --- | --- | --- |
