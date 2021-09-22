@@ -4,6 +4,42 @@
 
 **Video lessons of Stepping stones PSL Punjabi Reader books:**
 
+## Punjabi Reader-4A 
+
+| Punjabi Paragraph Writing Skill | Punjabi Reading-Intermediate Level |  | |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=fGOA6306LCo " target="_blank"><img src="http://img.youtube.com/vi/fGOA6306LCo/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=-ghyv8b2pEA " target="_blank"><img src="http://img.youtube.com/vi/sgrpJgnpXpY/0.jpg" width="120" height="90" /></a>  |  |  |
+
+
+| PSL4A_Lesson-1 | PSL4A_Lesson-2 | PSL4A_Lesson-3 | PSL4A_Lesson-4 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=sgrpJgnpXpY " target="_blank"><img src="http://img.youtube.com/vi/sgrpJgnpXpY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=A7N6LtFfb2E " target="_blank"><img src="http://img.youtube.com/vi/A7N6LtFfb2E/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=IJUK0c2Gr7A " target="_blank"><img src="http://img.youtube.com/vi/IJUK0c2Gr7A/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=A27XSt73Pdc " target="_blank"><img src="http://img.youtube.com/vi/A27XSt73Pdc/0.jpg" width="120" height="90" /></a> |
+
+| PSL4A_Lesson-5 | PSL4A_Lesson-6 | PSL4A_Lesson-7 | PSL4A_Lesson-8 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=nh6YtY1BiVI " target="_blank"><img src="http://img.youtube.com/vi/nh6YtY1BiVI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4EZJk30FM5s " target="_blank"><img src="http://img.youtube.com/vi/4EZJk30FM5s/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=2JqRtLepzWc " target="_blank"><img src="http://img.youtube.com/vi/2JqRtLepzWc/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WiMCAC26gj4 " target="_blank"><img src="http://img.youtube.com/vi/WiMCAC26gj4/0.jpg" width="120" height="90" /></a> |
+
+| PSL4A_Lesson-9 | PSL4A_Lesson-10 | PSL4A_Lesson-11 | PSL4A_Lesson-12 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=X8G1BlVuwo4 " target="_blank"><img src="http://img.youtube.com/vi/X8G1BlVuwo4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=t6iwIJwIyx4 " target="_blank"><img src="http://img.youtube.com/vi/t6iwIJwIyx4/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=7C467DMeuuM " target="_blank"><img src="http://img.youtube.com/vi/7C467DMeuuM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=w1wuUjpsVPs " target="_blank"><img src="http://img.youtube.com/vi/w1wuUjpsVPs/0.jpg" width="120" height="90" /></a> |
+
+| PSL4A_Lesson-13 | PSL4A_Lesson-14 | PSL4A_Lesson-15 | PSL4A_Lesson-16 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=1-kZtvPjSbw " target="_blank"><img src="http://img.youtube.com/vi/1-kZtvPjSbw/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=m690Q2fSE6w " target="_blank"><img src="http://img.youtube.com/vi/m690Q2fSE6w/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=hopzOiqkasI " target="_blank"><img src="http://img.youtube.com/vi/hopzOiqkasI/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ej9hhHQgQuI " target="_blank"><img src="http://img.youtube.com/vi/ej9hhHQgQuI/0.jpg" width="120" height="90" /></a> |
+
+| PSL4A_Lesson-17 | PSL4A_Lesson-18 | PSL4A_Lesson-19 | PSL4A_Lesson-20 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=_J37KVY3z_E " target="_blank"><img src="http://img.youtube.com/vi/_J37KVY3z_E/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=sel1NnwqyIQ " target="_blank"><img src="http://img.youtube.com/vi/sel1NnwqyIQ/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=b9RQzQYZ_Ow " target="_blank"><img src="http://img.youtube.com/vi/b9RQzQYZ_Ow/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=GWQNaUQkluc " target="_blank"><img src="http://img.youtube.com/vi/GWQNaUQkluc/0.jpg" width="120" height="90" /></a> |
+
+| PSL4A_Lesson-21 | PSL4A_Lesson-22 | PSL4A_Lesson-23 | PSL4A_Lesson-24 |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=jNChsY4EuV0 " target="_blank"><img src="http://img.youtube.com/vi/jNChsY4EuV0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=t2IMHcqPcVg " target="_blank"><img src="http://img.youtube.com/vi/t2IMHcqPcVg/0.jpg" width="120" height="90" /></a>  | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qtcFeaq50T8 " target="_blank"><img src="http://img.youtube.com/vi/qtcFeaq50T8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=D0eb7SNKejg " target="_blank"><img src="http://img.youtube.com/vi/D0eb7SNKejg/0.jpg" width="120" height="90" /></a> |
+
+| PSL4A_Lesson-25 |  |  | |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=1pkgMzqEAII " target="_blank"><img src="http://img.youtube.com/vi/1pkgMzqEAII/0.jpg" width="120" height="90" /></a> |   |  |  |
+
+------
 
 ## Punjabi Reader-5A 
 
