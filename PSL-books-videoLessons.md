@@ -6,9 +6,9 @@
 
 ## Punjabi Reader-4A 
 
-| Punjabi Paragraph Writing Skill | Punjabi Reading-Intermediate Level |  | |
+| Punjabi Paragraph Writing Skill |  |  | |
 | --- | --- | --- | --- |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=fGOA6306LCo " target="_blank"><img src="http://img.youtube.com/vi/fGOA6306LCo/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=-ghyv8b2pEA " target="_blank"><img src="http://img.youtube.com/vi/sgrpJgnpXpY/0.jpg" width="120" height="90" /></a>  |  |  |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=fGOA6306LCo " target="_blank"><img src="http://img.youtube.com/vi/fGOA6306LCo/0.jpg" width="120" height="90" /></a> |  |  |  |
 
 
 | PSL4A_Lesson-1 | PSL4A_Lesson-2 | PSL4A_Lesson-3 | PSL4A_Lesson-4 |
