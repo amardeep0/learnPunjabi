@@ -44,9 +44,10 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 -  **[PSEB book - Punjabi-Pustak-1](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)** - Mukta & Matra word lessons are on **Pages 68-126** of this book.  
 -  **[Gurmukhi Word Lists (discoversikhism website)](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)**
--  **[Punjabi Words Lists - pdf)](https://amardeep0.github.io/learnPunjabi/files/Punjabi_allMatraWords_Lists.pdf)** - lists of Mukta, Kanna, Sihari, Bihari, Lavan, Dulavan, Aunkar and Dulankar words.
 
-   More books to review Punjabi words are listed **[here](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
+-  **[Punjabi Words Lists - pdf](https://amardeep0.github.io/learnPunjabi/files/Punjabi_allMatraWords_Lists.pdf)** - lists of Mukta, Kanna, Sihari, Bihari, Lavan, Dulavan, Aunkar and Dulankar words.
+  
+-  *More books to review Punjabi words are listed* [here](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
 
 ### Punjabi Matra - Video Lessons in Punjabi  
 (ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) - *by Parwinder (Dolly) Kaur*
