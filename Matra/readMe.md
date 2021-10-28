@@ -12,9 +12,9 @@
   
   **3. [Read Punjabi words](https://amardeep0.github.io/learnPunjabi/Matra/#read-punjabi-words)**
   
-  **4. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-punjabi)**
+  **4. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-for-matra-in-english)**
   
-  **5. [Punjabi Matra - Video Lessons in English](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-for-matra-in-english)**
+  **5. [Punjabi Matra - Video Lessons in Punjabi](https://amardeep0.github.io/learnPunjabi/Matra/#punjabi-matra---video-lessons-in-punjabi)**
   
   **6. [Books for learning Punjabi Matra](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
   
@@ -35,67 +35,18 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 
 ### Read and Listen to Muharni (ਮੁਹਾਰਨੀ ਪੜੋ ਅਤੇ ਸੁਣੋ)
 
-  - **[Muharni-1](http://www.discoversikhism.com/punjabi/muharni.html)**
-  - **[Muharni-2](http://www.learnpunjabi.org/muharni-slow.html)**
+**[Muharni](http://www.discoversikhism.com/punjabi/muharni.html)**
+ 
   
  ----
  
 ### Read Punjabi words
 
--  **[PSEB book - Punjabi-Pustak-1](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)** - Mukta & Matra word lessons are on **Pages 68-126** of this book.  
--  **[Gurmukhi Word Lists (discoversikhism website)](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)**
-
 -  **[Punjabi Words Lists - pdf](https://amardeep0.github.io/learnPunjabi/files/Punjabi_allMatraWords_Lists.pdf)** - lists of Mukta, Kanna, Sihari, Bihari, Lavan, Dulavan, Aunkar and Dulankar words.
-  
+-  **[PSEB book - Punjabi-Pustak-1](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)** - Mukta & Matra word lessons are on **Pages 68-126** of this book.  
+-  **[Punjabi Word Lists (DiscoverSikhism website)](http://www.discoversikhism.com/punjabi/gurmukhi_word_list.html)**
+
 -  *More books to review Punjabi words are listed* [here](https://amardeep0.github.io/learnPunjabi/Matra/#books-for-learning-punjabi-matra)**
-
-### Punjabi Matra - Video Lessons in Punjabi  
-(ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) - *by Parwinder (Dolly) Kaur*
- 
- Matra Lessons are explained in **Punjabi** 
- 
-#### Muharni Lessons
-
-
-| Muharni Line-1 (ੳ-ਹ) | Muharni Line-2 (ਕ-ਙ) | Muharni Line-3 (ਚ-ਞ) | Muharni Line-4 (ਟ-ਣ) |
-| --- | --- | --- | --- |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=mGow12J5SVM " target="_blank"><img src="http://img.youtube.com/vi/mGow12J5SVM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4CglLjEIaq8 " target="_blank"><img src="http://img.youtube.com/vi/4CglLjEIaq8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6lfVY33_U4 " target="_blank"><img src="http://img.youtube.com/vi/o6lfVY33_U4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=EHuwummorc8 " target="_blank"><img src="http://img.youtube.com/vi/EHuwummorc8/0.jpg" width="120" height="90" /></a> | 
-
-
-| --- | --- | --- | --- |
-| Muharni Line-5 (ਤ-ਨ) | Muharni Line-6 (ਪ-ਮ) | Muharni Line-7 (ਯ-ੜ) |  |
-| --- | --- | --- | --- |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_N8rKr2DqA " target="_blank"><img src="http://img.youtube.com/vi/Y_N8rKr2DqA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qUMB-Z27rxY " target="_blank"><img src="http://img.youtube.com/vi/qUMB-Z27rxY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_0GXVGoED54 " target="_blank"><img src="http://img.youtube.com/vi/_0GXVGoED54/0.jpg" width="120" height="90" /></a> | | 
-| --- | --- | --- | --- |
-
-  
-#### **Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)**
-
-
-| ਮੁਕਤਾ ਸ਼ਬਦ-1 | ਮੁਕਤਾ ਸ਼ਬਦ-2 | ਮੁਕਤਾ ਸ਼ਬਦ-3 |
-| --- | --- | --- | 
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=FBltAweNd_k " target="_blank"><img src="http://img.youtube.com/vi/FBltAweNd_k/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=tCiImR-XKm0 " target="_blank"><img src="http://img.youtube.com/vi/tCiImR-XKm0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qD3w-RJ0DJs " target="_blank"><img src="http://img.youtube.com/vi/qD3w-RJ0DJs/0.jpg" width="120" height="90" /></a> | 
-| --- | --- | --- | 
-
-
-
-#### **Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
-
-
-| Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-1) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-2) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-3) |
-| --- | --- | --- | 
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=qokt6YlJHjQ " target="_blank"><img src="http://img.youtube.com/vi/qokt6YlJHjQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=v3eQuqz7im8 " target="_blank"><img src="http://img.youtube.com/vi/v3eQuqz7im8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4N07bYro1WM " target="_blank"><img src="http://img.youtube.com/vi/4N07bYro1WM/0.jpg" width="120" height="90" /></a> | 
-| --- | --- | --- | 
-
-| Sihari & Bihari Words (ਸਿਹਾਰੀ ਅਤੇ ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) | Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) | Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ | Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ |
-| --- | --- | --- | --- |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=GrsQ7FAKjVs " target="_blank"><img src="http://img.youtube.com/vi/GrsQ7FAKjVs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=D-x3BL3Xfi0 " target="_blank"><img src="http://img.youtube.com/vi/D-x3BL3Xfi0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=cW8x8xYyqeU " target="_blank"><img src="http://img.youtube.com/vi/cW8x8xYyqeU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=HqnZWvTW938 " target="_blank"><img src="http://img.youtube.com/vi/HqnZWvTW938/0.jpg" width="120" height="90" /></a> | 
-| --- | --- | --- | --- |
-
-|Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ) | Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ) | Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ) |
-| --- | --- | --- | 
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=wM4k50hUHiA " target="_blank"><img src="http://img.youtube.com/vi/wM4k50hUHiA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ICQYHoiPibM " target="_blank"><img src="http://img.youtube.com/vi/ICQYHoiPibM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zmJT9Q0KjrU " target="_blank"><img src="http://img.youtube.com/vi/zmJT9Q0KjrU/0.jpg" width="120" height="90" /></a> | 
-| --- | --- | --- | 
 
 
 
@@ -233,7 +184,57 @@ Click Shuffle and practice recognizing the Punjabi Alphabets.
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0-MuCe2rkDo " target="_blank"><img src="http://img.youtube.com/vi/0-MuCe2rkDo/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=BeQiBJM_U-o " target="_blank"><img src="http://img.youtube.com/vi/BeQiBJM_U-o/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I5TbOJVvM64 " target="_blank"><img src="http://img.youtube.com/vi/I5TbOJVvM64/0.jpg" width="120" height="90" /></a> |
 | --- | --- | --- | --- |
 
+
+### Punjabi Matra - Video Lessons in Punjabi  
+(ਮੁਹਾਰਨੀ, ਮੁਕਤਾ ਅਤੇ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) - *by Parwinder (Dolly) Kaur*
  
+ Matra Lessons are explained in **Punjabi** 
+ 
+#### Muharni Lessons
+
+
+| Muharni Line-1 (ੳ-ਹ) | Muharni Line-2 (ਕ-ਙ) | Muharni Line-3 (ਚ-ਞ) | Muharni Line-4 (ਟ-ਣ) |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=mGow12J5SVM " target="_blank"><img src="http://img.youtube.com/vi/mGow12J5SVM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4CglLjEIaq8 " target="_blank"><img src="http://img.youtube.com/vi/4CglLjEIaq8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6lfVY33_U4 " target="_blank"><img src="http://img.youtube.com/vi/o6lfVY33_U4/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=EHuwummorc8 " target="_blank"><img src="http://img.youtube.com/vi/EHuwummorc8/0.jpg" width="120" height="90" /></a> | 
+
+
+| --- | --- | --- | --- |
+| Muharni Line-5 (ਤ-ਨ) | Muharni Line-6 (ਪ-ਮ) | Muharni Line-7 (ਯ-ੜ) |  |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_N8rKr2DqA " target="_blank"><img src="http://img.youtube.com/vi/Y_N8rKr2DqA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qUMB-Z27rxY " target="_blank"><img src="http://img.youtube.com/vi/qUMB-Z27rxY/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_0GXVGoED54 " target="_blank"><img src="http://img.youtube.com/vi/_0GXVGoED54/0.jpg" width="120" height="90" /></a> | | 
+| --- | --- | --- | --- |
+
+  
+#### **Mukta words (ਮੁਕਤਾ ਸ਼ਬਦ)**
+
+
+| ਮੁਕਤਾ ਸ਼ਬਦ-1 | ਮੁਕਤਾ ਸ਼ਬਦ-2 | ਮੁਕਤਾ ਸ਼ਬਦ-3 |
+| --- | --- | --- | 
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=FBltAweNd_k " target="_blank"><img src="http://img.youtube.com/vi/FBltAweNd_k/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=tCiImR-XKm0 " target="_blank"><img src="http://img.youtube.com/vi/tCiImR-XKm0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=qD3w-RJ0DJs " target="_blank"><img src="http://img.youtube.com/vi/qD3w-RJ0DJs/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | 
+
+
+
+#### **Matra (ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ)**
+
+
+| Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-1) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-2) | Kanna Words (ਕੰਨਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ-3) |
+| --- | --- | --- | 
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=qokt6YlJHjQ " target="_blank"><img src="http://img.youtube.com/vi/qokt6YlJHjQ/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=v3eQuqz7im8 " target="_blank"><img src="http://img.youtube.com/vi/v3eQuqz7im8/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=4N07bYro1WM " target="_blank"><img src="http://img.youtube.com/vi/4N07bYro1WM/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | 
+
+| Sihari & Bihari Words (ਸਿਹਾਰੀ ਅਤੇ ਬਿਹਾਰੀ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) | Lavan & Dulavan Words (ਲਾਂਵਾਂ ਅਤੇ ਦੁਲਾਂਵਾਂ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ) | Aunkar & Dulankar Words (ਔਂਕੜ ਅਤੇ ਦੁਲੈਂਕੜ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ | Hora & Kanoura Words (ਹੋੜਾ ਅਤੇ ਕਨੌਂੜਾ ਮਾਤਰਾ ਵਾਲੇ ਸ਼ਬਦ |
+| --- | --- | --- | --- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=GrsQ7FAKjVs " target="_blank"><img src="http://img.youtube.com/vi/GrsQ7FAKjVs/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=D-x3BL3Xfi0 " target="_blank"><img src="http://img.youtube.com/vi/D-x3BL3Xfi0/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=cW8x8xYyqeU " target="_blank"><img src="http://img.youtube.com/vi/cW8x8xYyqeU/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=HqnZWvTW938 " target="_blank"><img src="http://img.youtube.com/vi/HqnZWvTW938/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | --- |
+
+|Adhak Words (ਅੱਧਕ ਵਾਲੇ ਸ਼ਬਦ) | Tippi Words (ਟਿੱਪੀ ਵਾਲੇ ਸ਼ਬਦ) | Bindi Words (ਬਿੰਦੀ ਵਾਲੇ ਸ਼ਬਦ) |
+| --- | --- | --- | 
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=wM4k50hUHiA " target="_blank"><img src="http://img.youtube.com/vi/wM4k50hUHiA/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=ICQYHoiPibM " target="_blank"><img src="http://img.youtube.com/vi/ICQYHoiPibM/0.jpg" width="120" height="90" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=zmJT9Q0KjrU " target="_blank"><img src="http://img.youtube.com/vi/zmJT9Q0KjrU/0.jpg" width="120" height="90" /></a> | 
+| --- | --- | --- | 
+
+
+
 ### Books for learning Punjabi Matra
 
 **[Learn Gurmukhi by Parwinder Kaur](http://learngurmukhi.com/)** 
