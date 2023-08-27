@@ -32,7 +32,7 @@ Review [*Punjabi vocabulary words*](https://amardeep0.github.io/learnPunjabi/Pun
 
 Following is a list of some of the online books for reading comprehension. 
 
-  1. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(First-Language)-XV.pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-7-(First-Language)-XV.pdf)
+  1. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(First-Language)-XV.pdf](http://files-cdn.pseb.ac.in.s3-website.ap-south-1.amazonaws.com/pseb_files/books-2021-22/Class_7/Punjabi-Pustak-7-Pehli-Bhasha.pdf)
 
   2. [ਪੰਜਾਬੀ ਪੁਸਤਕ - ਸੱਤਵੀਂ ਜਮਾਤ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-7-(2nd-Lang).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-7-(2nd-Lang).pdf)
   
