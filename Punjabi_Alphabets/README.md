@@ -220,7 +220,7 @@ Following is a list of some of the free online books for learning Punjabi Albhab
 | Books Names | Relevant Content |
 | --- | --- |
 | 1. [ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-1(1st-Language).pdf](https://web.archive.org/web/20210811091841/http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Pustak-1(1st-Language).pdf)| Punjabi Alphabets lessons are on Pages 18-67, Vocabulary words, Poems, Tell story with Pictures: Pages 1-17 |
-| 2. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](http://sikhville.org/pdf/Informational/varnmala/Varanmala.pdf) | Punjabi Alphabets (Sikhville) | 
+| 2. [Punjabi Varanmala (ਪੰਜਾਬੀ ਵਰਣਮਾਲਾ)](https://web.archive.org/web/20190219044144/http://sikhville.org/pdf/Informational/varnmala/Varanmala.pdf) | Punjabi Alphabets (Sikhville) | 
 
 
 ### [Scrambled Letters (ਭੁਲਾਂਵੇ ਅੱਖਰ)](http://www.discoversikhism.com/punjabi/gurmukhi_letter_shuffle.html)
