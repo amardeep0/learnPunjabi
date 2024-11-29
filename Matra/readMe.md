@@ -260,7 +260,7 @@ Following is a list of some of the online books for learning Punjabi Matra, voca
 | --- | --- |
 | 6. [Baal Updesh (ਬਾਲ ਉੁਪਦੇਸ਼)](http://www.discoversikhism.com/sikh_library/learn/baal_updesh.html) | Punjabi Alphabets, Matra Lessons with sentences | 
 | --- | --- |
-| 7. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
+| 7. [ਦੂਜੀ ਸ਼੍ਰੇਣੀ (ਪਹਿਲੀ ਭਾਸ਼ਾ) - Punjabi-Pustak-2(1st-Language).pdf](https://web.archive.org/web/20210811091834/http://files-cdn.pseb.ac.in/pseb_files/Punjabi%20Pustak-2.pdf) | Matra Review: Pages 5-32, Vocabulary words: Pages 33-35, Poems & Stories: Pages 37-124 |
 | --- | --- |
 | 8. [ਚੌਥੀ ਸ਼੍ਰੇਣੀ (ਦੂਜੀ ਭਾਸ਼ਾ) - Punjabi-Path-Pustak-4-(2nd-Lang).pdf](https://web.archive.org/web/20210811092755/http://files-cdn.pseb.ac.in/pseb_files/Punjabi-Path-Pustak-4-(2nd-Lang).pdf) | Punjabi Alphabets and Matra  - Pages 1-21  |
 | --- | --- |
