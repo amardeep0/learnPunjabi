@@ -14,10 +14,7 @@ There are a large number of free online resources (Books, Websites and YouTube v
 
 - [Learn Gurmukhi by Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
 
-- [ਪੈਂਤੀ ਅੱਖਰ](http://pantiakhar.com/)
-
 - [Punjabi Class](https://www.youtube.com/playlist?list=PLpejGvuZNTbT-14dtU_kjePyQRprpWGwp) - Collection of approx. 200 videos of Punjabi alphabets, Matra, Punjabi Voacbulary words, Punjabi grammar, Poems, Stories and Application writings.
-
 
 - [Punjabi Gurmukhi And Grammar - Catrack Kids](https://www.youtube.com/playlist?list=PL4G8rJ0IwSQ7_Jzg9JOp6zg8fuhZic5YY)
 
