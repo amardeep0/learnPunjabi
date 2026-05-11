@@ -12,7 +12,9 @@ There are a large number of free online resources (Books, Websites and YouTube v
 
 - [SikhVille](http://sikhville.org/) - portal for kids to learn about sikhi
 
--  [Learn Punjabi With Jagjeet Sir](https://www.youtube.com/c/LearnPunjabiwithJagjeetSir)
+- [PunjabiKidz](https://punjabikidz.com/home/) - Inspiring a love for Punjabi through engaging, bilingual resources.
+
+- [Learn Punjabi With Jagjeet Sir](https://www.youtube.com/c/LearnPunjabiwithJagjeetSir)
   
 - [Learn Gurmukhi by Discoversikhism](http://www.discoversikhism.com/punjabi/punjabi_gurmukhi_alphabet.html)
 
